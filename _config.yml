@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Julien Moeys
+tagline:             'Soil scientist | R programmer | Data analyst'
+description:         'Julien Moeys homepage'
+url:                 http://www.julienmoeys.info
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Julien Moeys
+  url:               http://www.julienmoeys.info
+  email:             contact@julienmoeys.info
+
+# Custom vars
+version:             1.0.0
