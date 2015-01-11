@@ -13,7 +13,7 @@ title:               Julien Moeys
 tagline:             'Soil scientist | R programmer | Data analyst'
 description:         'Julien Moeys homepage'
 url:                 http://julienmoeys.github.io/
-baseurl:             http://julienmoeys.github.io/
+baseurl:             /
 paginate:            5
 
 # About/contact
