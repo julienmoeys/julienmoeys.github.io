@@ -25,3 +25,9 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# Excluded files
+exclude:
+    - en/Publications.md0
+    - en/Publications.R
+    - en/_bib/
