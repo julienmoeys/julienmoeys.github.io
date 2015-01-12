@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About this website
-permalink: About
+title: About
+longtitle: About this website
 ---
 
 Write more details here...
