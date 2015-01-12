@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About this website
+permalink: About
 ---
 
 Write more details here...
@@ -19,6 +20,19 @@ and its theme [Lanyon][] (by [@mdo][mdo])
 The website content is generated from simple text files written 
 with the [markdown][] syntax. The source code is version controlled
 and can be found on my [Github][] repository [julienmoeys.github.io][]
+
+The main reason for adopting Jekyll site generator is that:
+
+*   the generated website is static, and thus much less susceptible 
+    to security vulnerabilities (less than dynamic websites like 
+    Content Management Systems) and does not require PhP or 
+    MySQL to run.
+
+*   the website sources are mostly human readable text files, that 
+    can be version controlled.
+
+*   the website is lightweight and this accessible to most 
+    computers.
 
 
 ### Webhosting

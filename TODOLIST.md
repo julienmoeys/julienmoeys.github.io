@@ -2,11 +2,14 @@
 Things to do
 ============
 
+Populate the website with relevant content!
+
 Site structure
 --------------
 
 (not showing Jekyll files)
 
+<pre><code>
 .
 |
 |-- Index (short introduction)
@@ -30,3 +33,5 @@ Site structure
     |-- Publications 
     |
     +-- Logiciel (Packages R, etc)
+</pre></code>
+
