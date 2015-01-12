@@ -11,9 +11,17 @@ bibFiles <- c( "_bib/MOEYS_J_PUB_PEER.BIB", "_bib/MOEYS_J_PUB_THESIS.BIB" )
 
 # Reference list ================================================
 
+library( "tools" )
+
 if( !require("bibtex") ){ 
     install.packages( "bibtex" ) 
     library( "bibtex" )
+    #   help( pack = "bibtext" ) 
+}   
+
+if( !require("gtools") ){ 
+    install.packages( "gtools" ) 
+    library( "gtools" )
     #   help( pack = "bibtext" ) 
 }   
 
@@ -38,6 +46,8 @@ bibData <- lapply(
             }   
         ) ) 
         
+        out <- ASCIIfy( x = out )
+        
         return( out )
     }   
 )   
@@ -57,6 +67,9 @@ for( iBib in 1:length(bibFiles) ){
         warning( "No tag found for the bibliography" )
     }   
 }   
+
+showNonASCII( x = md )
+#   Should show nothing!
 
 f <- file( description = outFile, open = "w+", encoding = "UTF-8" ) 
 writeLines( text = md, con = f )
