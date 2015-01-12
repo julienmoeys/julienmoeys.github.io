@@ -268,7 +268,7 @@ the [R][] packages [markdown][] and [bibtex][].
 [bash]:             http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29 "Bash (Unix shell)"
 [cron]:             http://en.wikipedia.org/wiki/Cron "cron job scheduler" 
 [LRF]:              http://www.lrf.se/In-English/ "Federation of Swedish Farmers (LRF)"
-[SV]:               http://www.plastkemiforetagen.se/sektorgrupper/svv/ "De svenska växtskyddsföretagens branschförening"
+[SV]:               http://www.plastkemiforetagen.se/sektorgrupper/svv/ "De svenska vÃ¤xtskyddsfÃ¶retagens branschfÃ¶rening"
 
 <!--- R links -->
 [R]:                http://www.r-project.org/ "The R Project for Statistical Computing" 
