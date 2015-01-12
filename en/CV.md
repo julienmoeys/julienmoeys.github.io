@@ -25,7 +25,7 @@ longtitle: Curriculum vitae
 [Publications](#publications) | 
 [Associations](#associations) | [Open Source](#opensource) 
 
-![A field of cereals in spring](_images/20120427_24-c-m2-s_wheat.jpg "A field of cereals in spring")
+![A field of cereals in spring]({{ site.url }}/assets/img/20120427_24-c-m2-s_wheat.jpg "A field of cereals in spring")
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -79,7 +79,7 @@ research software and public data should be _as much as possible_
 cost-free and allowing copy, study, and changes without restrictions 
 other than authors' [attribution][]). 
 
-![Time series of pesticide losses at the landscape scale](_images/timeSeries_IPU_SW_avg-s.jpg "Time series of pesticide losses at the landscape scale")
+![Time series of pesticide losses at the landscape scale]({{ site.url }}/assets/img/timeSeries_IPU_SW_avg-s.jpg "Time series of pesticide losses at the landscape scale")
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Education    <a name="education"></a>
@@ -224,9 +224,6 @@ Open Source    <a name="opensource"></a>
     on lower level [R][] packages [RODBC][], [DBI][] and [RSQlite][];
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Original page created with [markdown syntax][] and generated with 
-the [R][] packages [markdown][] and [bibtex][].
 
 <!--- Links (general) -->
 [AgroParisTech]:    http://www.agroparistech.fr/ "AgroParisTech"
