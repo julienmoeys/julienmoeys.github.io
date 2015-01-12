@@ -11,3 +11,6 @@ than Jekyll and Poole websites).
 *   [Carl Boettiger](http://www.carlboettiger.info) and its e-Lab 
     Notebook (see also https://github.com/cboettig/cboettig.github.io 
     and https://github.com/cboettig/labnotebook)
+
+*   [Joshua Lande](https://github.com/joshualande/joshualande.github.io)
+
