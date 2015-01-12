@@ -178,7 +178,7 @@ Teaching    <a name="teaching"></a>
 Publications    <a name="publications"></a>
 ------------
 
-See the publication list [on this page](Publications/).
+See the publication list [on this page](/en/Publications/).
 
 
 
