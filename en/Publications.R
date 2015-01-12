@@ -46,7 +46,7 @@ bibData <- lapply(
             }   
         ) ) 
         
-        out <- ASCIIfy( x = out )
+        # out <- ASCIIfy( x = out, 1 )
         
         return( out )
     }   
@@ -71,6 +71,8 @@ for( iBib in 1:length(bibFiles) ){
 showNonASCII( x = md )
 #   Should show nothing!
 
-f <- file( description = outFile, open = "w+", encoding = "UTF-8" ) 
+f <- file( description = outFile, open = "wt", encoding = "UTF-8" ) 
 writeLines( text = md, con = f )
+# write( x = md, file = f )
+# cat( paste( md, collapse="\n" ), "\n", sep = "", file = f )
 close( f )
