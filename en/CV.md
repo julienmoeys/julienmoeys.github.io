@@ -1,7 +1,7 @@
 ---
 layout: page_en
 category: en
-title: Vita
+title: CV
 ---
 
 [Google Scholar profile][] 

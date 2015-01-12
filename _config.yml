@@ -31,3 +31,6 @@ exclude:
     - en/Publications.md0
     - en/Publications.R
     - en/_bib/
+    - TODOLIST.md
+    - INSPIRATION.md
+    - README.md 
