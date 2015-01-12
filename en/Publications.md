@@ -2,6 +2,7 @@
 layout: page_en
 category: en
 title: Publications
+longtitle: List of publications
 ---
 
 Julien Moeys publication list. See also [my Google Scholar 

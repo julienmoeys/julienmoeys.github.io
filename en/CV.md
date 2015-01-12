@@ -2,6 +2,7 @@
 layout: page_en
 category: en
 title: CV
+longtitle: Curriculum vitae
 ---
 
 [Google Scholar profile][] 
