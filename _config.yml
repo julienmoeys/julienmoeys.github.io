@@ -15,6 +15,7 @@ description:         'Julien Moeys homepage'
 url:                 http://julienmoeys.github.io/
 baseurl:             /
 paginate:            5
+encoding:            utf-8
 
 # About/contact
 author:
