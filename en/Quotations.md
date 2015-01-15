@@ -105,7 +105,7 @@ Alfred Korzybski
 
 About [Alfred Korzybski](http://en.wikipedia.org/wiki/Alfred_Korzybski).
 
-> the map is not the territory
+> The map is not the territory
 
 1931, meeting of the American Association for the Advancement of 
 Science in New Orleans, Louisiana. See [this Wikipedia 
