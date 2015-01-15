@@ -25,7 +25,7 @@ Maurice Wilkes
 > when I realised that a large part of my life from then on was going 
 > to be spent in finding mistakes in my own programs.
 
-1985. Wilkes, M. V. (1985). Memoirs of a computer pioneer. Cambridge, 
+Wilkes, M. V. (1985). Memoirs of a computer pioneer. Cambridge, 
 Mass: MIT Press. See [this article][MauriceWilkes] of the Daily 
 Telegraph, citing this quotation.
 
