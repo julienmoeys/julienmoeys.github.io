@@ -68,8 +68,12 @@ September 2013, [R fortunes][RFortunes] #356
 Geography and spatial data analysis   <a name="geography"></a>
 ===================================
 
+Alfred Korzybski
+----------------
+
 > the map is not the territory
-_Alfred Korzybski_. (See [this Wikipedia page][mapterritory])
+
+See [this Wikipedia page][mapterritory]
 
 
 
@@ -77,7 +81,7 @@ _Alfred Korzybski_. (See [this Wikipedia page][mapterritory])
 [quotation]:     https://en.wikipedia.org/wiki/Quotation                     "Quotation (Wikipedia)"
 [mapterritory]:  http://en.wikipedia.org/wiki/Map%E2%80%93territory_relation "Map–territory relation (Wikipedia)"
 [MauriceWilkes]: http://www.telegraph.co.uk/news/obituaries/technology-obituaries/8171435/Professor-Sir-Maurice-Wilkes.html "Maurice Wilkes obituary (Daily Telegraph)"
-[SolomonGolomb]: http://dx.doi.org/10.1109/TR.1971.5216113 ""
+[SolomonGolomb]: http://dx.doi.org/10.1109/TR.1971.5216113 "Solomon Golomb Mathematical models: Uses and limitations"
 [KJAstrom]:      http://www.college-de-france.fr/site/gerard-berry/seminar-2014-03-19-17h00.htm
 [RFortunes]:     http://cran.r-project.org/web/packages/fortunes/vignettes/fortunes.pdf "R Fortunes vignette on CRAN" 
 
