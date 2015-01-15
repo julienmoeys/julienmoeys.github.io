@@ -25,6 +25,8 @@ about [Famous statistician quotes][famousStatQuote].
 Ronald Fisher
 -------------
 
+About [Ronald Fisher](http://en.wikipedia.org/wiki/Ronald_Fisher).
+
 > To call in the statistician after the experiment is done may be 
 > no more than asking him to perform a post-mortem examination: 
 > he may be able to say what the experiment died of.
@@ -40,6 +42,8 @@ Informatics   <a name="informatics"></a>
 
 Maurice Wilkes
 --------------
+
+About [Maurice_Wilkes](http://en.wikipedia.org/wiki/Maurice_Wilkes).
 
 > In 1949 as soon as we started programming we found to our surprise 
 > that it wasn’t as easy to get programs right as we had thought. 
