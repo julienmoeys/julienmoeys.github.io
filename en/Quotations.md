@@ -43,7 +43,7 @@ Informatics   <a name="informatics"></a>
 Maurice Wilkes
 --------------
 
-About [Maurice_Wilkes](http://en.wikipedia.org/wiki/Maurice_Wilkes).
+About [Maurice Wilkes](http://en.wikipedia.org/wiki/Maurice_Wilkes).
 
 > In 1949 as soon as we started programming we found to our surprise 
 > that it wasn’t as easy to get programs right as we had thought. 
