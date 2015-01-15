@@ -8,12 +8,12 @@ longtitle: Quotations I like
 This document lists some of the [quotation][]s I like (quotations 
 that are relevant for the work I am doing, or related to science). 
 
-Topics: [Statistics](#stat) | [Informatics](#informatics) | [Geography and spatial data 
+Topics: [Statistics](#stats) | [Informatics](#informatics) | [Geography and spatial data 
 analysis](#geography) 
 
 
 
-Statistics
+Statistics   <a name="stats"></a>
 ==========
 
 The statistics questions and answers site [Cross 
