@@ -67,8 +67,8 @@ About [Gérard Berry](http://en.wikipedia.org/wiki/G%C3%A9rard_Berry).
 
 > Informatics, in the present state a the titanic fight between
 > two absolutely opposite components: [...]
-> The man [here Kepler] who is clever, rigorous [...] and slow. [...]
-> The computer [...] which is superfast, superexact and superstupid.
+> The man [_here Kepler_] who is clever, rigorous [...] and slow. [...]
+> and the computer [...] which is superfast, superexact and superstupid.
 
 Lecture "Getting Rid of Bugs" (2010), from the seminar series "Seven 
 Keys to the Digital Future", Edinburgh, UK, September 23rd-October 
