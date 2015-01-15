@@ -8,8 +8,30 @@ longtitle: Quotations I like
 This document lists some of the [quotation][]s I like (quotations 
 that are relevant for the work I am doing, or related to science). 
 
-Topics: [Informatics](#informatics) | [Geography and spatial data 
-analysis](#geography)
+Topics: [Statistics](#stat) | [Informatics](#informatics) | [Geography and spatial data 
+analysis](#geography) 
+
+
+
+Statistics
+==========
+
+The statistics questions and answers site [Cross 
+Validated](http://stats.stackexchange.com/) has an excellent entry 
+about [Famous statistician quotes][famousStatQuote].
+
+
+
+Ronald Fisher
+-------------
+
+> To call in the statistician after the experiment is done may be 
+> no more than asking him to perform a post-mortem examination: 
+> he may be able to say what the experiment died of.
+
+1938
+
+See the above mentioned page on "Cross Validated".
 
 
 
@@ -119,15 +141,16 @@ by Solomon W. Golomb.
 
 
 <!-- List of links -->
-[quotation]:     https://en.wikipedia.org/wiki/Quotation                     "Quotation (Wikipedia)"
-[mapterritory]:  http://en.wikipedia.org/wiki/Map%E2%80%93territory_relation "Map–territory relation (Wikipedia)"
-[MauriceWilkes]: http://www.telegraph.co.uk/news/obituaries/technology-obituaries/8171435/Professor-Sir-Maurice-Wilkes.html "Maurice Wilkes obituary (Daily Telegraph)"
-[SolomonGolomb]: http://dx.doi.org/10.1109/TR.1971.5216113 "Solomon Golomb Mathematical models: Uses and limitations"
-[KJAstrom]:      http://www.college-de-france.fr/site/gerard-berry/seminar-2014-03-19-17h00.htm
-[RFortunes]:     http://cran.r-project.org/web/packages/fortunes/vignettes/fortunes.pdf "R Fortunes vignette on CRAN" 
-[GettingRid]:    http://www-sop.inria.fr/members/Gerard.Berry/VideosEdinburgh/GETTING_RID_H264_768kbit.mp4 "Getting Rid of Bugs - video (Gérard Berry)"
-[GerardBerry]:   http://www-sop.inria.fr/members/Gerard.Berry/ "Gérard Berry’s Home Page"
-[SevenKeys]:     http://idea.ed.ac.uk/future/ "Seven Keys to the Digital Future (conference)"
-[SevenKeys2]:    http://www.royalsoced.org.uk/cms/files/events/reports/2009-2010/berry_bishop_final.pdf "Seven Keys to the Digital Future (transcript)"
+[quotation]:       https://en.wikipedia.org/wiki/Quotation                     "Quotation (Wikipedia)"
+[mapterritory]:    http://en.wikipedia.org/wiki/Map%E2%80%93territory_relation "Map–territory relation (Wikipedia)"
+[MauriceWilkes]:   http://www.telegraph.co.uk/news/obituaries/technology-obituaries/8171435/Professor-Sir-Maurice-Wilkes.html "Maurice Wilkes obituary (Daily Telegraph)"
+[SolomonGolomb]:   http://dx.doi.org/10.1109/TR.1971.5216113 "Solomon Golomb Mathematical models: Uses and limitations"
+[KJAstrom]:        http://www.college-de-france.fr/site/gerard-berry/seminar-2014-03-19-17h00.htm
+[RFortunes]:       http://cran.r-project.org/web/packages/fortunes/vignettes/fortunes.pdf "R Fortunes vignette on CRAN" 
+[GettingRid]:      http://www-sop.inria.fr/members/Gerard.Berry/VideosEdinburgh/GETTING_RID_H264_768kbit.mp4 "Getting Rid of Bugs - video (Gérard Berry)"
+[GerardBerry]:     http://www-sop.inria.fr/members/Gerard.Berry/ "Gérard Berry’s Home Page"
+[SevenKeys]:       http://idea.ed.ac.uk/future/ "Seven Keys to the Digital Future (conference)"
+[SevenKeys2]:      http://www.royalsoced.org.uk/cms/files/events/reports/2009-2010/berry_bishop_final.pdf "Seven Keys to the Digital Future (transcript)"
+[famousStatQuote]: http://stats.stackexchange.com/questions/726/famous-statistician-quotes "Famous statistician quotes (Cross Validated)"
 
 
