@@ -1,7 +1,7 @@
 ---
 layout: page_en
 category: en
-title: English
+title: _English
 longtitle: Julien Moeys
 ---
 
