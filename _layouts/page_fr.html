@@ -3,6 +3,10 @@ layout: default_fr
 ---
 
 <div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.longtitle != null %}
+    <h1 class="page-title">{{ page.longtitle }}</h1>
+  {% else %}
+    <h1 class="page-title">{{ page.title }}</h1>
+  {% endif %}
   {{ content }}
 </div>
