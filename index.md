@@ -31,6 +31,12 @@ server management).
 If you have time to kill, you can also look at my [picture 
 gallery][jmFlickr] (Flickr).
 
+### Contact
+
+> Julien MOEYS
+> SLU / CKB, Department of Soil and Environment
+> Lennart Hjelms väg 9; box 7014; 750 07 Uppsala, Sweden
+
 
 
 <!-- List of links -->
