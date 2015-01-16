@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Home
 longtitle: Julien Moeys
 ---
@@ -12,14 +12,14 @@ group), at the [Swedish University of Agricultural Sciences
 (SLU)][SLU], in [Uppsala][], Sweden.
 
 I work a lot with the [Centre for Chemical Pesticides (CKB)][CKB], 
-that provides expertise on the environmental impact of pesticides 
+that provides expertise on the **environmental impact of pesticides** 
 used within agriculture to [Swedish stakeholders][CKBRef].
 
-I am the main developer of a regional scale model for estimating 
-the risks of pesticide leaching to surface- and groundwater from 
-arable land in Sweden ([MACRO-SE][]). I have also developed 
-geographical datasets (soil properties, crop area) for environmental 
-modelling in Sweden.
+I am the main developer of a **regional scale model for estimating 
+the risks of pesticide leaching toward surface- and groundwater** 
+from arable land in Sweden ([MACRO-SE][]). I have also developed 
+**geographical datasets** (soil properties, crop area) for pesticide 
+fate modelling in Sweden.
 
 On this website, I present my [curriculum](/en/CV/) and a list of 
 [Publications](/en/Publications/) (also on [Google Scholar][jmScholar]). 
