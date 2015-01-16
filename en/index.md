@@ -34,8 +34,8 @@ gallery][jmFlickr] (Flickr).
 
 ### Contact
 
-> Julien MOEYS
-> SLU / CKB, Department of Soil and Environment
+> Julien MOEYS<br>
+> SLU / CKB, Department of Soil and Environment<br>
 > Lennart Hjelms väg 9; box 7014; 750 07 Uppsala, Sweden
 
 
