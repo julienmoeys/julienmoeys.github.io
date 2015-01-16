@@ -5,7 +5,7 @@ title: _English_
 longtitle: Julien Moeys
 ---
 
-&#91;[Français](/fr/)&#93; 
+&#91;[FranÃ§ais](/fr/)&#93;
 
 I am a research engineer in the department of [Soil and 
 Environment][SLUSoil] ([Biogeophysics and Water Quality][BGFVV] 
