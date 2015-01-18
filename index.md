@@ -1,10 +1,11 @@
 ---
-layout: default
-title: Home
-longtitle: Julien Moeys
+layout    : page_en
+title     : Home
+longtitle : Julien Moeys
+weight    : 1
 ---
 
-&#91;[Français](/fr/)&#93; 
+&#91;[Français](/fr/)&#93;
 
 I am a research engineer in the department of [Soil and 
 Environment][SLUSoil] ([Biogeophysics and Water Quality][BGFVV] 

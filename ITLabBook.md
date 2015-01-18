@@ -1,7 +1,8 @@
 ---
-layout: page_en
-category: en
-title: IT Lab book
+layout    : page_en
+title     : IT Lab book
+longtitle : IT Lab book
+weight    : 4
 ---
 
 This page will contain some notes about IT operations I do for 

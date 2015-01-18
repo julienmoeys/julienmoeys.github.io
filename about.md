@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-longtitle: About this website
+layout    : page_en
+title     : About
+longtitle : About this website
+weight    : 1
 ---
 
 Write more details here...

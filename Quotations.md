@@ -1,8 +1,8 @@
 ---
-layout: page_en
-category: en
-title: Quotations
-longtitle: Quotations I like
+layout    : page_en
+title     : Quotations
+longtitle : Quotations I like
+weight    : 4
 ---
 
 This document lists some of the [quotation][]s I like (quotations 

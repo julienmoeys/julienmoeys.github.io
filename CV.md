@@ -1,8 +1,8 @@
 ---
-layout: page_en
-category: en
-title: CV
-longtitle: Curriculum vitae
+layout    : page_en
+title     : CV
+longtitle : Curriculum vitae
+weight    : 2
 ---
 
 [Google Scholar profile][] 
