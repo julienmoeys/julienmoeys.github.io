@@ -5,6 +5,12 @@ longtitle : Curriculum vitae
 weight    : 2
 ---
 
+[Profile](#profile) | [Education](#education) | 
+[Professional experience](#professionalexperience) | 
+[Programming](#programming) | [Teaching](#teaching) | 
+[Publications](#publications) | [Associations](#associations) | 
+[Open Source](#opensource) 
+
 [Google Scholar profile][] 
 
 *   Modelling **water flow and pesticide fate in soils**; 
@@ -17,13 +23,6 @@ weight    : 2
 
 *   **Programming techniques** ([R][]) for data management 
     and analysis, including geographical datasets;
-
-
-[Profile](#profile) | [Education](#education) | 
-[Professional experience](#professionalexperience) | 
-[Programming](#programming) | [Teaching](#teaching) | 
-[Publications](#publications) | 
-[Associations](#associations) | [Open Source](#opensource) 
 
 ![A field of cereals in spring]({{ site.url }}/assets/img/20120427_24-c-m2-s_wheat.jpg "A field of cereals in spring")
 

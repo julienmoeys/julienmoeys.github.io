@@ -5,10 +5,10 @@ longtitle : Julien Moeys
 weight    : 1
 ---
 
-[Presentation](#presentation) :: [Site content](#sitecontent) :: 
-[Contact](#contact) :: &rarr; [Français](/fr/) 
-
 <img src="assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" align="right"/>
+
+[Presentation](#presentation) | [Site content](#sitecontent) | 
+[Contact](#contact) | &rarr; [Français](/fr/) 
 
 ### Presentation   <a name="presentation"></a>
 
