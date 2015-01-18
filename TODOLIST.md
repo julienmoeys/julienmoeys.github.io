@@ -9,22 +9,28 @@ Site structure
 
 (not showing Jekyll files)
 
-<pre><code>
+<pre><code> <!-- integers indicate weight -->
 .
 |
-|-- Index (short introduction)
+|-- 1. Home/Index (short introduction)
 |
-|-- About (short description + technical info)
+|-- 1. About (short description + technical info)
 |
-|-- en (homepage in English)
-|   |
-|   |-- CV
-|   |
-|   |-- Publications 
-|   |
-|   |-- Software (R packages, etc.)
-|   |
-|   +-- Computer lab book (as a collection of posts?)
+|-- 2. CV
+|
+|-- 2. Publications 
+|
+|-- 3. Software (R packages, etc.)
+|
+|-- 4. ?Useful publications? (Lists of useful publications -- Goog Modelling Practices)
+|
+|-- 4. IT Lab Book (as a collection of posts?)
+|
+|-- 4. Quotations (a collection of quotations I like)
+|
+|-- 4. ?Lexicon? (Swedish / English lexicon of environment-related terms -- personal usage)
+|
+|-- 5. Posts (IT Lab book + Other)
 |
 +-- fr (homepage in French)
     |
