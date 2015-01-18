@@ -8,14 +8,16 @@ weight    : 1
 [Presentation](#presentation) :: [Site content](#sitecontent) :: 
 [Contact](#contact) :: &rarr; [Français](/fr/) 
 
+<img src="assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" align="right"/>
+
 ### Presentation   <a name="presentation"></a>
 
 I am a research engineer in the department 
-of [Soil and Environment][SLUSoil] (**[Biogeophysics and Water Quality][BGFVV] 
-group**), at the [Swedish University of Agricultural Sciences 
+of [Soil and Environment][SLUSoil] ([Biogeophysics and Water Quality][BGFVV] 
+group), at the [Swedish University of Agricultural Sciences 
 (SLU)][SLU], in [Uppsala][], Sweden.
 
-I work a lot with the [Centre for Chemical Pesticides (CKB)][CKB], 
+I work with the [Centre for Chemical Pesticides (CKB)][CKB], 
 that provides expertise on the **environmental impact of pesticides** 
 used within agriculture to [Swedish stakeholders][CKBRef].
 
@@ -29,15 +31,14 @@ fate modelling in Sweden.
 
 ### Site Content   <a name="sitecontent"></a>
 
-On this website, I present my [curriculum](/en/CV/) and a list of 
-[Publications](/en/Publications/) (also on [Google Scholar][jmScholar]). 
-You will (soon) find information on the [software](/en/Software/) 
+On this website, I present my [curriculum](/CV/) and a list of 
+[Publications](/Publications/) (also on [Google Scholar][jmScholar]). 
+You will (soon) find information on the [software](/Software/) 
 I am developing (mostly R packages), and some technical notes in the 
-[IT lab book](/en/ITLabBook/) section (mostly about Ubuntu server 
+[IT lab book](/ITLabBook/) section (mostly about Ubuntu server 
 management).
 
-If you have time to kill, you can also look at my [picture 
-gallery][jmFlickr] (Flickr).
+You may also be interested in my [picture gallery][jmFlickr] (Flickr).
 
 
 
