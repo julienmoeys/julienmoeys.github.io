@@ -17,9 +17,9 @@ of [Soil and Environment][SLUSoil] ([Biogeophysics and Water Quality][BGFVV]
 group), at the [Swedish University of Agricultural Sciences 
 (SLU)][SLU], in [Uppsala][], Sweden.
 
-I work with the [Centre for Chemical Pesticides (CKB)][CKB], 
-that provides expertise on the **environmental impact of pesticides** 
-used within agriculture to [Swedish stakeholders][CKBRef].
+I am part of the [Centre for Chemical Pesticides (CKB)][CKB], 
+that provides expertise to [Swedish stakeholders][CKBRef] on the 
+**environmental impact of pesticides** used within agriculture.
 
 I am the main developer of a **regional scale model for estimating 
 the risks of pesticide leaching toward surface- and groundwater** 
