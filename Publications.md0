@@ -5,6 +5,8 @@ longtitle : List of publications
 weight    : 2
 ---
 
+<!-- INSERT WARNING HERE -->
+
 Julien Moeys publication list. See also [my Google Scholar 
 page][julienGoogleScholar].
 
@@ -16,7 +18,9 @@ page][julienGoogleScholar].
 Publications (peer reviewed)    <a name="publications"></a>
 ----------------------------
 
-_bib/MOEYS_J_PUB_PEER.BIB
+Download the [reference list (bibtext format)](/assets/bib/MOEYS_J_PUB_PEER.BIB).
+
+INSERT assets/bib/MOEYS_J_PUB_PEER.BIB
 
 
 
@@ -25,7 +29,9 @@ _bib/MOEYS_J_PUB_PEER.BIB
 PhD and master thesis    <a name="thesis"></a>
 ---------------------
 
-_bib/MOEYS_J_PUB_THESIS.BIB
+Download the [reference list (bibtext format)](/assets/bib/MOEYS_J_PUB_THESIS.BIB).
+
+INSERT assets/bib/MOEYS_J_PUB_THESIS.BIB
 
 
 
