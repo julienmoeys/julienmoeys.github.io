@@ -20,7 +20,7 @@ Publications (peer reviewed)    <a name="publications"></a>
 
 Download the [reference list (bibtext format)](/assets/bib/MOEYS_J_PUB_PEER.BIB).
 
-1. Steffens K, Jarvis N, Lewan E, Lindström B, Kreuger J, Kjellström E and J. M (2015). “Direct and indirect effects of climate change on herbicide leaching - a regional scale assessment in Sweden.” _Science of the Total Environment_, *in press*, pp. ?-?
+1. Steffens K, Jarvis N, Lewan E, Lindström B, Kreuger J, Kjellström E and **Moeys** J (2015). “Direct and indirect effects of climate change on herbicide leaching - a regional scale assessment in Sweden.” _Science of the Total Environment_, *in press*, pp. ?-?
 2. Steffens K, Larsbo M, **Moeys** J, Kjellström E, Jarvis N and Lewan E (2014). “Modelling pesticide leaching under climate change: parameter vs.  climate input uncertainty.” _Hydrology and Earth System Sciences_, *18*(2), pp. 479-491. <a href="http://dx.doi.org/10.5194/hess-18-479-2014">DOI</a> , <a href="http://www.hydrol-earth-syst-sci.net/18/479/2014/">URL</a> .
 3. Ghafoor A, Koestel J, Larsbo M, **Moeys** J and Jarvis N (2013). “Soil properties and susceptibility to preferential solute transport in tilled topsoil at the catchment scale.” _Journal of Hydrology_, *492*, pp. 190-199. <a href="http://dx.doi.org/10.1016/j.jhydrol.2013.03.046">DOI</a> , <a href="http://dx.doi.org/10.1016/j.jhydrol.2013.03.046">DOI</a> .
 4. Jarvis N, Koestel J, Messing I, **Moeys** J and Lindahl A (2013). “Influence of soil, land use and climatic factors on the hydraulic conductivity of soil.” _Hydrology and Earth System Sciences_, *17*(12), pp. 5185-5195. <a href="http://dx.doi.org/10.5194/hess-17-5185-2013">DOI</a> , <a href="http://www.hydrol-earth-syst-sci.net/17/5185/2013/">URL</a> .
