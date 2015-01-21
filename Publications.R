@@ -25,12 +25,6 @@ if( !require("bibtex") ){
     #   help( pack = "bibtext" ) 
 }   
 
-# if( !require("gtools") ){ 
-#     install.packages( "gtools" ) 
-#     library( "gtools" )
-#     #   help( pack = "bibtext" ) 
-# }   
-
 #   Import the template md file
 md <- readLines( con = inFile, encoding = "UTF-8-BOM" ) # Was encoded explicitely in UTF-8 without BOM
 
@@ -46,26 +40,22 @@ bibData <- lapply(
         yr <- unlist( lapply( unclass( out ), function(b){ b[[ "year" ]] } ) )
         out <- out[ order( yr, decreasing = TRUE ) ]
         
-        # for( i in 1:length(out) ){
-            # i <- 2L
-            
-            # if( is.character( out[[ i ]]$"doi" ) ){ 
-            #     out[[ i ]]$"doi" <- sprintf(  
-            #         "<a href='http://dx.doi.org/%s'>doi</a>", 
-            #         out[[ i ]]$"doi" )
-            # }   
-            
-            # if( is.character( out[[ i ]]$"url" ) ){ 
-            #     out[[ i ]]$"url" <- sprintf(  
-            #         "<a href='%s'>url</a>", 
-            #         out[[ i ]]$"url" )
-            # }   
-            
-            # if( is.character( out[[ i ]]$"doi" ) & is.character( out[[ i ]]$"url" ) ){ 
-            #     attr( out[[ i ]], "url" ) <- NULL 
-            # }   
-            
-        # }   
+        #   Extract publication url and doi
+        url <- unlist( lapply( unclass( out ), function(b){ 
+            if( is.null( b[[ "url" ]] ) ){ 
+                return( NA_character_ ) 
+            }else{ 
+                return( b[[ "url" ]] ) 
+            }   
+        } ) ) 
+        
+        doi <- unlist( lapply( unclass( out ), function(b){ 
+            if( is.null( b[[ "doi" ]] ) ){ 
+                return( NA_character_ ) 
+            }else{ 
+                return( sprintf( "http://dx.doi.org/%s", b[[ "doi" ]] ) ) 
+            }   
+        } ) )
         
         out <- format( x = out, "text" ) 
         
@@ -85,19 +75,34 @@ bibData <- lapply(
             X   = out, 
             FUN = function(txt){ 
                 return( gsub( x = txt, pattern = me, 
-                    replacement = sprintf( "**%s**", me ), fixed = FALSE ) )
+                    replacement = sprintf( "**%s**", me ), 
+                    fixed = FALSE ) )
             }   
         ) ) 
         
-        # Remove <URL: > statement
+        # Remove <URL: > statement, and replace url and doi by html version
         out <- unlist( lapply( 
-            X   = out, 
-            FUN = function(txt){ 
+            X   = 1:length(out), 
+            FUN = function( i ){
+                txt <- out[ i ]
+                 
                 txt <- gsub( x = txt, pattern = "<URL: ", 
                     replacement = "", fixed = FALSE )
                 
                 txt <- gsub( x = txt, pattern = ">", 
                     replacement = " ", fixed = FALSE )
+                
+                if( !is.na( doi[ i ] ) ){ 
+                    txt <- gsub( x = txt, pattern = doi[ i ], 
+                        replacement = sprintf( "<a href=\"%s\">DOI</a>", doi[ i ] ), 
+                        fixed = FALSE )
+                }   
+                
+                if( ( !is.na( url[ i ] ) ) & ( !identical( url[ i ], doi[ i ] ) ) ){
+                    txt <- gsub( x = txt, pattern = url[ i ], 
+                        replacement = sprintf( "<a href=\"%s\">URL</a>", url[ i ] ), 
+                        fixed = FALSE )
+                }   
                 
                 return( txt )
             }   
