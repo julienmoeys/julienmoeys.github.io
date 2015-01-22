@@ -2,16 +2,15 @@
 layout    : page_en
 title     : Publications
 longtitle : List of publications
-weight    : 2
+weight    : 2.2
 ---
 
 <!-- INSERT WARNING HERE -->
 
-Julien Moeys publication list. See also [my Google Scholar 
-page][julienGoogleScholar].
+Publication list on: [Google Scholar][jmGoogleScholar] or 
+[SLUPub][jmSLUPub].
 
 [Publications](#publications) | [PhD and master thesis](#thesis)
-
 
 
 
@@ -36,5 +35,6 @@ INSERT assets/bib/MOEYS_J_PUB_THESIS.BIB
 
 
 <!-- List of links -->
-[julienGoogleScholar]: http://scholar.google.com/citations?user=cRNn-IMAAAAJ "Julien Moeys - Google Scholar"
+[jmSLUPub]:         http://slubar.slub.se/pweb/mailsh/form?mail=Julien.Moeys%40slu.se&lang=eng&show=yes&sortorder=publication_year# "Julien Moeys (on SLUPub)"
+[jmGoogleScholar]:  http://scholar.google.se/citations?user=cRNn-IMAAAAJ&hl=en&oi=ao "Julien MOEYS Google Scholar profile"
 

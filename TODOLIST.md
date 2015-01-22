@@ -16,13 +16,15 @@ Site structure
 |
 |-- 1. About (short description + technical info)
 |
-|-- 2. CV
+|-- 2.1. CV
 |
-|-- 2. Publications 
+|-- 2.2. Publications 
+|
+|-- 2.3. Work (presentation)
 |
 |-- 3. Software (R packages, etc.)
 |
-|-- 4. ?Useful publications? (Lists of useful publications -- Goog Modelling Practices)
+|-- 4. ?Useful publications? (Lists of useful publications -- Google Modelling Practices)
 |
 |-- 4. IT Lab Book (as a collection of posts?)
 |
