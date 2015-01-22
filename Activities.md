@@ -65,7 +65,7 @@ other than authors' [attribution][]).
 [HaV]:              http://www.havochvatten.se/en "Swedish Agency for Marine and Water Management"
 [Municipalities]:   http://en.wikipedia.org/wiki/Municipalities_of_Sweden "Municipalities of Sweden (Wikipedia)"
 [LRF]:              http://www.lrf.se/In-English/ "Federation of Swedish Farmers (LRF)"
-[SV]:               http://www.plastkemiforetagen.se/sektorgrupper/svv/ "De svenska växtskyddsföretagens branschförening"
+[SV]:               http://www.plastkemiforetagen.se/sektorgrupper/svv/ "De svenska vÃ¤xtskyddsfÃ¶retagens branschfÃ¶rening"
 [MACRO-SE]:         http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/verksamhetsomraden/modeller/macro-se/ "MACRO-SE regional scale pesticide fate model" 
 [MACRO]:            http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/areas-of-operation-within-ckb/models/macro-52/ "MACRO 5.2" 
 [INRA]:             http://www.inra.fr/en "INRA"
@@ -77,3 +77,4 @@ other than authors' [attribution][]).
 <!--- 'Long' links -->
 [Water Authorities]: http://www.vattenmyndigheterna.se/En/ "Sweden water authorities" 
 [counties of Sweden]:  http://en.wikipedia.org/wiki/Counties_of_Sweden "counties of Sweden (Wikipedia)" 
+
