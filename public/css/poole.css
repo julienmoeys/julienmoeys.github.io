@@ -263,7 +263,7 @@ table.ORCID {
 td.ORCID, th.ORCID {
   padding: .0rem .0rem;
   border: 0px solid transparent;
-  vertical-align: center;
+  vertical-align: middle;
 }
 
 tbody tr.ORCID:nth-child(odd) td,
