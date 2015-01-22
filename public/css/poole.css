@@ -232,6 +232,17 @@ img {
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
+} 
+
+/* added by JM on 2015-01-22 */
+img.ORCID {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+  white-space: nowrap;
+  width: 16px; 
+  height: 16px;
 }
 
 /* Tables */
@@ -251,25 +262,6 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-/* added by JM on 2015-01-22 */
-table.ORCID {
-  margin-bottom: 0rem;
-  width: 100%;
-  border-color: transparent;
-  border-collapse: collapse;
-  background-color: transparent; 
-}
-
-td.ORCID, th.ORCID {
-  padding: .0rem .0rem;
-  border: 0px solid transparent;
-  vertical-align: middle;
-}
-
-tbody tr.ORCID:nth-child(odd) td,
-tbody tr.ORCID:nth-child(odd) th {
-  background-color: transparent;
-}
 
 /*
  * Custom type
