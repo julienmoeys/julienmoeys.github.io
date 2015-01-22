@@ -85,7 +85,7 @@ Professional experience    <a name="professionalexperience"></a>
 Publications    <a name="publications"></a>
 ------------
 
-See the **publication list** [**on this page**](/en/Publications/).
+See my **publication list** [**on this page**](/en/Publications/).
 
 
 
