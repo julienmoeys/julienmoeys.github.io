@@ -14,10 +14,10 @@ weight    : 2.1
 Publication list on: [&rarr; Google Scholar][jmGoogleScholar] or 
 [&rarr; SLUPub][jmSLUPub].
 
-<table>
-  <tr>
-    <td><a href="http://orcid.org/0000-0001-9644-4383"><img alt="Julien MOEYS ORCID" src="/assets/img/orcid_16x16(1).png" style="width: 16px; height: 16px; " /></a></td>
-    <td><code>orcid.org/0000-0001-9644-4383</code></td>
+<table class="ORCID">
+  <tr class="ORCID">
+    <td class="ORCID"><a href="http://orcid.org/0000-0001-9644-4383"><img alt="Julien MOEYS ORCID" src="/assets/img/orcid_16x16(1).png" style="width: 16px; height: 16px; " /></a></td>
+    <td class="ORCID"><code>orcid.org/0000-0001-9644-4383</code></td>
   </tr>
 </table>
 
