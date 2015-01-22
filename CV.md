@@ -11,8 +11,8 @@ weight    : 2.1
 [Publications](#publications) | [Associations](#associations) | 
 [Open Source](#opensource) 
 
-Publication list on: [Google Scholar][jmGoogleScholar] or 
-[SLUPub][jmSLUPub].
+Publication list on: [&rarr; Google Scholar][jmGoogleScholar] or 
+[&rarr; SLUPub][jmSLUPub].
 
 
 
