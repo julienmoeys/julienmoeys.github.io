@@ -14,7 +14,7 @@ weight    : 2.1
 Publication list on: [&rarr; Google Scholar][jmGoogleScholar] or 
 [&rarr; SLUPub][jmSLUPub].
 
-<a href="http://orcid.org/0000-0001-9644-4383"><img alt="Julien MOEYS ORCID" src="/assets/img/orcid_16x16(1).png" class="ORCID" /></a> [<pre>orcid.org/0000-0001-9644-4383<pre>](http://orcid.org/0000-0001-9644-4383)
+<img alt="ORCID Logo" src="/assets/img/orcid_16x16(1).png" class="ORCID" /> [<pre>orcid.org/0000-0001-9644-4383</pre>](http://orcid.org/0000-0001-9644-4383)
 
 
 
