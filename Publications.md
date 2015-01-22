@@ -10,7 +10,7 @@ weight    : 2.2
 Publication list on: [&rarr; Google Scholar][jmGoogleScholar] or 
 [&rarr; SLUPub][jmSLUPub].
 
-<a href="http://orcid.org"><img alt="" src="/assets/img/orcid_16x16(1).png" style="width: 16px; height: 16px; " /></a> [http://orcid.org/0000-0001-9644-4383](http://orcid.org/0000-0001-9644-4383)  
+<p><a href="http://orcid.org/0000-0001-9644-4383"><img alt="" src="/assets/img/orcid_16x16(1).png" style="width: 16px; height: 16px; " /></a> `orcid.org/0000-0001-9644-4383`</p>
 
 [Publications](#publications) | [PhD and master thesis](#thesis)
 
