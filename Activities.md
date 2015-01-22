@@ -29,13 +29,14 @@ I develop a new modelling toolbox, **[MACRO-SE][]**, for estimating
 the risks of pesticide losses at the regional-scale, in the 21 
 [counties of Sweden][]. [MACRO-SE][] 'toolbox' consists of several 
 sub-parts: 
-(1) the **model** itself (with [MACRO][] as a workhorse); 
-(2) county-scale agro-environmental **geo-datasets** (soil maps, crop 
-statistics, _etc._) needed to feed the model; 
-(3) a collection of **parametrisation routines** (also called 
-_[pedotransfer functions][PTF]_) and; 
-(4) a low-tech IT infrastructure (computers, database-server) for 
-distributing the calculations. 
+
+1.  the **model** itself (with [MACRO][] as a workhorse); 
+2.  county-scale agro-environmental **geo-datasets** (soil maps, 
+    crop statistics, _etc._) needed to feed the model; 
+3.  a collection of **parametrisation routines** (also called 
+    _[pedotransfer functions][PTF]_) and; 
+4.  a low-tech IT infrastructure (computers, database-server) for 
+    distributing the calculations. 
 
 I also work on various **research projects** (_about 25-35% of my 
 time_), as a support for **modelling**, **data-management** 
