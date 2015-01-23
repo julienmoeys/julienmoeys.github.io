@@ -53,8 +53,8 @@ Fields of expertise   <a name="expertiseFields"></a>
 *   **Programming techniques** ([R][]) for data management 
     and analysis, including geographical datasets;
 
-See also this [description of my current development, 
-research and teaching activities](/Activities/).
+See also [this description](/Activities/) of my current development, 
+research and teaching activities.
 
 
 
@@ -65,13 +65,13 @@ Professional experience    <a name="professionalexperience"></a>
 *   _01/2011 - Now_: **Research Engineer at SLU** (Uppsala), department of 
     [Soil and Environment][], Biogeophysics and water quality division. 
     Building tools for regional scale modelling of pesticide 
-    leaching risks (MACRO-SE). Work financed by the 
+    leaching risks ([MACRO-SE][]). Work financed by the 
     [Centre for Chemical Pesticides (CKB)][CKB], at [SLU][];
     
 *   _01/2009 - 01/2011_: **Postdoc at SLU** (Uppsala), department of 
     [Soil and Environment][], Biogeophysics and water quality division. 
     Building tools for regional scale modelling of pesticide 
-    leaching risks (MACRO-SE). Work financed by the 
+    leaching risks ([MACRO-SE][]). Work financed by the 
     [Centre for Chemical Pesticides (CKB)][CKB], at [SLU][];
    
 *   _01/2008-01/2009_: **Postdoc at SLU** (Uppsala), department of 
@@ -92,8 +92,8 @@ Publications    <a name="publications"></a>
 
 See my **publication list** [**on this page**](/Publications/).
 
-See also my publication list on [&rarr; Google Scholar][jmGoogleScholar] 
-or [&rarr; SLUPub][jmSLUPub] (SLU publication database).
+See also my publication list on [&#9656; Google Scholar][jmGoogleScholar] 
+or [&#9656; SLUPub][jmSLUPub] (SLU publication database).
 
 
 

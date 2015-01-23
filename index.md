@@ -7,8 +7,8 @@ weight    : 1
 
 <img src="assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" align="right"/>
 
-[Presentation](#presentation) | [Site content](#sitecontent) | 
-[Contact](#contact) | &rarr; [Français](/fr/) 
+[Français](/fr/) | Page content: [Presentation](#presentation) | 
+[Site content](#sitecontent) | [Contact](#contact) 
 
 ### Presentation   <a name="presentation"></a>
 
@@ -31,14 +31,18 @@ fate modelling in Sweden.
 
 ### Site Content   <a name="sitecontent"></a>
 
-On this website, I present my [curriculum](/CV/) and a list of 
-[Publications](/Publications/) (also on [Google Scholar][jmScholar]). 
-You will (soon) find information on the [software](/Software/) 
+On this website, I present my [curriculum](/CV/), a list of 
+[Publications](/Publications/) (also on [&#9656; Google Scholar][jmScholar]) 
+and a presentation of [my activities at SLU](/Activities/).
+
+<!-- You will (soon) find information on the [software](/Software/) 
 I am developing (mostly R packages), and some technical notes in the 
 [IT lab book](/ITLabBook/) section (mostly about Ubuntu server 
-management).
+management). -->
 
-You may also be interested in my [picture gallery][jmFlickr] (Flickr).
+I maintain a small list od [scientific quotations](/Quotations/) that 
+I like. You may also be interested in my [&#9656; picture 
+gallery][jmFlickr] (Flickr).
 
 
 
@@ -49,8 +53,8 @@ You may also be interested in my [picture gallery][jmFlickr] (Flickr).
 > Department of Soil and Environment   
 > box 7014; 750 07 Uppsala, Sweden.
 
-Visiting address: Lennart Hjelms väg 9. View on [Google Maps][gMapSLU], 
-[Hitta.se][hMapSLU] or the [Swedish National Land Survey 
+Visiting address: Lennart Hjelms väg 9. View on [&#9656; Google Maps][gMapSLU], 
+[&#9656; Hitta.se][hMapSLU] or the [&#9656; Swedish National Land Survey 
 (Lantmäteriet)][sluLM].
 
 <a href="http://orcid.org/0000-0001-9644-4383" alt="Julien Moeys ORCID" class="ORCID" ><code>orcid.org/0000-0001-9644-4383</code></a>

@@ -28,6 +28,8 @@ version:             1.0.0
 
 # Excluded files
 exclude:
+    - ITLabBook.md
+    - Software.md
     - Publications.md0
     - Publications.R
     - TODOLIST.md
