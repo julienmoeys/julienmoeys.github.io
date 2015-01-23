@@ -5,14 +5,14 @@ longtitle : Julien Moeys
 weight    : 1
 ---
 
-<img src="assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" align="right"/>
+<img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" align="right"/>
 
 [Français](/fr/) | Page content: [Presentation](#presentation) | 
 [Site content](#sitecontent) | [Contact](#contact) 
 
 ### Presentation   <a name="presentation"></a>
 
-I am a research engineer in the department 
+I am a research engineer (PhD) in the department 
 of [Soil and Environment][SLUSoil] ([Biogeophysics and Water Quality][BGFVV] 
 group), at the [Swedish University of Agricultural Sciences 
 (SLU)][SLU], in [Uppsala][], Sweden.
@@ -40,7 +40,7 @@ I am developing (mostly R packages), and some technical notes in the
 [IT lab book](/ITLabBook/) section (mostly about Ubuntu server 
 management). -->
 
-I maintain a small list od [scientific quotations](/Quotations/) that 
+I maintain a small list of [scientific quotations](/Quotations/) that 
 I like. You may also be interested in my [&#9656; picture 
 gallery][jmFlickr] (Flickr).
 
