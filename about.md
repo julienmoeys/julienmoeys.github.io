@@ -5,7 +5,10 @@ longtitle : About this website
 weight    : 1
 ---
 
-Write more details here...
+Contact   <a name="contact"></a>
+-------
+
+See the [home page](/#contact) of this site.
 
 
 

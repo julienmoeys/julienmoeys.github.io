@@ -5,16 +5,21 @@ longtitle : Curriculum vitae
 weight    : 2.1
 ---
 
-[Education](#education) | [Fields of expertise](#expertiseFields) | 
+[Contact](#contact) | [Education](#education) | 
+[Fields of expertise](#expertiseFields) | 
 [Professional experience](#professionalexperience) | 
 [Programming](#programming) | [Teaching](#teaching) | 
 [Publications](#publications) | [Associations](#associations) | 
 [Open Source](#opensource) 
 
-Publication list on: [&rarr; Google Scholar][jmGoogleScholar] or 
-[&rarr; SLUPub][jmSLUPub].
 
-<a href="http://orcid.org/0000-0001-9644-4383" alt="Julien Moeys ORCID" class="ORCID" ><code>orcid.org/0000-0001-9644-4383</code></a>
+
+Contact   <a name="contact"></a>
+-------
+
+See the [home page](/#contact) of this site.
+
+![Time series of pesticide losses at the landscape scale]({{ site.url }}/assets/img/timeSeries_IPU_SW_avg-s.jpg "Time series of pesticide losses at the landscape scale")
 
 
 
@@ -30,8 +35,6 @@ Education    <a name="education"></a>
 
 *   **Agriculture Engineer** ([ISA Lille][], 2003). 5 years degree 
     (eq. to a M.Sc.).
-
-![Time series of pesticide losses at the landscape scale]({{ site.url }}/assets/img/timeSeries_IPU_SW_avg-s.jpg "Time series of pesticide losses at the landscape scale")
 
 
 
@@ -89,6 +92,8 @@ Publications    <a name="publications"></a>
 
 See my **publication list** [**on this page**](/Publications/).
 
+See also my publication list on [&rarr; Google Scholar][jmGoogleScholar] 
+or [&rarr; SLUPub][jmSLUPub] (SLU publication database).
 
 
 
@@ -218,6 +223,9 @@ Open Source    <a name="opensource"></a>
 [FoSW]:             http://www.slu.se/FoSW "Focus on Soils and Water (FoSW) graduate school"
 [jmSLUPub]:         http://slubar.slub.se/pweb/mailsh/form?mail=Julien.Moeys%40slu.se&lang=eng&show=yes&sortorder=publication_year# "Julien Moeys (on SLUPub)"
 [jmGoogleScholar]:  http://scholar.google.se/citations?user=cRNn-IMAAAAJ&hl=en&oi=ao "Julien MOEYS Google Scholar profile"
+[gMapSLU]:          https://goo.gl/maps/Jn13M  "Map of SLU (Google Maps)"
+[hMapSLU]:          http://www.hitta.se/kartan?s=e554f834 "Map of SLU (Hitta.se)"
+[sluLM]:            http://kso2.lantmateriet.se/?e=649249&n=6634006&z=12 "Map of SLU (Lantmateriet.se)"
 
 <!--- IT links (except R) -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 

@@ -44,12 +44,16 @@ You may also be interested in my [picture gallery][jmFlickr] (Flickr).
 
 ### Contact   <a name="contact"></a>
 
-> **Julien MOEYS**   
+> Julien MOEYS   
 > Swedish University of Agricultural Sciences (SLU)   
 > Department of Soil and Environment   
-> Lennart Hjelms väg 9; **box 7014; 750 07 Uppsala, Sweden**.
+> box 7014; 750 07 Uppsala, Sweden.
 
-Location: on [Google Maps][gMapSLU] or on [Hitta.se][hMapSLU].
+Visiting address: Lennart Hjelms väg 9. View on [Google Maps][gMapSLU], 
+[Hitta.se][hMapSLU] or the [Swedish National Land Survey 
+(Lantmäteriet)][sluLM].
+
+<a href="http://orcid.org/0000-0001-9644-4383" alt="Julien Moeys ORCID" class="ORCID" ><code>orcid.org/0000-0001-9644-4383</code></a>
 
 
 
@@ -65,6 +69,7 @@ Location: on [Google Maps][gMapSLU] or on [Hitta.se][hMapSLU].
 [jmScholar]:  http://scholar.google.com/citations?user=cRNn-IMAAAAJ  "Julien Moeys on Google Scholar"  
 [gMapSLU]:    https://goo.gl/maps/Jn13M  "Map of SLU (Google Maps)"
 [hMapSLU]:    http://www.hitta.se/kartan?s=e554f834 "Map of SLU (Hitta.se)"
+[sluLM]:      http://kso2.lantmateriet.se/?e=649249&n=6634006&z=12 "Map of SLU (Lantmateriet.se)"
 
 <!-- Longer links -->
 
