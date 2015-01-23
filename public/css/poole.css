@@ -109,14 +109,6 @@ p {
   margin-bottom: 1rem;
 }
 
-/* Added by JM on 2015-01-22 */
-a.ORCID {
-  background: url("/assets/img/orcid_16x16(1).png") no-repeat left 8px;
-  padding-left:20px;
-  display:inline;
-}
-
-
 strong {
   color: #303030;
 }
@@ -240,7 +232,7 @@ img {
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
-} 
+}
 
 /* Tables */
 table {
