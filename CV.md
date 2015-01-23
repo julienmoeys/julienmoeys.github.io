@@ -5,7 +5,7 @@ longtitle : Curriculum vitae
 weight    : 2.1
 ---
 
-[Contact](#contact) | [Education](#education) | 
+Page content: [Contact](#contact) | [Education](#education) | 
 [Fields of expertise](#expertiseFields) | 
 [Professional experience](#professionalexperience) | 
 [Programming](#programming) | [Teaching](#teaching) | 

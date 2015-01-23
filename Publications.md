@@ -10,7 +10,7 @@ weight    : 2.2
 See also my publication list on [&#9656; Google Scholar][jmGoogleScholar] 
 or [&#9656; SLUPub][jmSLUPub] (SLU publication database).
 
-[Publications](#publications) | [PhD and master thesis](#thesis)
+Page content: [Publications](#publications) | [PhD and master thesis](#thesis)
 
 
 
