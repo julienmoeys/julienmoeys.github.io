@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Julien Moeys
 tagline:             'Soil scientist | R programmer | Data analyst'
 description:         'Julien Moeys homepage'
-url:                 # http://julienmoeys.github.io/
+url:                 http://julienmoeys.info/
 baseurl:             /
 paginate:            5
 encoding:            utf-8
@@ -20,7 +20,7 @@ encoding:            utf-8
 # About/contact
 author:
   name:              Julien Moeys
-  url:               http://julienmoeys.github.io/
+  url:               http://julienmoeys.info/
   email:             contact@julienmoeys.info
 
 # Custom vars
