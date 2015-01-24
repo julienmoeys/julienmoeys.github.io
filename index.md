@@ -51,7 +51,8 @@ gallery][jmFlickr] (Flickr).
 > Julien MOEYS   
 > Swedish University of Agricultural Sciences (SLU)   
 > Department of Soil and Environment   
-> box 7014; 750 07 Uppsala, Sweden.
+> box 7014; 750 07 Uppsala, Sweden.   
+> email: <a href="mailto:contact{AT}julienmoeys{DOT}info" alt="Julien Moeys e-mail" >contact&#123;AT&#125;julienmoeys&#123;DOT&#125;info</a>   
 
 Visiting address: Lennart Hjelms väg 9. View on [&#9656; Google Maps][gMapSLU], 
 [&#9656; Hitta.se][hMapSLU] or the [&#9656; Swedish National Land Survey 

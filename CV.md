@@ -8,9 +8,9 @@ weight    : 2.1
 Page content: [Contact](#contact) | [Education](#education) | 
 [Fields of expertise](#expertiseFields) | 
 [Professional experience](#professionalexperience) | 
-[Programming](#programming) | [Teaching](#teaching) | 
-[Publications](#publications) | [Associations](#associations) | 
-[Open Source](#opensource) 
+[Publications](#publications) | [Teaching](#teaching) | 
+[Programming](#programming) | [Open Source](#opensource) | 
+[Associations](#associations) 
 
 
 
@@ -98,6 +98,25 @@ or [&#9656; SLUPub][jmSLUPub] (SLU publication database).
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Teaching    <a name="teaching"></a>
+--------
+
+*   Teaches some computer based modelling exercises for 
+    [Soil science for water and environment][] (_MV0192_), since 
+    2011;
+    
+*   Teaches some computer based modelling exercises for 
+    [Water and solute transport in the soil-plant-system][] 
+    (_MV0198_), since 2010;
+
+*   **[R][] beginner course** for [SLU][]-[CKB][] (3 days, 2009);
+
+*   **[MS Access][] and [R][] beginner course** for [SLU][] 
+    [Focus on Soils and Water (FoSW)][FoSW] (4 days, 2010);
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Programming    <a name="programming"></a>
 -----------
 
@@ -137,42 +156,6 @@ Programming    <a name="programming"></a>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Teaching    <a name="teaching"></a>
---------
-
-*   Teaches some computer based modelling exercises for 
-    [Soil science for water and environment][] (_MV0192_), since 
-    2011;
-    
-*   Teaches some computer based modelling exercises for 
-    [Water and solute transport in the soil-plant-system][] 
-    (_MV0198_), since 2010;
-
-*   **[R][] beginner course** for [SLU][]-[CKB][] (3 days, 2009);
-
-*   **[MS Access][] and [R][] beginner course** for [SLU][] 
-    [Focus on Soils and Water (FoSW)][FoSW] (4 days, 2010);
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Associations    <a name="associations"></a>
-------------
-
-*   Between 2011 and 2013 (and a a bit before that) I was **webmaster** 
-    and **member of the board** of the **[French Soil Science Association 
-    (AFES)][AFES]**. 
-    
-*   Since 2012 I am **member of the board** of the Uppsala-based 
-    association **[Families for International Friendship 
-    (FIF)][FIF]**. This non-political and non-relegious association 
-    (founded in 1965) organises cultural and social activities for 
-    Uppsala foreign students and researchers, and aims at broadening 
-    mutual cultural understanding.
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Open Source    <a name="opensource"></a>
 -----------
 
@@ -196,6 +179,23 @@ Open Source    <a name="opensource"></a>
     easier to read and write data from various database system 
     ([MySQL][], [SQLite][], [MS Access][] and [MS Excel][]. It is build 
     on lower level [R][] packages [RODBC][], [DBI][] and [RSQlite][];
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Associations    <a name="associations"></a>
+------------
+
+*   Between 2011 and 2013 (and a a bit before that) I was **webmaster** 
+    and **member of the board** of the **[French Soil Science Association 
+    (AFES)][AFES]**. 
+    
+*   Since 2012 I am **member of the board** of the Uppsala-based 
+    association **[Families for International Friendship 
+    (FIF)][FIF]**. This non-political and non-relegious association 
+    (founded in 1965) organises cultural and social activities for 
+    Uppsala foreign students and researchers, and aims at broadening 
+    mutual cultural understanding.
 
 
 
