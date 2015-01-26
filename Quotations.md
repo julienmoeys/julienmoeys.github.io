@@ -17,7 +17,7 @@ Statistics   <a name="stats"></a>
 ==========
 
 The statistics questions and answers site [Cross 
-Validated](http://stats.stackexchange.com/) has an excellent entry 
+Validated][CrossValidated] has an excellent entry 
 about [Famous statistician quotes][famousStatQuote].
 
 
@@ -25,7 +25,7 @@ about [Famous statistician quotes][famousStatQuote].
 Ronald Fisher
 -------------
 
-About [Ronald Fisher](http://en.wikipedia.org/wiki/Ronald_Fisher).
+About [Ronald Fisher][RonaldFisher].
 
 > To call in the statistician after the experiment is done may be 
 > no more than asking him to perform a post-mortem examination: 
@@ -43,7 +43,7 @@ Informatics   <a name="informatics"></a>
 Maurice Wilkes
 --------------
 
-About [Maurice Wilkes](http://en.wikipedia.org/wiki/Maurice_Wilkes).
+About [Maurice Wilkes][MauriceWilkes].
 
 > In 1949 as soon as we started programming we found to our surprise 
 > that it wasn’t as easy to get programs right as we had thought. 
@@ -60,7 +60,7 @@ Telegraph, citing this quotation.
 Solomon W. Golomb   <a name="golomb"></a>
 -----------------
 
-About [Solomon W Golomb](http://en.wikipedia.org/wiki/Solomon_W._Golomb).
+About [Solomon W Golomb][SolomonWGolomb].
 
 > Don't apply a model until you understand the simplifying assumptions 
 > on which it is based and can test their applicability.
@@ -79,7 +79,7 @@ I found this citation in a [presentation given by Karl Johan
 Åström][KJAstrom] at a seminar in Collège de France 
 (Seminar organised by Gérard Berry, available online). The original 
 paper is: Golomb, SOLOMON W. "[Mathematical models: Uses and limitations
-][SolomonGolomb]." Reliability, IEEE Transactions on 20, no. 3 
+][MathModel]." Reliability, IEEE Transactions on 20, no. 3 
 (1971): 130-131.
 
 Note: _I haven't been able to check the quotation myself, and I 
@@ -91,7 +91,7 @@ have found numerous variations around Solomon W Golomb quotations
 Gérard Berry
 ------------
 
-About [Gérard Berry](http://en.wikipedia.org/wiki/G%C3%A9rard_Berry).
+About [Gérard Berry][GerardBerry].
 
 > Informatics, in the present state a the titanic fight between
 > two absolutely opposite components: [...]
@@ -116,12 +116,25 @@ The same citation, as [a transcript of the same lecture][SevenKeys2]:
 Douglas Bates
 -------------
 
-About [Douglas Bates](http://www.stat.wisc.edu/~bates/).
+About [Douglas Bates][DouglasBates].
 
 > Maybe I’ll become a theoretician. Nobody expects you to maintain 
 > a theorem.
 
 September 2013, [R fortunes][RFortunes] #356 
+
+
+
+Fred P. Brooks
+--------------
+
+About [Fred p. Brooks][FredBrooks]
+
+> adding manpower to a late software project makes it later.
+
+This quotation is know as [Brooks's law][BrookssLaw].
+
+In F.P. Brooks, Jr. "The Mythical Man-Month". 1975. Addison-Wesley.
 
 
 
@@ -131,7 +144,7 @@ Geography and spatial data analysis   <a name="geography"></a>
 Alfred Korzybski
 ----------------
 
-About [Alfred Korzybski](http://en.wikipedia.org/wiki/Alfred_Korzybski).
+About [Alfred Korzybski][AlfredKorzybski].
 
 > The map is not the territory
 
@@ -145,16 +158,23 @@ by Solomon W. Golomb.
 
 
 <!-- List of links -->
-[quotation]:       https://en.wikipedia.org/wiki/Quotation                     "Quotation (Wikipedia)"
-[mapterritory]:    http://en.wikipedia.org/wiki/Map%E2%80%93territory_relation "Map–territory relation (Wikipedia)"
-[MauriceWilkes]:   http://www.telegraph.co.uk/news/obituaries/technology-obituaries/8171435/Professor-Sir-Maurice-Wilkes.html "Maurice Wilkes obituary (Daily Telegraph)"
-[SolomonGolomb]:   http://dx.doi.org/10.1109/TR.1971.5216113 "Solomon Golomb Mathematical models: Uses and limitations"
-[KJAstrom]:        http://www.college-de-france.fr/site/gerard-berry/seminar-2014-03-19-17h00.htm
-[RFortunes]:       http://cran.r-project.org/web/packages/fortunes/vignettes/fortunes.pdf "R Fortunes vignette on CRAN" 
-[GettingRid]:      http://www-sop.inria.fr/members/Gerard.Berry/VideosEdinburgh/GETTING_RID_H264_768kbit.mp4 "Getting Rid of Bugs - video (Gérard Berry)"
-[GerardBerry]:     http://www-sop.inria.fr/members/Gerard.Berry/ "Gérard Berry’s Home Page"
-[SevenKeys]:       http://idea.ed.ac.uk/future/ "Seven Keys to the Digital Future (conference)"
-[SevenKeys2]:      http://www.royalsoced.org.uk/cms/files/events/reports/2009-2010/berry_bishop_final.pdf "Seven Keys to the Digital Future (transcript)"
-[famousStatQuote]: http://stats.stackexchange.com/questions/726/famous-statistician-quotes "Famous statistician quotes (Cross Validated)"
-
-
+[quotation]:        https://en.wikipedia.org/wiki/Quotation                     "Quotation (Wikipedia)"
+[mapterritory]:     http://en.wikipedia.org/wiki/Map%E2%80%93territory_relation "Map–territory relation (Wikipedia)"
+[MauriceWilkes]:    http://www.telegraph.co.uk/news/obituaries/technology-obituaries/8171435/Professor-Sir-Maurice-Wilkes.html "Maurice Wilkes obituary (Daily Telegraph)"
+[MathModel]:        http://dx.doi.org/10.1109/TR.1971.5216113 "Solomon Golomb Mathematical models: Uses and limitations"
+[KJAstrom]:         http://www.college-de-france.fr/site/gerard-berry/seminar-2014-03-19-17h00.htm
+[RFortunes]:        http://cran.r-project.org/web/packages/fortunes/vignettes/fortunes.pdf "R Fortunes vignette on CRAN" 
+[GettingRid]:       http://www-sop.inria.fr/members/Gerard.Berry/VideosEdinburgh/GETTING_RID_H264_768kbit.mp4 "Getting Rid of Bugs - video (Gérard Berry)"
+[GerardBerry]:      http://www-sop.inria.fr/members/Gerard.Berry/ "Gérard Berry’s Home Page"
+[SevenKeys]:        http://idea.ed.ac.uk/future/ "Seven Keys to the Digital Future (conference)"
+[SevenKeys2]:       http://www.royalsoced.org.uk/cms/files/events/reports/2009-2010/berry_bishop_final.pdf "Seven Keys to the Digital Future (transcript)"
+[famousStatQuote]:  http://stats.stackexchange.com/questions/726/famous-statistician-quotes "Famous statistician quotes (Cross Validated)"
+[FredBrooks]:       https://en.wikipedia.org/wiki/Fred_Brooks  "Fred Brooks (Wikipedia)"
+[BrookssLaw]:       https://en.wikipedia.org/wiki/Brooks%27s_law  "Brooks's law (Wikipedia)"
+[DouglasBates]:     http://www.stat.wisc.edu/~bates/  "Douglas Bates homepage" 
+[GerardBerry]:      http://en.wikipedia.org/wiki/G%C3%A9rard_Berry  "Gérard Berry (Wikipedia)" 
+[AlfredKorzybski]:  http://en.wikipedia.org/wiki/Alfred_Korzybski  "Alfred Korzybski (Wikipedia)"
+[SolomonWGolomb]:   http://en.wikipedia.org/wiki/Solomon_W._Golomb  "Solomon W Golomb (Wikipedia)"
+[MauriceWilkes]:    http://en.wikipedia.org/wiki/Maurice_Wilkes  "Maurice Wilkes (Wikipedia)"
+[RonaldFisher]:     http://en.wikipedia.org/wiki/Ronald_Fisher  "Ronald Fisher (Wikipedia)" 
+[CrossValidated]:   http://stats.stackexchange.com/  "Cross Validated (@stackexchange.com)"
