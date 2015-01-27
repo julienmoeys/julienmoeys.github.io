@@ -1,7 +1,7 @@
 <footer>
     <hr></hr>
     <div class="container content"><div class="page"><small>
-        {{ page.date }} | Julien Moeys | 
+        {{ page.date | date: '%Y-%m-%d' }} | Julien Moeys | 
         <a href="{{ site.github }}/blob/master/{{ page.path }}">
           Page source code on Github
         </a>.
