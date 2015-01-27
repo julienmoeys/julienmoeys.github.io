@@ -36,5 +36,6 @@ exclude:
     - INSPIRATION.md
     - README.md 
     - LICENSE.md
-
+    - *.Rout
+    - *.bat
 

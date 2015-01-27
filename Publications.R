@@ -8,6 +8,8 @@ if( Sys.info()[[ "sysname" ]] == "Linux" ){
     setwd( wd <- "D:/Users/julienm/Documents/_WORKS/_WEB/julienmoeys.github.io" )
 }   
 
+source( "assets/R/referencesBlender.R" )
+
 # Reference list ================================================
 
 referenceBlender(

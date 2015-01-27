@@ -152,7 +152,7 @@ referenceBlender <-  function(
         close( f )
     }   
     
-    return( fileOut )
+    return( invisible( md ) )
 }   
 
 

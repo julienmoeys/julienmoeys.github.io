@@ -14,6 +14,8 @@ _site
 *.zip
 *.vi
 *.BIB.bak
+*.bib.bak
+*.Rout
 *~
 
 # OS or Editor folders
