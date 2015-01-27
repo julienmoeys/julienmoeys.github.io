@@ -211,7 +211,7 @@ Associations    <a name="associations"></a>
 [HaV]:              http://www.havochvatten.se/en "Swedish Agency for Marine and Water Management"
 [MACRO-SE]:         http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/verksamhetsomraden/modeller/macro-se/ "MACRO-SE regional scale pesticide fate model" 
 [MACRO]:            http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/areas-of-operation-within-ckb/models/macro-52/ "MACRO 5.2" 
-[FOOTPRINT]:        http://www.eu-footprint.org/ "FOOTPRINT EU FP6 project"
+[FOOTPRINT]:        http://sitem.herts.ac.uk/aeru/footprint/ "FOOTPRINT EU FP6 project (@University of Hertfordshire)"
 [INRA]:             http://www.inra.fr/en "INRA"
 [Pedometrics]:      http://en.wikipedia.org/wiki/Pedometrics "pedometrics (Wikipedia)" 
 [Municipalities]:   http://en.wikipedia.org/wiki/Municipalities_of_Sweden "Municipalities of Sweden (Wikipedia)"
