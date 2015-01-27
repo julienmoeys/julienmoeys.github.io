@@ -17,6 +17,9 @@ baseurl:             /
 paginate:            5
 encoding:            utf-8
 
+# Github source code
+github:              https://github.com/julienmoeys/julienmoeys.github.io
+
 # About/contact
 author:
   name:              Julien Moeys
