@@ -17,7 +17,8 @@ referenceBlender(
     fileOut  = "Publications.md", 
     filesBib = sprintf( 
         "assets/bib/%s", 
-        c( "MOEYS_J_PUB_PEER.BIB", "MOEYS_J_PUB_THESIS.BIB" ) ), 
+        c( "MOEYS_J_PUB_PEER.BIB", "MOEYS_J_PUB_THESIS.BIB", 
+           "MOEYS_J_PUB_CORRECTIONS.BIB" ) ), 
     highlightName = "Moeys" 
 )   
 
