@@ -17,6 +17,7 @@ _site
 *.bib.bak
 *.Rout
 *~
+*.RData
 
 # OS or Editor folders
 .DS_Store
