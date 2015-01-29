@@ -37,7 +37,7 @@ en Suède.
 
 ### Contenu du site   <a name="contenudusite"></a>
 
-Sur ce site, je présente mon [CV](/fr/CV/), une [liste de 
+Sur ce site, je présente mon [CV](/CV/), une [liste de 
 publications](/Publications/) (_page en anglais_. Voir aussi ma page
 sur [&#9656; Google Scholar][jmScholar]), ainsi qu'une présentation 
 de mes [activités professionnelles à SLU](/Activities/) (_page en 
