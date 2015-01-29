@@ -133,7 +133,7 @@ referenceBlender <-  function(
     
     md <- c( 
         md[ (1:length(md)) < rowNb1 ], 
-        sprintf( "%s (last update)", format( Sys.time(), "%Y-%m-%d" ) ), 
+        sprintf( "%s (_last compilation_)", format( Sys.time(), "%Y-%m-%d" ) ), 
         md[ (1:length(md)) > rowNb1 ] ) 
     
     

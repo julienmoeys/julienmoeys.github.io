@@ -1,13 +1,22 @@
 ---
 layout : post_en
-title  : 'References: modelling methodologies and model evaluation'
+title  : 'References list: modelling methodologies and model evaluation'
 ---
 
 <!-- INSERT WARNING HERE -->
 
 <!-- INSERT DATE HERE -->
 
-Note: This article is under construction.
+Note: This page is under construction.
+
+This page present some lists of references about modelling in the 
+field of hydrology, groundwater or pesticide risk assessment. The 
+reference list focuses on general methodology in modelling. The 
+list is not meant to be extensive (but rather a memo). 
+
+Topics: [Good Modelling Practices](#goodModellingPractices) &middot; 
+[Model evaluation](#evaluationOfModels) &middot; [Philosophy of 
+models](#modelPhilosophy)
 
 
 
@@ -20,11 +29,21 @@ INSERT assets/bib/GOOD_MODELLING_PRACTICES.BIB
 
 
 
-Model evaluation    <a name="modelEvaluation"></a>
+Model evaluation    <a name="evaluationOfModels"></a>
 ----------------
 
 Download the [reference list (bibtext format)](/assets/bib/MODEL_EVALUATION.BIB).
 
 INSERT assets/bib/MODEL_EVALUATION.BIB
 
+
+
+Philosophy of models    <a name=philosophyOfModels"></a>
+--------------------
+
+Download the [reference list (bibtext format)](/assets/bib/PHILOSOPHY_OF_MODELS.BIB).
+
+INSERT assets/bib/PHILOSOPHY_OF_MODELS.BIB
+
+<!-- NOTE: DON'T FORGET TO ADD NEW BIB-lists TO THE .R file -->
 

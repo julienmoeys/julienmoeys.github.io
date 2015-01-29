@@ -7,7 +7,7 @@ weight    : 1
 
 <img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" align="right"/>
 
-[en français](/fr/) | Page content: [Presentation](#presentation) &middot; 
+[fr](/fr/) | Page content: [Presentation](#presentation) &middot; 
 [Site content](#sitecontent) &middot; [Contact](#contact) 
 
 ### Presentation   <a name="presentation"></a>
@@ -40,9 +40,14 @@ I am developing (mostly R packages), and some technical notes in the
 [IT lab book](/ITLabBook/) section (mostly about Ubuntu server 
 management). -->
 
-I maintain a small list of [scientific quotations](/Quotations/) that 
-I like. You may also be interested in my [&#9656; picture 
-gallery][jmFlickr] (Flickr).
+I have started a list of general [methodological references in 
+modelling]({% post_url 2015-01-29-modelling-references %}).
+
+I also maintain a small list of [scientific quotations](/Quotations/) 
+that I like.
+
+You may also be interested in my [&#9656; picture gallery][jmFlickr] 
+(on Flickr).
 
 
 

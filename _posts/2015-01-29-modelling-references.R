@@ -17,7 +17,8 @@ out <- referenceBlender(
     fileOut  = "_posts/2015-01-29-modelling-references.md", 
     filesBib = sprintf( 
         "assets/bib/%s", 
-        c( "GOOD_MODELLING_PRACTICES.BIB", "MODEL_EVALUATION.BIB" ) ), 
+        c( "GOOD_MODELLING_PRACTICES.BIB", "MODEL_EVALUATION.BIB", 
+           "PHILOSOPHY_OF_MODELS.BIB" ) ), 
     highlightName = "Moeys" 
 )   
 
