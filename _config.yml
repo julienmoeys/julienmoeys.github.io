@@ -33,12 +33,12 @@ version:             1.0.0
 exclude:
     - ITLabBook.md
     - Software.md
-    - Publications.md0
-    - Publications.R
     - TODOLIST.md
     - INSPIRATION.md
     - README.md 
     - LICENSE.md
+    - "*.md0"
+    - "*.R"
     - "*.Rout"
     - "*.bat"
     - "*.RData"
