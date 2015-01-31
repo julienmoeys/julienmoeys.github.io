@@ -1,12 +1,11 @@
 ---
-layout    : page_en
-title     : Quotations
-longtitle : Quotations I like
-weight    : 4
+layout : post_en
+title  : 'Quotations I like'
 ---
 
 This document lists some of the [quotation][]s I like (quotations 
 that are relevant for the work I am doing, or related to science). 
+This page is updated from time to time.
 
 Topics: [Statistics](#stats) | [Informatics](#informatics) | [Geography and spatial data 
 analysis](#geography) 

@@ -1,3 +1,5 @@
+# Linux # cd /home/jules/Documents/julienmoeys.info/julienmoeys.github.io && R CMD BATCH --vanilla "_posts/2015-01-29-modelling-references.R" 
+# Win   # cd /D "D:/Users/julienm/Documents/_WORKS/_WEB/julienmoeys.github.io" & CMD BATCH --vanilla "_posts/2015-01-29-modelling-references.R" 
 
 rm( list = ls( all = TRUE ) ) 
 

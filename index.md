@@ -40,11 +40,10 @@ I am developing (mostly R packages), and some technical notes in the
 [IT lab book](/ITLabBook/) section (mostly about Ubuntu server 
 management). -->
 
-I have started a list of general [methodological references in 
-modelling]({% post_url 2015-01-29-modelling-references %}).
-
-I also maintain a small list of [scientific quotations](/Quotations/) 
-that I like.
+I present different [memos](/Memos/) on various work related topics (
+[modelling references]({% post_url 2015-01-29-modelling-references %}), 
+[scientific quotations]({% post_url 2015-01-18-quotations %}) and 
+[consulting firms]({% post_url 2015-01-29-consulting-firms %}))
 
 You may also be interested in my [&#9656; picture gallery][jmFlickr] 
 (on Flickr).

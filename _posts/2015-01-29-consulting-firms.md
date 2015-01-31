@@ -1,14 +1,50 @@
 ---
 layout : post_en
-title  : 'Consulting firms (environment, water, pesticide)'
+title  : 'Consulting firms'
 ---
 
-Page content: [Water and environment consulting firms in 
-Sweden](#environment_consulting_sweden) &middot; [Pesticide 
-registration consulting firms](#pesticide_registration_consulting)
+Page content: 
+[Agricultural extension services and cooperatives in Sweden](#extensionServices) &middot; 
+[Water and environment consulting firms in Sweden](#environment_consulting_sweden) &middot; 
+[Pesticide registration consulting firms](#pesticide_registration_consulting)
 
 The lists presented here are not intended to be extensive (rather 
-a memo).
+a memo). This page is updated from time to time.
+
+
+
+Agricultural extension services and cooperatives in Sweden    <a name="extensionServices"></a>
+----------------------------------------------------------
+
+Since the beginning of the 90ies, agricultural extension services 
+in Sweden are mostly provided by private or cooperatives organisations 
+(See [Hans Gradén, 2009](http://stud.epsilon.slu.se/689/1/graden_h_091214.pdf)).
+
+*   [Hushållningssällskapet](http://hushallningssallskapet.se/). 
+    "The Rural Economy and Agricultural Societies", is a federation 
+    of 17 independent societies providing advisory services to farmers 
+    and rural enterprises. Hushållningssällskapet has about 700 
+    employees and 40,000 customers.
+    
+*   [Lantmännen](http://lantmannen.se). Lantmännen is an important 
+    cooperative group (owned by Swedish farmers) in the agricultural 
+    sector in Sweden. It has about 8,500 employees (in 20 countries) 
+    and 32,000 members.
+    
+*   [LRF Konsult](http://www.lrfkonsult.se/). LRF Konsult is the 
+    advisory services branch of the Federation of Swedish Farmers 
+    ([LRF](http://www.lrf.se)). LRF Konsult has about 1500 
+    employees (LRF has about 170,000 individual members).
+    
+*   [Växa Sverige](http://www.vxa.se). Växa has about 500 employees 
+    and 8200 members. Växa Sverige is an important actor in 
+    animal husbandry (dairy farms) in Sweden. 
+
+*   [Rådgivarna](http://www.radgivarna.nu). Rådgivarna has about 
+    40 employees and 650 members, and is connected to 
+    Hushållningssällskapet.
+
+<!-- http://visavi.se -->
 
 
 
@@ -38,6 +74,8 @@ Number of employees is generally given worldwide (when relevant).
 *   [Envix](http://www.envix.se).
 
 See also: [marksaneringsinfo.net/konsult](http://www.marksaneringsinfo.net/konsult.htm).
+
+
 
 Pesticide registration consulting firms    <a name="pesticide_registration_consulting"></a>
 ---------------------------------------
