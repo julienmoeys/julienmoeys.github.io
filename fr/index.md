@@ -43,8 +43,6 @@ sur [&#9656; Google Scholar][jmScholar]), ainsi qu'une présentation
 de mes [activités professionnelles à SLU](/Activities/) (_page en 
 anglais_).
 
-Je maintient aussi une petite liste de [citations 
-scientifiques](/Quotations/) (_page en anglais_) amusantes. 
 Si cela vous intéresse, vous pouvez aussi visiter ma [&#9656; galerie 
 photo][jmFlickr] (sur Flickr).
 
