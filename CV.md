@@ -128,8 +128,8 @@ Informatics    <a name="informatics"></a>
     
     *   S3 and [S4][] **object-oriented programming**.
     
-    *   **Processing geographic data** in [R][] with _[sp][]_, 
-        _[maptools][]_, _[raster][]_, _[rgeos][]_ and _[rgdal][]_.
+    *   **Processing geographic data** in [R][] with [sp][], 
+        [maptools][], [raster][], [rgeos][] and [rgdal][].
     
     *   **Automatic report** generation with [knitr][] or [Sweave][].
     
@@ -147,14 +147,18 @@ Informatics    <a name="informatics"></a>
     
 *   **Web development **: I have a small experience in **[PHP][]**, 
     **[HTML][]** and [CSS][] programming (see my project [ssld][]).
-    I have recently started using the site generator [Jekyll][].
-    See also the paragraph on _content management systems_ below.
+    I have recently started using the site generator [Jekyll][] 
+    (_contrary to most CMS, Jekyll website do not require time 
+    consuming security upgrades_). See also the paragraph on 
+    _content management systems_ below.
     
 *   I have some basic knowledge on how to install and maintain 
     a [Linux][] ([Ubuntu][]) **web-server** and how to write 
     **[bash][]** scripts for automatic tasks (including [cron][] 
-    tasks);
-
+    tasks). I have maintained the web server of the [French Soil 
+    Science Association][AFES] for more than three years (see 
+    [below](#associations)).
+    
 *   [Content Management Systems][CMS]: I have used  
     several content management systems, like [DokuWiki][] (wiki 
     system), [Piwigo][] (picture galleries), and [Spip][], and 
