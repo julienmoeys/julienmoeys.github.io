@@ -24,10 +24,28 @@ img {
   border-bottom:  1px solid #eee;
 } 
 
-/* added by JM */
 a.ORCID {
   background:   url("/assets/img/orcid_16x16(1).png") no-repeat left 8px;
   padding-left: 20px;
   display:      inline;
 } 
+
+a.fr {
+  background:   url("/assets/img/fr.png") no-repeat left 8px;
+  padding-left: 10px;
+  display:      inline;
+} 
+
+a.sv {
+  background:   url("/assets/img/sv.png") no-repeat left 8px;
+  padding-left: 10px;
+  display:      inline;
+} 
+
+a.en {
+  background:   url("/assets/img/uk.png") no-repeat left 8px;
+  padding-left: 10px;
+  display:      inline;
+} 
+
 
