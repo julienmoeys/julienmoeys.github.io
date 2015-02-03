@@ -145,12 +145,10 @@ Informatics    <a name="informatics"></a>
     [GitHub]), as well as the tools such [Redmine][] 
     (and before [Trac][]) or [WebSVN][].
     
-*   **Web development **: I have a small experience in **[PHP][]**, 
+*   **Web development**: I have a small experience in **[PHP][]**, 
     **[HTML][]** and [CSS][] programming (see my project [ssld][]).
-    I have recently started using the site generator [Jekyll][] 
-    (_contrary to most CMS, Jekyll website do not require time 
-    consuming security upgrades_). See also the paragraph on 
-    _content management systems_ below.
+    I have recently started using the site generator [Jekyll][]. 
+    See also the paragraph on _content management systems_ below.
     
 *   I have some basic knowledge on how to install and maintain 
     a [Linux][] ([Ubuntu][]) **web-server** and how to write 
@@ -159,16 +157,18 @@ Informatics    <a name="informatics"></a>
     Science Association][AFES] for more than three years (see 
     [below](#associations)).
     
-*   [Content Management Systems][CMS]: I have used  
-    several content management systems, like [DokuWiki][] (wiki 
-    system), [Piwigo][] (picture galleries), and [Spip][], and 
-    tested quite a few others. I now use [Jekyll][] site generator.
+*   **[Content Management Systems][CMS]** (CMS):  I now use [Jekyll][] 
+    site generator (_not a CMS, but Contrary to most CMS, Jekyll 
+    websites do not require time consuming security upgrades_), 
+    but I have used several content management systems, like 
+    [DokuWiki][] (wiki system), [Piwigo][] (picture galleries), 
+    and [Spip][], and tested quite a few others.
     
 *   **[geographic information system (GIS)][GIS]**: See the 
     paragraph on R GIS features above. I also use [ArcGIS][] 
     regularly. 
-
-*   **Graphics**: Regular user of [Inkscape][] or [The Gimp][].
+    
+*   **Graphics editor**: Regular user of [Inkscape][] or [The Gimp][].
 
 
 
