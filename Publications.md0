@@ -12,7 +12,8 @@ weight    : 2.2
 See also my publication list on [&#9656; Google Scholar][jmGoogleScholar] 
 or [&#9656; SLUPub][jmSLUPub] (SLU publication database).
 
-Page content: [Publications](#publications) | [PhD and master thesis](#thesis)
+Page content: [Publications](#publications) &middot; [PhD and master thesis](#thesis) &middot;
+[Reports and manuals](#reportsAndManuals)
 
 
 
@@ -39,6 +40,16 @@ PhD and master thesis    <a name="thesis"></a>
 Download the [reference list (bibtext format)](/assets/bib/MOEYS_J_PUB_THESIS.BIB).
 
 INSERT assets/bib/MOEYS_J_PUB_THESIS.BIB
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Reports and manuals    <a name="reportsAndManuals"></a>
+-------------------
+
+Download the [reference list (bibtext format)](/assets/bib/MOEYS_J_REPORTS.BIB).
+
+INSERT assets/bib/MOEYS_J_REPORTS.BIB
 
 
 
