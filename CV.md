@@ -9,7 +9,7 @@ Page content: [Contact](#contact) | [Education](#education) |
 [Fields of expertise](#expertiseFields) | 
 [Professional experience](#professionalexperience) | 
 [Publications](#publications) | [Teaching](#teaching) | 
-[Programming](#programming) | [Open Source](#opensource) | 
+[Informatics](#informatics) | [Open Source](#opensource) | 
 [Associations](#associations) 
 
 
@@ -117,41 +117,54 @@ Teaching    <a name="teaching"></a>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Programming    <a name="programming"></a>
+Informatics    <a name="informatics"></a>
 -----------
 
-*   **[R][]** language for statistical computing:
+*   **[R][]** programming language for statistical computing:
     
     *   **Writing and documenting [R packages][]** (developer and 
-        maintainer of > 20 packages; See also [open source](#opensource) 
-        section). [roxygen2][] and [inlinedocs][] documentation;
+        maintainer of > 20 packages. I use [roxygen2][] and 
+        [inlinedocs][] documentation systems.
     
-    *   Writing **[FORTRAN][]** subroutines;
+    *   S3 and [S4][] **object-oriented programming**.
     
-    *   S3 and [S4][] **object-oriented programming**;
+    *   **Processing geographic data** in [R][] with _[sp][]_, 
+        _[maptools][]_, _[raster][]_, _[rgeos][]_ and _[rgdal][]_.
     
-    *   **Processing geographic data** in [R][] with _sp_, _[maptools][]_, 
-        _[raster][]_, _[rgeos][]_ and _[rgdal][]_;
+    *   **Automatic report** generation with [knitr][] or [Sweave][].
     
-    *   **Automatic report** generation with [Sweave][] or [knitr][];
+    *   Interface with databases (see below).
+    
+    *   Writing [FORTRAN][] subroutines (limited experience).
     
 *   **Database systems**: [SQLite][], [MySQL][], [MS Access][], 
     [SQL][] and database interface with [R][] (see my project 
-    [easydb][]);
+    [easydb][]).
     
-*   **Version control** with [Subversion][];
+*   **Version control** with [Subversion][] and [Git][] (and 
+    [GitHub]), as well as the tools such [Redmine][] 
+    (and before [Trac][]) or [WebSVN][].
     
-*   I have a small experience in **[PHP][]**, **[HTML][]** and 
-    [CSS][] programming (see my project [ssld][]).
-
+*   **Web development **: I have a small experience in **[PHP][]**, 
+    **[HTML][]** and [CSS][] programming (see my project [ssld][]).
+    I have recently started using the site generator [Jekyll][].
+    See also the paragraph on _content management systems_ below.
+    
 *   I have some basic knowledge on how to install and maintain 
     a [Linux][] ([Ubuntu][]) **web-server** and how to write 
     **[bash][]** scripts for automatic tasks (including [cron][] 
     tasks);
 
-*   Other: **GIS** [ArcGIS][]; Various [CMS][] like [DokuWiki][] 
-    (wiki system) or [Piwigo][] (picture galleries); **Graphics** 
-    with [Inkscape] or [The Gimp][]; 
+*   [Content Management Systems][CMS]: I have used  
+    several content management systems, like [DokuWiki][] (wiki 
+    system), [Piwigo][] (picture galleries), and [Spip][], and 
+    tested quite a few others. I now use [Jekyll][] site generator.
+    
+*   **[geographic information system (GIS)][GIS]**: See the 
+    paragraph on R GIS features above. I also use [ArcGIS][] 
+    regularly. 
+
+*   **Graphics**: Regular user of [Inkscape][] or [The Gimp][].
 
 
 
@@ -187,8 +200,8 @@ Associations    <a name="associations"></a>
 ------------
 
 *   Between 2011 and 2013 (and a a bit before that) I was **webmaster** 
-    and **member of the board** of the **[French Soil Science Association 
-    (AFES)][AFES]**. 
+    and **member of the board** of the **[French Soil Science 
+    Association (AFES)][AFES]**. 
     
 *   Since 2012 I am **member of the board** of the Uppsala-based 
     association **[Families for International Friendship 
@@ -229,7 +242,6 @@ Associations    <a name="associations"></a>
 
 <!--- IT links (except R) -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 
-[CMS]:              http://en.wikipedia.org/wiki/Content_management_system "Content management system" 
 [DokuWiki]:         https://www.dokuwiki.org "DokuWiki"
 [Piwigo]:           http://piwigo.org/ "Piwigo" 
 [ArcGIS]:           http://en.wikipedia.org/wiki/ArcGIS "ArcGIS software"
@@ -252,6 +264,15 @@ Associations    <a name="associations"></a>
 [cron]:             http://en.wikipedia.org/wiki/Cron "cron job scheduler" 
 [Open source]:      http://en.wikipedia.org/wiki/Open_source "Open source (Wikipedia)"
 [Attribution]:      http://en.wikipedia.org/wiki/Attribution_%28copyright%29 "Attribution as copyright (Wikipedia)"
+[Git]:              https://en.wikipedia.org/wiki/Git_%28software%29  "Git distributed revision control system (Wikipedia)"
+[CMS]:              http://en.wikipedia.org/wiki/Content_management_system  "Content Management System (Wikipedia)"
+[Trac]:             http://trac.edgewall.org/  "Enhanced wiki and issue tracking system for software development projects"
+[Redmine]:          http://www.redmine.org/  "Flexible project management web application"
+[GitHub]:           http://en.wikipedia.org/wiki/GitHub  "Github (Wikipedia)"
+[WebSVN]:           http://www.websvn.info/  "WebSVN (subversion browser)"
+[Jekyll]:           http://en.wikipedia.org/wiki/Jekyll_%28software%29
+[Spip]:             http://www.spip.net  "Spip content management system"
+[GIS]:              http://en.wikipedia.org/wiki/Geographic_information_system  "geographic information system (GIS) (Wikipedia)" 
 
 <!--- R links -->
 [R]:                http://www.r-project.org/ "The R Project for Statistical Computing" 
@@ -274,6 +295,7 @@ Associations    <a name="associations"></a>
 [inlinedocs]:       http://cran.r-project.org/web/packages/inlinedocs/ "inlinedocs (R package)"
 [R packages]:       http://cran.r-project.org/doc/manuals/R-exts.html 
 [S4]:               http://cran.r-project.org/doc/manuals/r-release/R-ints.html#S4-objects "S4 objects"
+[sp]:               http://cran.r-project.org/web/packages/sp/  "sp (R package)"
 
 <!--- 'Long' links -->
 [Soil and Environment]:  http://www.slu.se/en/departments/soil-environment/ "Soil and Environment"
