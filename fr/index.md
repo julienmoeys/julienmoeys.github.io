@@ -7,8 +7,9 @@ weight    : 1
 
 <img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo de Julien Moeys" align="right"/>
 
-[en](/) | Page content: [Présentation](#presentation) | 
-[Contenu du site](#contenudusite) | [Contact](#contact) 
+Page content: [Présentation](#presentation) &middot; 
+[Contenu du site](#contenudusite) &middot; [Contact](#contact) | 
+<a href="/" class="en" alt="in English">en</a>
 
 ### Présentation   <a name="presentation"></a>
 
