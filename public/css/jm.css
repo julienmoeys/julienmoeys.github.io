@@ -32,19 +32,19 @@ a.ORCID {
 
 a.fr {
   background:   url("/assets/img/fr.png") no-repeat left 8px;
-  padding-left: 10px;
+  padding-left: 20px;
   display:      inline;
 } 
 
 a.sv {
   background:   url("/assets/img/sv.png") no-repeat left 8px;
-  padding-left: 10px;
+  padding-left: 20px;
   display:      inline;
 } 
 
 a.en {
   background:   url("/assets/img/uk.png") no-repeat left 8px;
-  padding-left: 10px;
+  padding-left: 20px;
   display:      inline;
 } 
 
