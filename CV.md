@@ -137,6 +137,9 @@ Informatics    <a name="informatics"></a>
     
     *   Writing [FORTRAN][] subroutines (limited experience).
     
+    *   I have been **teaching** two short courses on R programming 
+        (_see [above](#teaching)_)
+    
 *   **Database systems**: [SQLite][], [MySQL][], [MS Access][], 
     [SQL][] and database interface with [R][] (see my project 
     [easydb][]).
@@ -158,7 +161,7 @@ Informatics    <a name="informatics"></a>
     [below](#associations)).
     
 *   **[Content Management Systems][CMS]** (CMS):  I now use [Jekyll][] 
-    site generator (_not a CMS, but Contrary to most CMS, Jekyll 
+    site generator (_not a CMS, but contrary to most CMS, Jekyll 
     websites do not require time consuming security upgrades_), 
     but I have used several content management systems, like 
     [DokuWiki][] (wiki system), [Piwigo][] (picture galleries), 
