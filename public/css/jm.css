@@ -5,10 +5,11 @@
  *
  */
 
-img {
-  display: block;
-  max-width: 100%;
+img.right {
+  display:       block;
+  max-width:     100%;
   /* modified by JM */
+  float:         right;
   margin-top:    0px;
   margin-bottom: 10px;
   margin-right:  10px;
