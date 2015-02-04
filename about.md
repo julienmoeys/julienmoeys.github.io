@@ -5,14 +5,14 @@ longtitle : About this website
 weight    : 1
 ---
 
-Contact   <a name="contact"></a>
+Contact   <a id="contact"></a>
 -------
 
 See the [home page](/#contact) of this site.
 
 
 
-Technical aspects
+Technical aspects   <a id="technicalAspects"></a>
 -----------------
 
 ### Website generator

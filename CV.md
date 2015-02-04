@@ -14,7 +14,7 @@ Page content: [Contact](#contact) | [Education](#education) |
 
 
 
-Contact   <a name="contact"></a>
+Contact   <a id="contact"></a>
 -------
 
 See the [home page](/#contact) of this site.
@@ -24,7 +24,7 @@ See the [home page](/#contact) of this site.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Education    <a name="education"></a>
+Education    <a id="education"></a>
 ---------
 
 *   **Ph.D.** in Soil Science ([AgroParisTech][], [EGC][], 2007). 
@@ -39,7 +39,7 @@ Education    <a name="education"></a>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Fields of expertise   <a name="expertiseFields"></a>
+Fields of expertise   <a id="expertiseFields"></a>
 -------------------
 
 *   Modelling **water flow and pesticide fate in soils**; 
@@ -59,7 +59,7 @@ research and teaching activities.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Professional experience    <a name="professionalexperience"></a>
+Professional experience    <a id="professionalexperience"></a>
 -----------------------
 
 *   _01/2011 - Now_: **Research Engineer at SLU** (Uppsala), department of 
@@ -87,7 +87,7 @@ Professional experience    <a name="professionalexperience"></a>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Publications    <a name="publications"></a>
+Publications    <a id="publications"></a>
 ------------
 
 See my **publication list** [**on this page**](/Publications/).
@@ -98,7 +98,7 @@ or [&#9656; SLUPub][jmSLUPub] (SLU publication database).
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Teaching    <a name="teaching"></a>
+Teaching    <a id="teaching"></a>
 --------
 
 *   Teaches some computer based modelling exercises for 
@@ -117,7 +117,7 @@ Teaching    <a name="teaching"></a>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Informatics    <a name="informatics"></a>
+Informatics    <a id="informatics"></a>
 -----------
 
 *   **[R][]** programming language for statistical computing:
@@ -176,7 +176,7 @@ Informatics    <a name="informatics"></a>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Open Source    <a name="opensource"></a>
+Open Source    <a id="opensource"></a>
 -----------
 
 *   Creator & maintainer of a **geographical directory of soil science 
@@ -203,7 +203,7 @@ Open Source    <a name="opensource"></a>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Associations    <a name="associations"></a>
+Associations    <a id="associations"></a>
 ------------
 
 *   Between 2011 and 2013 (and a a bit before that) I was **webmaster** 
@@ -252,7 +252,7 @@ Associations    <a name="associations"></a>
 [DokuWiki]:         https://www.dokuwiki.org "DokuWiki"
 [Piwigo]:           http://piwigo.org/ "Piwigo" 
 [ArcGIS]:           http://en.wikipedia.org/wiki/ArcGIS "ArcGIS software"
-[Inkscape]:         http://www.inkscape.org/en/ "Inkscape software"
+[Inkscape]:         http://inkscape.org/en/ "Inkscape software"
 [The Gimp]:         http://www.gimp.org/ "The Gimp software" 
 [Subversion]:       http://subversion.apache.org/ "Subversion software" 
 [MySQL]:            http://www.mysql.com/ "MySQL database" 
@@ -287,7 +287,7 @@ Associations    <a name="associations"></a>
 [easydb]:           https://r-forge.r-project.org/projects/easydb/ "easy database interface (R package)"
 [soilwaterfun]:     https://r-forge.r-project.org/projects/soilwater/ "soilwaterfun (R package)" 
 [soilwaterptf]:     https://r-forge.r-project.org/projects/soilwater/ "soilwaterptf (R package)" 
-[soiltexture]:      http://cran.r-project.org/web/packages/soiltexture "soiltexture (R package)" 
+[soiltexture]:      http://cran.r-project.org/web/packages/soiltexture/ "soiltexture (R package)" 
 [bibtex]:           http://cran.r-project.org/web/packages/bibtex "bibtex (R package)" 
 [markdown]:         http://cran.r-project.org/web/packages/markdown "markdown (R package)" 
 [RODBC]:            http://cran.r-project.org/web/packages/RODBC/ "RODBC (R package)"

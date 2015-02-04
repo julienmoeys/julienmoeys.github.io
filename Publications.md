@@ -17,7 +17,7 @@ Page content: [Publications](#publications) &middot; [PhD and master thesis](#th
 
 
 
-Publications (peer reviewed)    <a name="publications"></a>
+Publications (peer reviewed)    <a id="publications"></a>
 ----------------------------
 
 Download the [reference list (bibtext format)](/assets/bib/MOEYS_J_PUB_PEER.BIB).
@@ -47,7 +47,7 @@ format)](/assets/bib/MOEYS_J_PUB_CORRECTIONS.BIB) for corrections)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-PhD and master thesis    <a name="thesis"></a>
+PhD and master thesis    <a id="thesis"></a>
 ---------------------
 
 Download the [reference list (bibtext format)](/assets/bib/MOEYS_J_PUB_THESIS.BIB).
@@ -59,7 +59,7 @@ Download the [reference list (bibtext format)](/assets/bib/MOEYS_J_PUB_THESIS.BI
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Reports and manuals    <a name="reportsAndManuals"></a>
+Reports and manuals    <a id="reportsAndManuals"></a>
 -------------------
 
 Download the [reference list (bibtext format)](/assets/bib/MOEYS_J_REPORTS.BIB).

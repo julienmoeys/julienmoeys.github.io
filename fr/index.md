@@ -11,7 +11,7 @@ Page content: [Présentation](#presentation) &middot;
 [Contenu du site](#contenudusite) &middot; [Contact](#contact) | 
 <a href="/" class="en" alt="in English">en</a>
 
-### Présentation   <a name="presentation"></a>
+### Présentation   <a id="presentation"></a>
 
 Je suis ingénieur de recherche (Dr.) dans le département "Sol et 
 Environnement" ([Soil and Environment][SLUSoil]), équipe "Biogéophysique 
@@ -36,7 +36,7 @@ en Suède.
 
 
 
-### Contenu du site   <a name="contenudusite"></a>
+### Contenu du site   <a id="contenudusite"></a>
 
 Sur ce site, je présente mon [CV](/CV/), une [liste de 
 publications](/Publications/) (_page en anglais_. Voir aussi ma page
@@ -49,7 +49,7 @@ photo][jmFlickr] (sur Flickr).
 
 
 
-### Contact   <a name="contact"></a>
+### Contact   <a id="contact"></a>
 
 > Julien MOEYS   
 > Swedish University of Agricultural Sciences (SLU)   

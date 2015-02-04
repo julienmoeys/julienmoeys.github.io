@@ -11,7 +11,7 @@ Page content: [Presentation](#presentation) &middot;
 [Site content](#sitecontent) &middot; [Contact](#contact) | 
 <a href="/fr/" class="fr" alt="en français">fr</a>
 
-### Presentation   <a name="presentation"></a>
+### Presentation   <a id="presentation"></a>
 
 I am a research engineer (PhD) in the department 
 of [Soil and Environment][SLUSoil] ([Biogeophysics and Water Quality][BGFVV] 
@@ -30,7 +30,7 @@ fate modelling in Sweden.
 
 
 
-### Site Content   <a name="sitecontent"></a>
+### Site Content   <a id="sitecontent"></a>
 
 On this website, I present my [curriculum](/CV/), a list of 
 [publications](/Publications/) (also on [&#9656; Google Scholar][jmScholar]) 
@@ -51,7 +51,7 @@ You may also be interested in my [&#9656; picture gallery][jmFlickr]
 
 
 
-### Contact   <a name="contact"></a>
+### Contact   <a id="contact"></a>
 
 > Julien MOEYS   
 > Swedish University of Agricultural Sciences (SLU)   

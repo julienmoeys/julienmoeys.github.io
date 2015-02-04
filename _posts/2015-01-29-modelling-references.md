@@ -20,7 +20,7 @@ models](#modelPhilosophy)
 
 
 
-Good Modelling Practices    <a name="goodModellingPractices"></a>
+Good Modelling Practices    <a id="goodModellingPractices"></a>
 ------------------------
 
 Download the [reference list (bibtext format)](/assets/bib/GOOD_MODELLING_PRACTICES.BIB).
@@ -41,7 +41,7 @@ Download the [reference list (bibtext format)](/assets/bib/GOOD_MODELLING_PRACTI
 
 
 
-Model evaluation    <a name="evaluationOfModels"></a>
+Model evaluation    <a id="evaluationOfModels"></a>
 ----------------
 
 Download the [reference list (bibtext format)](/assets/bib/MODEL_EVALUATION.BIB).
@@ -52,7 +52,7 @@ Download the [reference list (bibtext format)](/assets/bib/MODEL_EVALUATION.BIB)
 
 
 
-Philosophy of models    <a name=philosophyOfModels"></a>
+Philosophy of models    <a id=philosophyOfModels"></a>
 --------------------
 
 Download the [reference list (bibtext format)](/assets/bib/PHILOSOPHY_OF_MODELS.BIB).

@@ -15,7 +15,7 @@ Last update: 2015-02-04
 
 
 
-Agricultural extension services and cooperatives in Sweden    <a name="extensionServices"></a>
+Agricultural extension services and cooperatives in Sweden    <a id="extensionServices"></a>
 ----------------------------------------------------------
 
 Since the beginning of the 90ies, agricultural extension services 
@@ -50,7 +50,7 @@ in Sweden are mostly provided by private or cooperatives organisations
 
 
 
-Water and environment consulting firms in Sweden    <a name="environment_consulting_sweden"></a>
+Water and environment consulting firms in Sweden    <a id="environment_consulting_sweden"></a>
 ------------------------------------------------
 
 These companies provide consulting on geosciences, water and/or 
@@ -79,7 +79,7 @@ See also: [marksaneringsinfo.net/konsult](http://www.marksaneringsinfo.net/konsu
 
 
 
-Pesticide registration consulting firms    <a name="pesticide_registration_consulting"></a>
+Pesticide registration consulting firms    <a id="pesticide_registration_consulting"></a>
 ---------------------------------------
 
 These companies provide consulting on pesticide registration or 

@@ -12,7 +12,7 @@ analysis](#geography)
 
 
 
-Statistics   <a name="stats"></a>
+Statistics   <a id="stats"></a>
 ==========
 
 The statistics questions and answers site [Cross 
@@ -36,7 +36,7 @@ See the above mentioned page on "Cross Validated".
 
 
 
-Informatics   <a name="informatics"></a>
+Informatics   <a id="informatics"></a>
 ===========
 
 Maurice Wilkes
@@ -56,7 +56,7 @@ Telegraph, citing this quotation.
 
 
 
-Solomon W. Golomb   <a name="golomb"></a>
+Solomon W. Golomb   <a id="golomb"></a>
 -----------------
 
 About [Solomon W Golomb][SolomonWGolomb].
@@ -137,7 +137,7 @@ In F.P. Brooks, Jr. "The Mythical Man-Month". 1975. Addison-Wesley.
 
 
 
-Geography and spatial data analysis   <a name="geography"></a>
+Geography and spatial data analysis   <a id="geography"></a>
 ===================================
 
 Alfred Korzybski
