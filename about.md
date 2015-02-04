@@ -42,22 +42,23 @@ The main reason for adopting [Jekyll][] site generator is that:
 
 ### Webhosting
 
-This website will be hosted by [Inleed][].
+This website is hosted by [Inleed][], in [Falun][], Sweden.
 
 
 
 <!-- List of links -->
-[Jekyll]:             http://jekyllrb.com/            "Jekyll static site generator"
-[Poole]:              http://getpoole.com/            "The Poole template for Jekyll"
-[Lanyon]:             http://lanyon.getpoole.com/     "A theme for Jekyll-Poole"
-[mdo]:                https://github.com/mdo          "Mark Otto (Poole creator)"
+                    
+[Jekyll]:           http://jekyllrb.com/  "Jekyll static site generator"
+[Poole]:            http://getpoole.com/  "The Poole template for Jekyll"
+[Lanyon]:           http://lanyon.getpoole.com/  "A theme for Jekyll-Poole"
+[mdo]:              https://github.com/mdo  "Mark Otto (Poole creator)"
 [Tom Preston-Werner]: http://tom.preston-werner.com/  "Tom Preston-Werner (Jekyll creator)"
-[Inleed]:             http://www.inleed.se/           "Inleed webhotell"
-[markdown]:           http://daringfireball.net/projects/markdown/ "Markdown text-to-HTML conversion tool for web writers"
+[Inleed]:           http://www.inleed.se/  "Inleed webhotell"
+[markdown]:         http://daringfireball.net/projects/markdown/  "Markdown text-to-HTML conversion tool for web writers"
 [julienmoeys.github.io]: https://github.com/julienmoeys/julienmoeys.github.io "Website repository"
-[Github]:             http://github.com               "Github web-based repository hosting service"
-[Static_web_page]:    http://en.wikipedia.org/wiki/Static_web_page  "Static web page (Wikipedia)"
+[Github]:           http://github.com  "Github web-based repository hosting service"
+[Static_web_page]:  http://en.wikipedia.org/wiki/Static_web_page  "Static web page (Wikipedia)"
 [Software_versioning]: http://en.wikipedia.org/wiki/Software_versioning  "Software versioning (Wikipedia)"
-[Vulnerability]:      http://en.wikipedia.org/wiki/Vulnerability_%28computing%29  "Vulnerability - computing (Wikipedia)"
-[CMS]:                http://en.wikipedia.org/wiki/Content_management_system  "Content management system (Wikipedia)"
-
+[Vulnerability]:    http://en.wikipedia.org/wiki/Vulnerability_%28computing%29  "Vulnerability - computing (Wikipedia)"
+[CMS]:              http://en.wikipedia.org/wiki/Content_management_system  "Content management system (Wikipedia)"
+[Falun]:            http://en.wikipedia.org/wiki/Falun  "Falun (Wikipedia)"
