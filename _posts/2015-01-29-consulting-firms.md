@@ -11,6 +11,8 @@ Page content:
 The lists presented here are not intended to be extensive (rather 
 a memo). This page is updated from time to time.
 
+Last update: 2015-02-04
+
 
 
 Agricultural extension services and cooperatives in Sweden    <a name="extensionServices"></a>
@@ -94,6 +96,18 @@ employees is generally given worldwide (when relevant).
 *   [TSGE Consulting](http://www.tsgeurope.com/)
 *   [ACTA](http://www.actagroup.com/).
 *   [toXel](http://www.toxcel.com).
+*   [CEHTRA](http://www.cehtra.fr/). Consultancy for Environmental 
+    & Human Toxicology and Risk Assessment.
+*   [AUXILIFE](http://www.auxilife.com).
+*   [Cambridge Environmental Assessments 
+    (CEA)](http://www.cea.adas.co.uk), ADAS UK Ltd.
+*   [SCC - Scientific Consulting Company](http://www.scc-gmbh.de).
+*   [WSC Regexperts](http://wsc-regexperts.com/en/) (WSC Scientific 
+    GmbH).
 
 <!-- WCA (http://www.wca-environment.com) (about 15 employees). -->
+<!-- http://www.nufarm.com -->
+<!-- http://www.isagro.com -->
+<!-- http://www.cheminova.com -->
+
 
