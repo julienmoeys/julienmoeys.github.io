@@ -26,19 +26,20 @@ with the [markdown][] syntax. The source code is
 [version controlled][Software_versioning] and can be found on my 
 [Github][] repository [julienmoeys.github.io][]
 
-The main reason for adopting [Jekyll][] site generator is that:
+<!-- 
+    The main reason for adopting [Jekyll][] site generator is that:
 
-*   the generated website is [static][Static_web_page], and thus 
-    much less susceptible to security [vulnerabilities][Vulnerability] 
-    (less than dynamic [Content Management Systems][CMS]) and does 
-    not require PhP or MySQL to be rendered.
+    *   the generated website is [static][Static_web_page], and thus 
+        much less susceptible to security [vulnerabilities][Vulnerability] 
+        (less than dynamic [Content Management Systems][CMS]) and does 
+        not require PhP or MySQL to be rendered.
 
-*   the website sources are mostly human readable text files, that 
-    can be version controlled.
+    *   the website sources are mostly human readable text files, that 
+        can be version controlled.
 
-*   the website is lightweight and this accessible to most 
-    computers.
-
+    *   the website is lightweight and this accessible to most 
+        computers.
+-->
 
 ### Webhosting
 
@@ -47,7 +48,6 @@ This website is hosted by [Inleed][], in [Falun][], Sweden.
 
 
 <!-- List of links -->
-                    
 [Jekyll]:           http://jekyllrb.com/  "Jekyll static site generator"
 [Poole]:            http://getpoole.com/  "The Poole template for Jekyll"
 [Lanyon]:           http://lanyon.getpoole.com/  "A theme for Jekyll-Poole"
