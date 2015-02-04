@@ -1,0 +1,11 @@
+RewriteEngine on
+
+# Block Referrer Spam
+#   Notice it might be useless as Referrer Spam may target 
+#   Google Analytics directly, not the server...
+RewriteCond %{HTTP_REFERER} (bestwebsitesawards\.com) [NC,OR]
+RewriteCond %{HTTP_REFERER} (buttons-for-website\.com) [NC,OR]
+RewriteCond %{HTTP_REFERER} (darodar\.com) [NC,OR]
+RewriteCond %{HTTP_REFERER} (semalt\.com) [NC]
+RewriteRule .* - [F]
+
