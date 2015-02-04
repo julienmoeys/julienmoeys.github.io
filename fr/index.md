@@ -5,7 +5,7 @@ longtitle : Julien Moeys
 weight    : 1
 ---
 
-<img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo de Julien Moeys" align="right"/>
+<img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" class="right"/>
 
 Page content: [Présentation](#presentation) &middot; 
 [Contenu du site](#contenudusite) &middot; [Contact](#contact) | 
