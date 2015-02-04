@@ -9,7 +9,7 @@ weight    : 1
 
 Page content: [Presentation](#presentation) &middot; 
 [Site content](#sitecontent) &middot; [Contact](#contact) | 
-<a href="/fr/" class="fr" alt="en français">fr</a>
+<a href="/fr/" class="fr">fr</a>
 
 ### Presentation   <a id="presentation"></a>
 
@@ -57,13 +57,13 @@ You may also be interested in my [&#9656; picture gallery][jmFlickr]
 > Swedish University of Agricultural Sciences (SLU)   
 > Department of Soil and Environment   
 > box 7014; 750 07 Uppsala, Sweden.   
-> email: <a href="mailto:contact{AT}julienmoeys{DOT}info" alt="Julien Moeys e-mail" >contact&#123;AT&#125;julienmoeys&#123;DOT&#125;info</a>   
+> email: <a href="mailto:contact{AT}julienmoeys{DOT}info">contact&#123;AT&#125;julienmoeys&#123;DOT&#125;info</a>   
 
 Visiting address: Lennart Hjelms väg 9. View on [&#9656; Google Maps][gMapSLU], 
 [&#9656; Hitta.se][hMapSLU] or the [&#9656; Swedish National Land Survey 
 (Lantmäteriet)][sluLM].
 
-<a href="http://orcid.org/0000-0001-9644-4383" alt="Julien Moeys ORCID" class="ORCID" ><code>orcid.org/0000-0001-9644-4383</code></a>
+<a href="http://orcid.org/0000-0001-9644-4383" class="ORCID"><code>orcid.org/0000-0001-9644-4383</code></a>
 
 
 

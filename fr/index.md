@@ -9,7 +9,7 @@ weight    : 1
 
 Page content: [Présentation](#presentation) &middot; 
 [Contenu du site](#contenudusite) &middot; [Contact](#contact) | 
-<a href="/" class="en" alt="in English">en</a>
+<a href="/" class="en">en</a>
 
 ### Présentation   <a id="presentation"></a>
 
@@ -60,7 +60,7 @@ Adresse de visite: Lennart Hjelms väg 9. Voir sur [&#9656; Google
 Maps][gMapSLU], [&#9656; Hitta.se][hMapSLU] ou [&#9656; L'Institut 
 National Géographique de Suède (Lantmäteriet)][sluLM].
 
-<a href="http://orcid.org/0000-0001-9644-4383" alt="ORCID de Julien Moeys" class="ORCID" ><code>orcid.org/0000-0001-9644-4383</code></a>
+<a href="http://orcid.org/0000-0001-9644-4383" class="ORCID"><code>orcid.org/0000-0001-9644-4383</code></a>
 
 
 
