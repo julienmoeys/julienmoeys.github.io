@@ -39,6 +39,9 @@ See the above mentioned page on "Cross Validated".
 Informatics   <a id="informatics"></a>
 ===========
 
+For many more quotes on software engineers, see the page [Quotes 
+for Software Engineers][SEQuotes] (by Rajapakse DC).
+
 Maurice Wilkes
 --------------
 
@@ -127,13 +130,28 @@ September 2013, [R fortunes][RFortunes] #356
 Fred P. Brooks
 --------------
 
-About [Fred p. Brooks][FredBrooks]
+About [Fred P. Brooks][FredBrooks].
 
 > adding manpower to a late software project makes it later.
 
 This quotation is know as [Brooks's law][BrookssLaw].
 
 In F.P. Brooks, Jr. "The Mythical Man-Month". 1975. Addison-Wesley.
+
+See also the other quotes from Fred Brooks on [Quotes for Software 
+Engineers][SEQuotes].
+
+
+
+Ralph Johnson
+-------------
+
+About [Ralph Johnson][RalphJohnson].
+
+> Before software can be reusable it first has to be usable.
+
+Source: [Quotes for Software Engineers][SEQuotes]. Notice that 
+I have not been able to find the exact reference of this quote.
 
 
 
@@ -177,3 +195,5 @@ by Solomon W. Golomb.
 [MauriceWilkes]:    http://en.wikipedia.org/wiki/Maurice_Wilkes  "Maurice Wilkes (Wikipedia)"
 [RonaldFisher]:     http://en.wikipedia.org/wiki/Ronald_Fisher  "Ronald Fisher (Wikipedia)" 
 [CrossValidated]:   http://stats.stackexchange.com/  "Cross Validated (@stackexchange.com)"
+[RalphJohnson]:     http://en.wikipedia.org/wiki/Ralph_Johnson_%28computer_scientist%29  "Ralph Johnson (Wikipedia)"
+[SEQuotes]:         http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm  "Quotes for Software Engineers (DAMITH C. RAJAPAKSE)"
