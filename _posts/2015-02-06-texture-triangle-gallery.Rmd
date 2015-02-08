@@ -1,0 +1,133 @@
+---
+layout : post_en
+title  : 'Texture triangle gallery'
+---
+
+<!-- DO NOT EDIT THE .md file. Edit the .Rmd file instead -->
+
+Last update: `r format( Sys.time(), "%Y-%m-%d" )`
+
+This page presents a gallery of texture triangles, as generated 
+with my R package [soiltexture](http://cran.r-project.org/web/packages/soiltexture/).
+
+```{r general-options, echo=FALSE}
+if( Sys.info()[[ "sysname" ]] == "Linux" ){ 
+    setwd( wd <- "/home/jules/Documents/julienmoeys.info/julienmoeys.github.io" )
+}else{ 
+    setwd( wd <- "D:/Users/julienm/Documents/_WORKS/_WEB/julienmoeys.github.io" )
+}   
+
+library( "soiltexture" ) 
+```
+
+```{r generate-triangle-plots, echo=FALSE}
+# List of texture triangles
+triangleList <- c( "FAO50.TT", "USDA.TT", "FR.AISNE.TT", 
+    "FR.GEPPA.TT", "DE.BK94.TT", "UK.SSEW.TT", "BE.TT", 
+    "CA.FR.TT", "CA.EN.TT", "AU.TT", "ISSS.TT", "ROM.TT" )
+
+# Filename template
+fn <- file.path( wd, "assets/img/textureGallery/%s-%s.PNG" )
+
+# Generate triangle plots and save as PNG
+for( tr in triangleList ){
+    for( type in c( "simple", "gradient" ) ){ 
+        # tr <- triangleList[ 1L ]; type <- "simple" 
+        
+        png( 
+            filename = sprintf( fn, tr, type ), 
+            width    = 1024, 
+            height   = 1024, 
+            res      = 75 * 1
+        )   
+            
+            if( type == "simple" ){ 
+                TT.plot( class.sys = tr )
+            }else{ 
+                TT.plot( class.sys = tr, class.p.bg.col = TRUE )
+            }   
+            
+        dev.off() 
+    }   
+}   
+```
+
+```{r extract-titles, echo=FALSE}
+pr <- TT.get()
+
+# Extract plot titles:
+main <- unlist( lapply( X = triangleList, FUN = function(tr){ 
+    return( pr[[ tr ]][[ "main" ]] ) } ) ) 
+
+```
+
+```{r generate-page-menu, echo=FALSE, results="asis"}
+menu <- unlist( lapply( 
+    X   = 1:length(triangleList), 
+    FUN = function(i){ 
+        return( sprintf( 
+            "[%s](#%s)", 
+            main[ i ], 
+            triangleList[ i ] 
+        ) ) 
+    } 
+) ) 
+
+menu <- paste( menu, collapse = " | " ) 
+menu <- paste( "Page content:", menu, "\n\n" ) 
+
+cat( menu )
+```
+
+```{r generate-image-gallery, echo=FALSE, results="asis"}
+content <- unlist( lapply( 
+    X   = 1:length(triangleList), 
+    FUN = function(i){ 
+        out <- c(
+            main[ i ], 
+            paste( 
+                rep( "-", times = nchar( main[ i ] ) ), 
+                collapse = "" 
+            ),  
+            sprintf( 
+                '![%s](%s "%s")', 
+                triangleList[ i ], 
+                sprintf( fn, triangleList[ i ], "gradient" ), 
+                main[ i ] 
+            ),  
+            sprintf( 
+                "Image without color gradient available [here](/%s).", 
+                sprintf( fn, triangleList[ i ], "simple" )
+            )   
+        )   
+        
+        out <- paste( out, "\n", sep = "" ) 
+        
+        out[ length( out ) ] <- paste( 
+            out[ length( out ) ], 
+            "\n\n", 
+            sep = "" )
+        
+        return( out ) 
+    } 
+) ) 
+
+cat( content )
+```
+
+Technical information
+---------------------
+
+Below some informations on 
+
+```{r tech-info, echo=TRUE}
+ip <- installed.packages() 
+# Package version
+ip[ "soiltexture", "Version" ] 
+ip[ "knitr",       "Version" ] 
+
+# System information
+Sys.info()[ c("sysname", "release", "version", "machine" ) ]
+```
+
+
