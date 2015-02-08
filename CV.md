@@ -200,6 +200,7 @@ Open Source    <a id="opensource"></a>
     ([MySQL][], [SQLite][], [MS Access][] and [MS Excel][]. It is build 
     on lower level [R][] packages [RODBC][], [DBI][] and [RSQlite][];
 
+See also [this page](/Software/) on my software development.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

@@ -36,6 +36,9 @@ On this website, I present my [curriculum](/CV/), a list of
 [publications](/Publications/) (also on [&#9656; Google Scholar][jmScholar]) 
 and a presentation of [my activities at SLU](/Activities/).
 
+You can find information on the [software](/Software/) 
+I am developing (R packages).
+
 <!-- You will (soon) find information on the [software](/Software/) 
 I am developing (mostly R packages), and some technical notes in the 
 [IT lab book](/ITLabBook/) section (mostly about Ubuntu server 
