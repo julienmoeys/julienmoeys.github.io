@@ -7,8 +7,8 @@ weight    : 1
 
 <img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" class="right"/>
 
-Page content: [Presentation](#presentation) &middot; 
-[webbplatsen innehåll](#sitecontent) &middot; 
+Sidinnehall: [Presentation](#presentation) &middot; 
+[Webbplatsinnehåll](#sitecontent) &middot; 
 [Kontaktinformation](#contact) | 
 <a href="/fr/" class="fr">fr</a> | 
 <a href="/" class="en">en</a>
@@ -19,7 +19,7 @@ Jag är forskningsingenjör (PhD) på [Institutionen för mark och miljö][sluMa
 ([Biogeofysik och vattenvård][BGFVV] avdelning), på 
 [Sveriges lantbruksuniversitet][SLU], i [Uppsala][], Sverige.
 
-Jag är deltagande på [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB], 
+Jag deltar i [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB], 
 ett samarbetsforum som tillföra expertis till Svenska myndigheter 
 och intresseorganisation om **miljöförekomst och miljöpåverkan av** 
 **bekämpningsmedel** som används i jordbruk.
@@ -32,9 +32,9 @@ av bekämpningsmedel öden i Sverige.
 
 
 
-### Webbplatsen innehåll   <a id="sitecontent"></a>
+### webbplatsinnehåll   <a id="sitecontent"></a>
 
-På denna hemsida presenterar jag min [Curriculum vitae](/CV/) 
+På denna hemsida presenterar jag min [curriculum vitae](/CV/) 
 (_på engelska_), en list av [publikationer](/Publications/) 
 (_på engelska_. Se även [&#9656; Google Scholar][jmScholar]) och 
 en presentation av [mina aktiviteter på SLU](/Activities/) 
@@ -48,7 +48,7 @@ I am developing (mostly R packages), and some technical notes in the
 [IT lab book](/ITLabBook/) section (mostly about Ubuntu server 
 management). -->
 
-En list av promemoria ('memo') finns också, om olika arbetsämne 
+En list av [anteckningar](/Memos/) ('memo') finns också, om olika arbetsämne 
 (_på engelska_. 
 [modellering referenser]({% post_url 2015-01-29-modelling-references %}), 
 [vetenskapliga citat]({% post_url 2015-01-18-quotations %}) och 
