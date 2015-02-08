@@ -73,7 +73,7 @@ menu <- unlist( lapply(
     } 
 ) ) 
 
-menu <- paste( menu, collapse = " | " ) 
+menu <- paste( menu, collapse = " &middot; " ) 
 menu <- paste( "Page content:", menu, "\n\n" ) 
 
 cat( menu, sep = "" )
