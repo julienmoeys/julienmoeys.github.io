@@ -6,10 +6,11 @@ weight    : 1
 ---
 
 <img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" class="right"/>
-
+<p class="lang"><a href="/fr/" class="fr">fr</a> &middot; <a href="/sv/" class="sv">sv</a></p>
 Page content: [Presentation](#presentation) &middot; 
-[Site content](#sitecontent) &middot; [Contact](#contact) | 
-<a href="/fr/" class="fr">fr</a>
+[Site content](#sitecontent) &middot; [Contact](#contact) 
+
+
 
 ### Presentation   <a id="presentation"></a>
 

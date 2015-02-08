@@ -6,12 +6,12 @@ weight    : 1
 ---
 
 <img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" class="right"/>
-
+<p class="lang"><a href="/fr/" class="fr">fr</a> &middot; <a href="/" class="en">en</a></p>
 Sidinnehall: [Presentation](#presentation) &middot; 
 [Webbplatsinnehåll](#sitecontent) &middot; 
-[Kontaktinformation](#contact) | 
-<a href="/fr/" class="fr">fr</a> | 
-<a href="/" class="en">en</a>
+[Kontaktinformation](#contact)
+
+
 
 ### Presentation   <a id="presentation"></a>
 

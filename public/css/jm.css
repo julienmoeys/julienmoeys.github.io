@@ -5,6 +5,15 @@
  *
  */
 
+/* more compact layout */
+.masthead {
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom:  1rem; /* modified by JM */
+  border-bottom:  1px solid #eee;
+} 
+
+/* right-align images (avatar)*/
 img.right {
   display:       block;
   max-width:     100%;
@@ -18,35 +27,37 @@ img.right {
   border-radius: 5px;
 }
 
-.masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom:  1rem; /* modified by JM */
-  border-bottom:  1px solid #eee;
-} 
-
+/* url with ORCID icon */
 a.ORCID {
   background:   url("/assets/img/orcid_16x16(1).png") no-repeat left 8px;
   padding-left: 20px;
   display:      inline;
 } 
 
+/* url with Fench flag icon */
 a.fr {
   background:   url("/assets/img/fr.png") no-repeat left 8px;
   padding-left: 20px;
   display:      inline;
 } 
 
+/* url with Swedish flag icon */
 a.sv {
   background:   url("/assets/img/sv.png") no-repeat left 8px;
   padding-left: 20px;
   display:      inline;
 } 
 
+/* url with UK flag icon */
 a.en {
   background:   url("/assets/img/uk.png") no-repeat left 8px;
   padding-left: 20px;
   display:      inline;
 } 
 
+/* make language header more compact */
+p.lang { 
+    margin-top:    0px;
+    margin-bottom: 0rem;
+}   
 
