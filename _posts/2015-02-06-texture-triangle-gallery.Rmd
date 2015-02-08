@@ -1,6 +1,6 @@
 ---
 layout : post_en
-title  : 'Texture triangle gallery'
+title  : 'Gallery of texture triangles'
 ---
 
 <!-- DO NOT EDIT THE .md file. Edit the .Rmd file instead -->
@@ -8,9 +8,9 @@ title  : 'Texture triangle gallery'
 Last update: `r format( Sys.time(), "%Y-%m-%d" )`
 
 This page presents a gallery of texture triangles, as generated 
-with my R package [soiltexture](http://cran.r-project.org/web/packages/soiltexture/).
+with my R package [soiltexture][].
 
-```{r general-options, echo=FALSE}
+```{r general-options, echo=FALSE, message=FALSE}
 if( Sys.info()[[ "sysname" ]] == "Linux" ){ 
     setwd( wd <- "/home/jules/Documents/julienmoeys.info/julienmoeys.github.io" )
 }else{ 
@@ -27,7 +27,7 @@ triangleList <- c( "FAO50.TT", "USDA.TT", "FR.AISNE.TT",
     "CA.FR.TT", "CA.EN.TT", "AU.TT", "ISSS.TT", "ROM.TT" )
 
 # Filename template
-fn <- file.path( wd, "assets/img/textureGallery/%s-%s.PNG" )
+fn <- "assets/img/textureGallery/%s-%s.PNG" 
 
 # Generate triangle plots and save as PNG
 for( tr in triangleList ){
@@ -35,7 +35,7 @@ for( tr in triangleList ){
         # tr <- triangleList[ 1L ]; type <- "simple" 
         
         png( 
-            filename = sprintf( fn, tr, type ), 
+            filename = file.path( wd, sprintf( fn, tr, type ) ), 
             width    = 1024, 
             height   = 1024, 
             res      = 75 * 1
@@ -76,7 +76,7 @@ menu <- unlist( lapply(
 menu <- paste( menu, collapse = " | " ) 
 menu <- paste( "Page content:", menu, "\n\n" ) 
 
-cat( menu )
+cat( menu, sep = "" )
 ```
 
 ```{r generate-image-gallery, echo=FALSE, results="asis"}
@@ -84,13 +84,13 @@ content <- unlist( lapply(
     X   = 1:length(triangleList), 
     FUN = function(i){ 
         out <- c(
-            main[ i ], 
+            sprintf( '%s<a id="%s"></a>', main[ i ], triangleList[ i ] ), 
             paste( 
                 rep( "-", times = nchar( main[ i ] ) ), 
                 collapse = "" 
             ),  
             sprintf( 
-                '![%s](%s "%s")', 
+                '![%s](/%s "%s")', 
                 triangleList[ i ], 
                 sprintf( fn, triangleList[ i ], "gradient" ), 
                 main[ i ] 
@@ -112,22 +112,30 @@ content <- unlist( lapply(
     } 
 ) ) 
 
-cat( content )
+cat( content, sep = "" )
 ```
 
 Technical information
 ---------------------
 
-Below some informations on 
+View the <a href="{{ site.github }}/blob/master/_posts/2015-02-06-texture-triangle-gallery.Rmd">
+source code used to generate these figures</a> on Github ([knitr][] 
+.Rmd code).
+
+Below some informations on the system settings and version of packages 
+used to generate these figures.
 
 ```{r tech-info, echo=TRUE}
 ip <- installed.packages() 
 # Package version
 ip[ "soiltexture", "Version" ] 
-ip[ "knitr",       "Version" ] 
+ip[ "knitr", "Version" ] 
 
 # System information
-Sys.info()[ c("sysname", "release", "version", "machine" ) ]
+sessionInfo()
 ```
 
+<!-- List of links -->
+[knitr]:           http://cran.r-project.org/web/packages/knitr/  "knitr R package (CRAN)"
+[soiltexture]:     http://cran.r-project.org/web/packages/soiltexture/  "soiltexture R package (CRAN)"
 
