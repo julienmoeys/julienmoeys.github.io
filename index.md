@@ -6,7 +6,7 @@ weight    : 1
 ---
 
 <img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" class="right"/>
-<p class="lang"><a href="/fr/" class="fr">fr</a> &middot; <a href="/sv/" class="sv">sv</a></p>
+<p class="lang"><a href="/sv/" class="sv">sv</a> &middot; <a href="/fr/" class="fr">fr</a></p>
 Page content: [Presentation](#presentation) &middot; 
 [Site content](#sitecontent) &middot; [Contact](#contact) 
 
@@ -16,15 +16,15 @@ Page content: [Presentation](#presentation) &middot;
 
 I am a research engineer (PhD) in the department 
 of [Soil and Environment][SLUSoil] ([Biogeophysics and Water Quality][BGFVV] 
-group), at the [Swedish University of Agricultural Sciences 
+division), at the [Swedish University of Agricultural Sciences 
 (SLU)][SLU], in [Uppsala][], Sweden.
 
 I am part of the [Centre for Chemical Pesticides (CKB)][CKB], 
 that provides expertise to [Swedish stakeholders][CKBRef] on the 
 **environmental impact of pesticides** used within agriculture.
 
-I am the main developer of a **regional scale model for estimating 
-the risks of pesticide leaching toward surface- and groundwater** 
+I am the main developer of a **regional scale model for estimating** 
+**the risks of pesticide leaching toward surface- and groundwater** 
 from arable land in Sweden ([MACRO-SE][]). I have also developed 
 **geographical datasets** (soil properties, crop area) for pesticide 
 fate modelling in Sweden.
