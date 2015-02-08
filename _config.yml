@@ -32,7 +32,6 @@ version:             1.0.0
 # Excluded files
 exclude:
     - ITLabBook.md
-    - Software.md
     - TODOLIST.md
     - INSPIRATION.md
     - README.md 
