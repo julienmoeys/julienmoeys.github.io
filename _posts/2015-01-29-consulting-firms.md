@@ -11,7 +11,7 @@ Page content:
 The lists presented here are not intended to be extensive (rather 
 a memo). This page is updated from time to time.
 
-Last update: 2015-02-04
+Last update: 2015-02-10
 
 
 
@@ -104,6 +104,9 @@ employees is generally given worldwide (when relevant).
 *   [SCC - Scientific Consulting Company](http://www.scc-gmbh.de).
 *   [WSC Regexperts](http://wsc-regexperts.com/en/) (WSC Scientific 
     GmbH).
+*   [Compliance Services International (CSI)](http://www.complianceservices.com/)
+*   [Agchem Project Consulting Ltd (APC)](http://apc.eu.com). (Staff 
+    in Europe: 28)
 
 <!-- WCA (http://www.wca-environment.com) (about 15 employees). -->
 <!-- http://www.nufarm.com -->
