@@ -22,9 +22,11 @@ library( "soiltexture" )
 
 ```{r generate-triangle-plots, echo=FALSE}
 # List of texture triangles
-triangleList <- c( "FAO50.TT", "USDA.TT", "FR.AISNE.TT", 
-    "FR.GEPPA.TT", "DE.BK94.TT", "UK.SSEW.TT", "BE.TT", 
-    "CA.FR.TT", "CA.EN.TT", "AU.TT", "ISSS.TT", "ROM.TT" )
+triangleList <- c( 
+    "HYPRES.TT", "USDA.TT", "FR.AISNE.TT", "FR.GEPPA.TT", 
+    "DE.BK94.TT", "UK.SSEW.TT", "AU2.TT", "BE.TT", "CA.EN.TT", 
+    "ISSS.TT", "ROM.TT", "DE.SEA74.TT", "DE.TGL85.TT", "USDA1911", 
+    "BRASIL.TT", "PL.TT" )
 
 # Filename template
 fn <- "assets/img/textureGallery/%s-%s.PNG" 

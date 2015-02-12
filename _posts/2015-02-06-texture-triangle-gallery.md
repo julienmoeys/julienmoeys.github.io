@@ -5,7 +5,7 @@ title  : 'Gallery of texture triangles'
 
 <!-- DO NOT EDIT THE .md file. Edit the .Rmd file instead -->
 
-Last update: 2015-02-08
+Last update: 2015-02-12
 
 This page presents a gallery of texture triangles, as generated 
 with my R package [soiltexture][].
@@ -16,12 +16,12 @@ with my R package [soiltexture][].
 
 
 
-Page content: [FAO/HYPRES](#FAO50.TT) | [USDA](#USDA.TT) | [Aisne (FR)](#FR.AISNE.TT) | [GEPPA (FR)](#FR.GEPPA.TT) | [Bodenkundliche Kartieranleitung 1994 (DE)](#DE.BK94.TT) | [Soil Survey of England and Wales (UK)](#UK.SSEW.TT) | [Belgium (BE)](#BE.TT) | [Canada (CA)](#CA.FR.TT) | [Canada (CA)](#CA.EN.TT) | [Autralia (AU)](#AU.TT) | [ISSS](#ISSS.TT) | [SRTS 2003](#ROM.TT) 
+Page content: [HYPRES / European Soil Map](#HYPRES.TT) &middot; [USDA](#USDA.TT) &middot; [Aisne (FR)](#FR.AISNE.TT) &middot; [GEPPA (FR)](#FR.GEPPA.TT) &middot; [Bodenkundliche Kartieranleitung 1994 (DE)](#DE.BK94.TT) &middot; [Soil Survey of England and Wales (UK)](#UK.SSEW.TT) &middot; [Autralia (AU)](#AU2.TT) &middot; [Belgium (BE)](#BE.TT) &middot; [Canada (CA)](#CA.EN.TT) &middot; [ISSS](#ISSS.TT) &middot; [SRTS 2003](#ROM.TT) &middot; [Standortserkundungsanweisung SEA 1974 (DE)](#DE.SEA74.TT) &middot; [TGL 24300-05, landwirtschaftliche Boeden (DE)](#DE.TGL85.TT) &middot; [USDA 1911 (M. Whitney, 1911) - Ternary Plot](#USDA1911) &middot; [Brasil - Lemos & Santos (1996)](#BRASIL.TT) &middot; [PL](#PL.TT) 
 
-FAO/HYPRES<a id="FAO50.TT"></a>
-----------
-![FAO50.TT](/assets/img/textureGallery/FAO50.TT-gradient.PNG "FAO/HYPRES")
-Image without color gradient available [here](/assets/img/textureGallery/FAO50.TT-simple.PNG).
+HYPRES / European Soil Map<a id="HYPRES.TT"></a>
+--------------------------
+![HYPRES.TT](/assets/img/textureGallery/HYPRES.TT-gradient.PNG "HYPRES / European Soil Map")
+Image without color gradient available [here](/assets/img/textureGallery/HYPRES.TT-simple.PNG).
 
 
 USDA<a id="USDA.TT"></a>
@@ -54,28 +54,22 @@ Soil Survey of England and Wales (UK)<a id="UK.SSEW.TT"></a>
 Image without color gradient available [here](/assets/img/textureGallery/UK.SSEW.TT-simple.PNG).
 
 
+Autralia (AU)<a id="AU2.TT"></a>
+-------------
+![AU2.TT](/assets/img/textureGallery/AU2.TT-gradient.PNG "Autralia (AU)")
+Image without color gradient available [here](/assets/img/textureGallery/AU2.TT-simple.PNG).
+
+
 Belgium (BE)<a id="BE.TT"></a>
 ------------
 ![BE.TT](/assets/img/textureGallery/BE.TT-gradient.PNG "Belgium (BE)")
 Image without color gradient available [here](/assets/img/textureGallery/BE.TT-simple.PNG).
 
 
-Canada (CA)<a id="CA.FR.TT"></a>
------------
-![CA.FR.TT](/assets/img/textureGallery/CA.FR.TT-gradient.PNG "Canada (CA)")
-Image without color gradient available [here](/assets/img/textureGallery/CA.FR.TT-simple.PNG).
-
-
 Canada (CA)<a id="CA.EN.TT"></a>
 -----------
 ![CA.EN.TT](/assets/img/textureGallery/CA.EN.TT-gradient.PNG "Canada (CA)")
 Image without color gradient available [here](/assets/img/textureGallery/CA.EN.TT-simple.PNG).
-
-
-Autralia (AU)<a id="AU.TT"></a>
--------------
-![AU.TT](/assets/img/textureGallery/AU.TT-gradient.PNG "Autralia (AU)")
-Image without color gradient available [here](/assets/img/textureGallery/AU.TT-simple.PNG).
 
 
 ISSS<a id="ISSS.TT"></a>
@@ -88,6 +82,36 @@ SRTS 2003<a id="ROM.TT"></a>
 ---------
 ![ROM.TT](/assets/img/textureGallery/ROM.TT-gradient.PNG "SRTS 2003")
 Image without color gradient available [here](/assets/img/textureGallery/ROM.TT-simple.PNG).
+
+
+Standortserkundungsanweisung SEA 1974 (DE)<a id="DE.SEA74.TT"></a>
+------------------------------------------
+![DE.SEA74.TT](/assets/img/textureGallery/DE.SEA74.TT-gradient.PNG "Standortserkundungsanweisung SEA 1974 (DE)")
+Image without color gradient available [here](/assets/img/textureGallery/DE.SEA74.TT-simple.PNG).
+
+
+TGL 24300-05, landwirtschaftliche Boeden (DE)<a id="DE.TGL85.TT"></a>
+---------------------------------------------
+![DE.TGL85.TT](/assets/img/textureGallery/DE.TGL85.TT-gradient.PNG "TGL 24300-05, landwirtschaftliche Boeden (DE)")
+Image without color gradient available [here](/assets/img/textureGallery/DE.TGL85.TT-simple.PNG).
+
+
+USDA 1911 (M. Whitney, 1911) - Ternary Plot<a id="USDA1911"></a>
+-------------------------------------------
+![USDA1911](/assets/img/textureGallery/USDA1911-gradient.PNG "USDA 1911 (M. Whitney, 1911) - Ternary Plot")
+Image without color gradient available [here](/assets/img/textureGallery/USDA1911-simple.PNG).
+
+
+Brasil - Lemos & Santos (1996)<a id="BRASIL.TT"></a>
+------------------------------
+![BRASIL.TT](/assets/img/textureGallery/BRASIL.TT-gradient.PNG "Brasil - Lemos & Santos (1996)")
+Image without color gradient available [here](/assets/img/textureGallery/BRASIL.TT-simple.PNG).
+
+
+PL<a id="PL.TT"></a>
+--
+![PL.TT](/assets/img/textureGallery/PL.TT-gradient.PNG "PL")
+Image without color gradient available [here](/assets/img/textureGallery/PL.TT-simple.PNG).
 
 Technical information
 ---------------------
@@ -107,7 +131,7 @@ ip[ "soiltexture", "Version" ]
 ```
 
 ```
-## [1] "1.2.2"
+## [1] "1.2.20"
 ```
 
 ```r
@@ -115,7 +139,7 @@ ip[ "knitr", "Version" ]
 ```
 
 ```
-## [1] "1.9"
+## [1] "1.6"
 ```
 
 ```r
@@ -124,26 +148,23 @@ sessionInfo()
 ```
 
 ```
-## R version 2.14.1 (2011-12-22)
-## Platform: x86_64-pc-linux-gnu (64-bit)
+## R version 3.1.1 (2014-07-10)
+## Platform: i386-w64-mingw32/i386 (32-bit)
 ## 
 ## locale:
-##  [1] LC_CTYPE=en_GB.UTF-8       LC_NUMERIC=C              
-##  [3] LC_TIME=en_GB.UTF-8        LC_COLLATE=en_GB.UTF-8    
-##  [5] LC_MONETARY=en_GB.UTF-8    LC_MESSAGES=en_GB.UTF-8   
-##  [7] LC_PAPER=C                 LC_NAME=C                 
-##  [9] LC_ADDRESS=C               LC_TELEPHONE=C            
-## [11] LC_MEASUREMENT=en_GB.UTF-8 LC_IDENTIFICATION=C       
+## [1] LC_COLLATE=Swedish_Sweden.1252  LC_CTYPE=Swedish_Sweden.1252   
+## [3] LC_MONETARY=Swedish_Sweden.1252 LC_NUMERIC=C                   
+## [5] LC_TIME=Swedish_Sweden.1252    
 ## 
 ## attached base packages:
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
 ## other attached packages:
-## [1] soiltexture_1.2.2 MASS_7.3-16       sp_1.0-17         knitr_1.9        
+## [1] soiltexture_1.2.20 knitr_1.6         
 ## 
 ## loaded via a namespace (and not attached):
-## [1] evaluate_0.5.5 formatR_1.0    grid_2.14.1    lattice_0.20-0
-## [5] stringr_0.6.2  tools_2.14.1
+## [1] evaluate_0.5.5  formatR_1.0     grid_3.1.1      lattice_0.20-29
+## [5] MASS_7.3-33     sp_1.0-15       stringr_0.6.2   tools_3.1.1
 ```
 
 <!-- List of links -->

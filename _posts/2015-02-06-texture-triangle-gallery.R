@@ -1,5 +1,5 @@
 # Linux # cd /home/jules/Documents/julienmoeys.info/julienmoeys.github.io && R CMD BATCH --vanilla "_posts/2015-02-06-texture-triangle-gallery.R" 
-# Win   # cd /D "D:/Users/julienm/Documents/_WORKS/_WEB/julienmoeys.github.io" & CMD BATCH --vanilla "_posts/2015-02-06-texture-triangle-gallery.R" 
+# Win   # cd /D "D:/Users/julienm/Documents/_WORKS/_WEB/julienmoeys.github.io" & R CMD BATCH --vanilla "_posts/2015-02-06-texture-triangle-gallery.R" 
 
 rm( list = ls( all = TRUE ) ) 
 
