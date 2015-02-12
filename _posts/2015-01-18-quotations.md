@@ -3,14 +3,16 @@ layout : post_en
 title  : 'Quotations I like'
 ---
 
+Topics: [Statistics](#stats) &middot; 
+[Informatics](#informatics) &middot; 
+[Geography and spatial data analysis](#geography) &middot; 
+[Risk Management](#risk)
+
+Last update: 2015-02-12
+
 This document lists some of the [quotation][]s I like (quotations 
 that are relevant for the work I am doing, or related to science). 
 This page is updated from time to time.
-
-Topics: [Statistics](#stats) &middots; 
-[Informatics](#informatics) &middots; 
-[Geography and spatial data analysis](#geography) &middots; 
-[Risk Management](#risk)
 
 
 
