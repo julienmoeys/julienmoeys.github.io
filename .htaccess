@@ -1,5 +1,14 @@
-Options +FollowSymlinks
+# Options +FollowSymlinks
+
 RewriteEngine on
+
+# Redirect visitors from the old texture triangle gallery
+RewriteCond %{QUERY_STRING} ^Soil-textures-triangle(.*)$ [NC]
+RewriteRule ^(.*)$ http://julienmoeys.info/2015/02/06/texture-triangle-gallery/? [NC,R=301,L]
+
+RewriteCond %{QUERY_STRING} ^Sol-triangles-des-textures(.*)$ [NC]
+RewriteRule ^(.*)$ http://julienmoeys.info/2015/02/06/texture-triangle-gallery/? [NC,R=301,L]
+
 
 # Block Referrer Spam
 #   Notice it might be useless as Referrer Spam may target 
@@ -10,8 +19,3 @@ RewriteCond %{HTTP_REFERER} (darodar\.com) [NC,OR]
 RewriteCond %{HTTP_REFERER} (semalt\.com) [NC]
 RewriteRule .* - [F]
 
-# Redirect visitors from the old texture triangle gallery
-# (http://www.webconfs.com/htaccess-redirect-generator.php)
-RewriteRule ^?Sol-triangles-des-textures(.*)$ http://julienmoeys.info/2015/02/06/texture-triangle-gallery/$1 [R=301,NC,L,OR]
-RewriteRule ^?Sol-triangles-des-textures#gallery(.*)$ http://julienmoeys.info/2015/02/06/texture-triangle-gallery/$1 [R=301,NC,L,OR]
-RewriteRule ^?Soil-textures-triangle(.*)$ http://julienmoeys.info/2015/02/06/texture-triangle-gallery/$1 [R=301,NC,L]
