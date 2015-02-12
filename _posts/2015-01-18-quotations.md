@@ -7,8 +7,10 @@ This document lists some of the [quotation][]s I like (quotations
 that are relevant for the work I am doing, or related to science). 
 This page is updated from time to time.
 
-Topics: [Statistics](#stats) | [Informatics](#informatics) | [Geography and spatial data 
-analysis](#geography) 
+Topics: [Statistics](#stats) &middots; 
+[Informatics](#informatics) &middots; 
+[Geography and spatial data analysis](#geography) &middots; 
+[Risk Management](#risk)
 
 
 
@@ -174,6 +176,29 @@ by Solomon W. Golomb.
 
 
 
+Risk Management   <a id="risk"></a>
+===============
+
+Sven Ove Hansson
+----------------
+
+About [Sven Ove Hansson][SOHansson]
+
+> In issues of risk, like all other social issues, the role of the
+> expert is to investigate facts and options, not to make decisions
+> or to misrepresent facts in a unidimensional way that leaves the
+> decision-maker no choice. 
+
+_and further:_
+
+> Science without precaution means acting too little and too late 
+> against environmental hazards. Precaution without science means 
+> acting with the wrong priorities. What we need is science-based 
+> precaution
+
+In: Hansson, Sven Ove. "Seven myths of risk." _Risk Management_ 
+(2005): 7-17.
+
 <!-- List of links -->
 [quotation]:        https://en.wikipedia.org/wiki/Quotation                     "Quotation (Wikipedia)"
 [mapterritory]:     http://en.wikipedia.org/wiki/Map%E2%80%93territory_relation "Map–territory relation (Wikipedia)"
@@ -197,3 +222,5 @@ by Solomon W. Golomb.
 [CrossValidated]:   http://stats.stackexchange.com/  "Cross Validated (@stackexchange.com)"
 [RalphJohnson]:     http://en.wikipedia.org/wiki/Ralph_Johnson_%28computer_scientist%29  "Ralph Johnson (Wikipedia)"
 [SEQuotes]:         http://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm  "Quotes for Software Engineers (DAMITH C. RAJAPAKSE)"
+[SOHansson]:        http://en.wikipedia.org/wiki/Sven_Ove_Hansson  "Sven Ove Hansson (Wikipedia)"
+
