@@ -81,6 +81,21 @@ menu <- paste( "Page content:", menu, "\n\n" )
 cat( menu, sep = "" )
 ```
 
+Notes on non-explicit triangle names:
+*   "ISSS" is the triangle from the International Society 
+    of Soil Science (now International Union of Soil Sciences - 
+    IUSS).
+*   "SRTS 2003" is a Romanian texture triangle.
+*   "Standortserkundungsanweisung SEA 1974 (DE)", "TGL 24300-05" 
+    and "landwirtschaftliche Boeden (DE)" are three German texture 
+    triangles (presently used, or used in the past).
+*   "PL" is a Polish texture triangle.
+*   "USDA 1911 (M. Whitney, 1911)" is a historical version of the 
+    USDA texture triangle.
+
+See the [package tutorial](http://cran.r-project.org/web/packages/soiltexture/vignettes/soiltexture_vignette.pdf) 
+for more information on all these texture triangles.
+  
 ```{r generate-image-gallery, echo=FALSE, results="asis"}
 content <- unlist( lapply( 
     X   = 1:length(triangleList), 
