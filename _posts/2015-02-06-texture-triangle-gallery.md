@@ -18,7 +18,8 @@ with my R package [soiltexture][].
 
 Page content: [HYPRES / European Soil Map](#HYPRES.TT) &middot; [USDA](#USDA.TT) &middot; [Aisne (FR)](#FR.AISNE.TT) &middot; [GEPPA (FR)](#FR.GEPPA.TT) &middot; [Bodenkundliche Kartieranleitung 1994 (DE)](#DE.BK94.TT) &middot; [Soil Survey of England and Wales (UK)](#UK.SSEW.TT) &middot; [Autralia (AU)](#AU2.TT) &middot; [Belgium (BE)](#BE.TT) &middot; [Canada (CA)](#CA.EN.TT) &middot; [ISSS](#ISSS.TT) &middot; [SRTS 2003](#ROM.TT) &middot; [Standortserkundungsanweisung SEA 1974 (DE)](#DE.SEA74.TT) &middot; [TGL 24300-05, landwirtschaftliche Boeden (DE)](#DE.TGL85.TT) &middot; [USDA 1911 (M. Whitney, 1911) - Ternary Plot](#USDA1911) &middot; [Brasil - Lemos & Santos (1996)](#BRASIL.TT) &middot; [PL](#PL.TT) 
 
-Notes on non-explicit triangle names:
+Notes on non-explicit triangle names: 
+
 *   "ISSS" is the triangle from the International Society 
     of Soil Science (now International Union of Soil Sciences - 
     IUSS).
