@@ -16,6 +16,7 @@ RewriteRule ^(.*)$ http://julienmoeys.info/2015/02/06/texture-triangle-gallery/?
 RewriteCond %{HTTP_REFERER} (bestwebsitesawards\.com) [NC,OR]
 RewriteCond %{HTTP_REFERER} (buttons-for-website\.com) [NC,OR]
 RewriteCond %{HTTP_REFERER} (darodar\.com) [NC,OR]
-RewriteCond %{HTTP_REFERER} (semalt\.com) [NC]
+RewriteCond %{HTTP_REFERER} (semalt\.com) [NC,OR]
+RewriteCond %{HTTP_REFERER} (adviceforum\.info) [NC]
 RewriteRule .* - [F]
 
