@@ -9,6 +9,8 @@ RewriteRule ^(.*)$ http://julienmoeys.info/2015/02/06/texture-triangle-gallery/?
 RewriteCond %{QUERY_STRING} ^Sol-triangles-des-textures(.*)$ [NC]
 RewriteRule ^(.*)$ http://julienmoeys.info/2015/02/06/texture-triangle-gallery/? [NC,R=301,L]
 
+RewriteCond %{QUERY_STRING} ^Review-useful-technical-reports(.*)$ [NC]
+RewriteRule ^(.*)$ http://julienmoeys.info/2015/01/29/modelling-references/? [NC,R=301,L]
 
 # Block Referrer Spam
 #   Notice it might be useless as Referrer Spam may target 
