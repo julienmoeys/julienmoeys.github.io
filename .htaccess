@@ -12,6 +12,9 @@ RewriteRule ^(.*)$ http://julienmoeys.info/2015/02/06/texture-triangle-gallery/?
 RewriteCond %{QUERY_STRING} ^Review-useful-technical-reports(.*)$ [NC]
 RewriteRule ^(.*)$ http://julienmoeys.info/2015/01/29/modelling-references/? [NC,R=301,L]
 
+RewriteCond %{REQUEST_URI} ^/DB/phpwebgallery(.*)$ [NC]
+RewriteRule ^(.*)$ https://www.flickr.com/photos/julienmoeys/? [NC,R=301,L]
+
 # Block Referrer Spam
 #   Notice it might be useless as Referrer Spam may target 
 #   Google Analytics directly, not the server...
