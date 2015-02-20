@@ -42,4 +42,5 @@ exclude:
     - "*.Rmd"
     - "*.bat"
     - "*.RData"
+    - "*.BIB.bak"
 
