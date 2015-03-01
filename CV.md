@@ -5,11 +5,17 @@ longtitle : Curriculum vitae
 weight    : 2.1
 ---
 
-Page content: [Contact](#contact) | [Education](#education) | 
-[Fields of expertise](#expertiseFields) | 
-[Professional experience](#professionalexperience) | 
-[Publications](#publications) | [Teaching](#teaching) | 
-[Informatics](#informatics) | [Open Source](#opensource) | 
+Page content: 
+[Contact](#contact) &middot; 
+[Education](#education) &middot; 
+[Fields of expertise](#expertiseFields) &middot; 
+[Professional experience](#professionalexperience) &middot; 
+[Languages](#languages) &middot; 
+[Projects](#rprojects) &middot; 
+[Publications](#publications) &middot; 
+[Teaching](#teaching) &middot; 
+[Informatics](#informatics) &middot; 
+[Open Source](#opensource) &middot; 
 [Associations](#associations) 
 
 
@@ -95,6 +101,54 @@ Professional experience    <a id="professionalexperience"></a>
     _surface horizon : an application to isoproturon in an agricultural_ 
     _catchment of the Beauce chartraine region, France_" (in French). 
     With Pr. Yves Coquet. 
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Languages   <a id="languages"></a>
+---------
+
+*   **French**: mother tongue.
+*   **English**: full professional proficiency, including for 
+    scientific work tasks (approximately a [C2 level][CEFR]).
+*   **Swedish**: effective but limited proficiency (approximately 
+    a [B2 level][CEFR]).
+*   **German**: beginner. "Folkuniversitetet" evening course 
+    [A1][CEFR]-2 (2014), and evening course [A2][CEFR]-1 
+    (2015, ongoing).
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Projects   <a id="projects"></a>
+--------
+
+*   _2003 - 2007_. **[ESHEL][]** project (during my PhD). "_Charactersing 
+    the risk of contamination of the Beauce aquifer by pesticides.
+    Understanding the mechanisms of transport by preferential flow 
+    and risk analysis at the scale of the watershed_". Project led 
+    by Pr. Yves Coquet ([AgroParisTech][]).
+    
+*   _2008_. **[FOOTPRINT][]** (during my 1st postdoc), an 
+    [EU FP6][EUFP6] project. Developing a suite of three pesticide 
+    risk prediction and management tools. Project led by 
+    [Igor Dubus][IgorDubus] ([BRGM][]).
+    
+*   _2009 - now_. **[MACRO-SE][]**. See 
+    [professional experience](#professionalexperience) above.
+
+*   _2013 - 2016_. **[PERFORM][]**. "Modelling approaches to evaluate 
+    and compare the environmental performance of innovative cropping 
+    systems designed to pesticide usage: spatio-temporal integration 
+    and treatment of uncertainties". Project led by 
+    [Laure Mamy][LaureMamy] ([EGC](), [INRA][]) and funded by 
+    [ONEMA][] and the French 
+    [Ministry of Agriculture Agrifood and Forestry][MAAF], 
+    in the context of its [Écophyto][ECOPHYTO] program.
+
+I have been involved in the PhD work of [Abdul Ghafoor][AbdulGhafoor] 
+(_finished in 2013_) and [Karin Steffens][KarinSteffens] (_planned to 
+be finished in 2015_). See the publication list below.
 
 
 
@@ -273,6 +327,18 @@ Associations    <a id="associations"></a>
 [ISTOM]:            http://www.istom.com "College of International Agro-Development (ISTOM)"
 [MV0192]:           http://slunik.slu.se/student_index.cfm?id=10633 "Soil science for water and environment (SLU)" 
 [MV0198]:           http://slunik.slu.se/student_index.cfm?id=10672 "Water and solute transport in the soil-plant-system (SLU)" 
+[CEFR]:             http://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels "Common European Framework of Reference for Languages - Common reference levels (Wikipedia)"
+[ESHEL]:            http://agriculture.gouv.fr/IMG/pdf/ESHEL_cle0866f6.pdf "ESHEL research project"
+[IgorDubus]:        http://www.pfmodels.org/idubus.html "Dr Igor G. Dubus (homepage)"
+[PERFORM]:          https://www6.versailles-grignon.inra.fr/egc/Recherches/Equipes-axes-de-recherche/Equipe-Sol/PROJETS-DE-RECHERCHE/PERFORM "Projet PERFORM"
+[EUFP6]:            http://cordis.europa.eu/fp6/ "The 6th Framework Programme funded European Research and Technological Development"
+[BRGM]:             http://www.brgm.eu/ "The French Geological Survey (BRGM)"
+[MAAF]:             http://agriculture.gouv.fr "Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt"
+[ONEMA]:            http://www.onema.fr/ "The French National Agency for Water and Aquatic Environments"
+[ECOPHYTO]:         http://agriculture.gouv.fr/ecophyto "Ecophyto program"
+[LaureMamy]:        https://www6.versailles-grignon.inra.fr/egc/Personnes/Annuaire-des-permanents2/Liste-L-N/Mamy-L "Laure Mamy (EGC - INRA)"
+[AbdulGhafoor]:     https://sites.google.com/site/aghafoor1981/ "Abdul Ghafoor (homepage)"
+[KarinSteffens]:    http://www.slu.se/en/departments/soil-environment/contact/biogeophysics-and-water-quality/karin-steffens/ "Karin Steffens (SLU)"
 
 <!--- IT links (except R) -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 

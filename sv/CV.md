@@ -5,11 +5,16 @@ longtitle : Curriculum vitae
 weight    : 2.1
 ---
 
-Sidinnehall: [Kontakt](#kontakt) | [Utbildning](#utbildning) | 
-[Kompetensområden](#kompetensomraden) | 
-[Yrkeserfarenhet](#yrkeserfarenhet) | 
-[Publikationer](#publikationer) | [Undervisning](#undervisning) | 
-[Informatik](#informatik) | [Öppen källkod](#oppenkallkod) | 
+Sidinnehall: 
+[Kontakt](#kontakt) &middot; 
+[Utbildning](#utbildning) &middot; 
+[Kompetensområden](#kompetensomraden) &middot; 
+[Yrkeserfarenhet](#yrkeserfarenhet) &middot; 
+[Språk](#sprak) &middot; 
+[Publikationer](#publikationer) &middot; 
+[Undervisning](#undervisning) &middot; 
+[Informatik](#informatik) &middot; 
+[Öppen källkod](#oppenkallkod) &middot; 
 [Ideell föreningar](#ideellforeningar) 
 
 
@@ -97,6 +102,20 @@ Yrkeserfarenhet    <a id="yrkeserfarenhet"></a>
     _determinisms of an herbicide fate in the surface horizon : an_ 
     _application to isoproturon in an agricultural catchment of the_ 
     _Beauce chartraine region, France_" (på franska).
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Språk    <a id="sprak"></a>
+-----
+
+*   **Franska**: modersmål.
+*   **Engelska**: flytande. Avancerad språkfärdighet, inklusiv för 
+    vetenskapliga arbetsuppgifter (cirka ett [C2 nivå][CEFR]).
+*   **Svenska**: effektiva men begränsad språkfärdighet (cirka ett 
+    [B2 nivå][CEFR]).
+*   **Tyska**: nybörjare. Folkuniversitetet kvällskurs [A1][CEFR]-2 
+    (2014) och kvällskurs [A2][CEFR]-1 (2015, pågående).
 
 
 
@@ -282,6 +301,8 @@ Ideell föreningar    <a id="ideellforeningar"></a>
 [NickJarvis]:       http://www.slu.se/en/faculties/nj/nj-home/presentation-example-nicholasjarvis/ "Nick Jarvis (SLU)"
 [ISTOM]:            http://www.istom.com "ISTOM, College of International Agro-Development"
 [MV0192]:           http://slunik.slu.se/student_index.cfm?id=10633 "MV0192 Markvetenskap för miljö och vatten (SLU)" 
+[MV0198]:           http://slunik.slu.se/student_index.cfm?id=10672 "Water and solute transport in the soil-plant-system (SLU)" 
+[CEFR]:             http://sv.wikipedia.org/wiki/Gemensam_europeisk_referensram_f%C3%B6r_spr%C3%A5k#Referensniv.C3.A5erna "Gemensam europeisk referensram för språk - Referensnivåerna (Wikipedia)"
 
 <!--- IT links (except R) -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 
