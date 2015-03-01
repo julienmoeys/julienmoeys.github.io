@@ -11,7 +11,7 @@ Page content:
 [Fields of expertise](#expertiseFields) &middot; 
 [Professional experience](#professionalexperience) &middot; 
 [Languages](#languages) &middot; 
-[Projects](#rprojects) &middot; 
+[Projects](#projects) &middot; 
 [Publications](#publications) &middot; 
 [Teaching](#teaching) &middot; 
 [Informatics](#informatics) &middot; 
