@@ -69,9 +69,10 @@ and development" and teaching activities.
 Professional experience    <a id="professionalexperience"></a>
 -----------------------
 
-*   _01/2011 - Now_: **Research Engineer at SLU** (Uppsala), department of 
-    [Soil and Environment][], Biogeophysics and water quality division. 
-    Building tools for regional scale modelling of pesticide 
+*   _01/2011 - Now_: **Research Engineer at [SLU][]** (Uppsala), 
+    department of [Soil and Environment][deptSoilEnv], Biogeophysics 
+    and water quality division. Building tools and geographic 
+    datasets for regional scale modelling of pesticide 
     leaching risks ([MACRO-SE][]). Work financed by the 
     [Centre for Chemical Pesticides (CKB)][CKB], at [SLU][]. 
     With Pr. [Nick Jarvis][NickJarvis]. 
@@ -80,27 +81,27 @@ Professional experience    <a id="professionalexperience"></a>
     [competence area][OperationalGroup] at the 
     [Centre for Chemical Pesticides (CKB) ][CKB].
     
-*   _01/2009 - 01/2011_: **Postdoc at SLU** (Uppsala), department of 
-    [Soil and Environment][], Biogeophysics and water quality division. 
-    Building tools for regional scale modelling of pesticide 
-    leaching risks ([MACRO-SE][]). Work financed by the 
-    [Centre for Chemical Pesticides (CKB)][CKB], at [SLU][]. 
-    With Pr. [Nick Jarvis][NickJarvis]. 
+*   _01/2009 - 01/2011_: **Postdoc at [SLU][]** (Uppsala), 
+    department of [Soil and Environment][deptSoilEnv], Biogeophysics 
+    and water quality division. Building tools for regional scale 
+    modelling of pesticide leaching risks ([MACRO-SE][]). Work 
+    financed by the [Centre for Chemical Pesticides (CKB)][CKB], 
+    at [SLU][]. With Pr. [Nick Jarvis][NickJarvis]. 
    
-*   _01/2008 - 01/2009_: **Postdoc at SLU** (Uppsala), department of 
-    [Soil and Environment][], Biogeophysics and water quality division. 
+*   _01/2008 - 01/2009_: **Postdoc at [SLU][]** (Uppsala), department of 
+    [Soil and Environment][deptSoilEnv], Biogeophysics and water quality division. 
     [FOOTPRINT][] EU FP6 project. Validation of FOOTPRINT sets of 
     [pedotransfer functions][PTF] for water and solute transport in 
     soils. With Pr. [Nick Jarvis][NickJarvis]. 
 
-*   _09/2003 - 12/2007_: **Ph.D. student** at 
-    [AgroParisTech][] (Thiverval-Grignon, France), department of 
+*   _09/2003 - 12/2007_: **Ph.D. student** at [AgroParisTech][] 
+    ([Grignon][ThivervalGrignon], France), department of 
     [Environment and Arable Crops (EGC)][EGC] ([INRA][] / 
     [AgroParisTech][] joint research unit). "_Spatial variability_ 
     _and agro-pedological determinisms of an herbicide fate in the_ 
     _surface horizon : an application to isoproturon in an agricultural_ 
-    _catchment of the Beauce chartraine region, France_" (in French). 
-    With Pr. Yves Coquet. 
+    _catchment of the Beauce chartraine region, France_". With Pr. 
+    Yves Coquet. 
 
 
 
@@ -126,8 +127,8 @@ Projects   <a id="projects"></a>
 *   _2003 - 2007_. **[ESHEL][]** project (during my PhD). "_Charactersing 
     the risk of contamination of the Beauce aquifer by pesticides.
     Understanding the mechanisms of transport by preferential flow 
-    and risk analysis at the scale of the watershed_". Project led 
-    by Pr. Yves Coquet ([AgroParisTech][]).
+    and risk analysis at the watershed scale_". Project led by Pr. 
+    Yves Coquet ([AgroParisTech][]).
     
 *   _2008_. **[FOOTPRINT][]** (during my 1st postdoc), an 
     [EU FP6][EUFP6] project. Developing a suite of three pesticide 
@@ -147,8 +148,8 @@ Projects   <a id="projects"></a>
     in the context of its [Écophyto][ECOPHYTO] program.
 
 I have been involved in the PhD work of [Abdul Ghafoor][AbdulGhafoor] 
-(_finished in 2013_) and [Karin Steffens][KarinSteffens] (_planned to 
-be finished in 2015_). See the publication list below.
+(_defended in 2013_) and [Karin Steffens][KarinSteffens] (_defence 
+planned for 2015_). See the publication list below.
 
 
 
@@ -226,7 +227,7 @@ Informatics    <a id="informatics"></a>
     (and before [Trac][]) or [WebSVN][].
     
 *   **Web development**: I have a small experience in **[PHP][]**, 
-    **[HTML][]** and [CSS][] programming (see my project [ssld][]).
+    **[HTML][]** and [CSS][] programming (see my project [ssld](#ssld)).
     I have recently started using the site generator [Jekyll][]. 
     See also the paragraph on _content management systems_ below.
     
@@ -263,7 +264,7 @@ Open Source    <a id="opensource"></a>
     
 *   Creator & maintainer of the [R][] packages **[soilwaterfun][]** 
     and **[soilwaterptf][]** implementing commonly used functions 
-    for [soil water retention][], soil [hydraulic conductivity][] 
+    for [soil water retention][soilWatRet], soil [hydraulic conductivity][K] 
     and some [pedotransfer functions][PTF] for parametrising them from 
     easily available soil properties;
     
@@ -297,7 +298,8 @@ Associations    <a id="associations"></a>
 
 
 
-<!--- Links (general) -->
+<!--- Links         -->
+<!--- Institutions  -->
 [AgroParisTech]:    http://www.agroparistech.fr/ "AgroParisTech"
 [EGC]:              http://www6.versailles-grignon.inra.fr/egc_eng/ "department of Environment and Arable Crops (EGC)"
 [ISA Lille]:        http://www.isa-lille.com/ "ISA Lille" 
@@ -307,40 +309,25 @@ Associations    <a id="associations"></a>
 [JV]:               http://www.jordbruksverket.se "Swedish Board of Agriculture" 
 [NV]:               http://www.naturvardsverket.se/ "Swedish Environmental Protection Agency"
 [HaV]:              http://www.havochvatten.se/en "Swedish Agency for Marine and Water Management"
-[MACRO-SE]:         http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/verksamhetsomraden/modeller/macro-se/ "MACRO-SE regional scale pesticide fate model" 
-[MACRO]:            http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/areas-of-operation-within-ckb/models/macro-52/ "MACRO 5.2" 
-[FOOTPRINT]:        http://sitem.herts.ac.uk/aeru/footprint/ "FOOTPRINT EU FP6 project (@University of Hertfordshire)"
+[deptSoilEnv]:      http://www.slu.se/en/departments/soil-environment/ "Soil and Environment"
 [INRA]:             http://www.inra.fr/en "INRA"
-[Pedometrics]:      http://en.wikipedia.org/wiki/Pedometrics "pedometrics (Wikipedia)" 
-[Municipalities]:   http://en.wikipedia.org/wiki/Municipalities_of_Sweden "Municipalities of Sweden (Wikipedia)"
 [LRF]:              http://www.lrf.se/In-English/ "Federation of Swedish Farmers (LRF)"
 [SV]:               http://www.plastkemiforetagen.se/sektorgrupper/svv/ "De svenska växtskyddsföretagens branschförening"
 [AFES]:             http://www.afes.fr "French Soil Science Association (AFES)" 
 [FIF]:              http://www.fif.uu.se "Families for International Friendship (FIF)" 
-[PTF]:              http://en.wikipedia.org/wiki/Pedotransfer_functions "Pedotransfer functions (Wikipedia)"
-[FoSW]:             http://www.slu.se/FoSW "Focus on Soils and Water (FoSW) graduate school"
-[jmSLUPub]:         http://slubar.slub.se/pweb/mailsh/form?mail=Julien.Moeys%40slu.se&lang=eng&show=yes&sortorder=publication_year# "Julien Moeys (on SLUPub)"
-[jmGoogleScholar]:  http://scholar.google.se/citations?user=cRNn-IMAAAAJ&hl=en&oi=ao "Julien MOEYS Google Scholar profile"
-[MSc]:              http://sv.wikipedia.org/wiki/Master_of_science "Master of science (Wikipedia)"
-[NickJarvis]:       http://www.slu.se/en/faculties/nj/nj-home/presentation-example-nicholasjarvis/ "Nick Jarvis (SLU)"
-[OperationalGroup]: http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/about-us/management-group/ "Operational group (CKB/SLU)"
 [ISTOM]:            http://www.istom.com "College of International Agro-Development (ISTOM)"
-[MV0192]:           http://slunik.slu.se/student_index.cfm?id=10633 "Soil science for water and environment (SLU)" 
-[MV0198]:           http://slunik.slu.se/student_index.cfm?id=10672 "Water and solute transport in the soil-plant-system (SLU)" 
-[CEFR]:             http://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels "Common European Framework of Reference for Languages - Common reference levels (Wikipedia)"
-[ESHEL]:            http://agriculture.gouv.fr/IMG/pdf/ESHEL_cle0866f6.pdf "ESHEL research project"
-[IgorDubus]:        http://www.pfmodels.org/idubus.html "Dr Igor G. Dubus (homepage)"
-[PERFORM]:          https://www6.versailles-grignon.inra.fr/egc/Recherches/Equipes-axes-de-recherche/Equipe-Sol/PROJETS-DE-RECHERCHE/PERFORM "Projet PERFORM"
-[EUFP6]:            http://cordis.europa.eu/fp6/ "The 6th Framework Programme funded European Research and Technological Development"
 [BRGM]:             http://www.brgm.eu/ "The French Geological Survey (BRGM)"
 [MAAF]:             http://agriculture.gouv.fr "Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt"
 [ONEMA]:            http://www.onema.fr/ "The French National Agency for Water and Aquatic Environments"
-[ECOPHYTO]:         http://agriculture.gouv.fr/ecophyto "Ecophyto program"
+
+<!--- People        -->
+[IgorDubus]:        http://www.pfmodels.org/idubus.html "Dr Igor G. Dubus (homepage)"
+[NickJarvis]:       http://www.slu.se/en/faculties/nj/nj-home/presentation-example-nicholasjarvis/ "Nick Jarvis (SLU)"
 [LaureMamy]:        https://www6.versailles-grignon.inra.fr/egc/Personnes/Annuaire-des-permanents2/Liste-L-N/Mamy-L "Laure Mamy (EGC - INRA)"
 [AbdulGhafoor]:     https://sites.google.com/site/aghafoor1981/ "Abdul Ghafoor (homepage)"
 [KarinSteffens]:    http://www.slu.se/en/departments/soil-environment/contact/biogeophysics-and-water-quality/karin-steffens/ "Karin Steffens (SLU)"
 
-<!--- IT links (except R) -->
+<!--- IT links      --><!--- (not R links) -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 
 [DokuWiki]:         https://www.dokuwiki.org "DokuWiki"
 [Piwigo]:           http://piwigo.org/ "Piwigo" 
@@ -374,7 +361,7 @@ Associations    <a id="associations"></a>
 [Spip]:             http://www.spip.net  "Spip content management system"
 [GIS]:              http://en.wikipedia.org/wiki/Geographic_information_system  "geographic information system (GIS) (Wikipedia)" 
 
-<!--- R links -->
+<!--- R links       -->
 [R]:                http://www.r-project.org/ "The R Project for Statistical Computing" 
 [Sweave]:           http://leisch.userweb.mwn.de/Sweave/ "Sweave" 
 [easydb]:           https://r-forge.r-project.org/projects/easydb/ "easy database interface (R package)"
@@ -397,11 +384,29 @@ Associations    <a id="associations"></a>
 [S4]:               http://cran.r-project.org/doc/manuals/r-release/R-ints.html#S4-objects "S4 objects"
 [sp]:               http://cran.r-project.org/web/packages/sp/  "sp (R package)"
 
-<!--- 'Long' links -->
-[Soil and Environment]:  http://www.slu.se/en/departments/soil-environment/ "Soil and Environment"
-[Water Authorities]:  http://www.vattenmyndigheterna.se/En/ "Sweden water authorities" 
-[counties of Sweden]:  http://en.wikipedia.org/wiki/Counties_of_Sweden "counties of Sweden (Wikipedia)" 
-[Soil water retention]: http://en.wikipedia.org/wiki/Soil_water_%28retention%29 "Soil water retention (Wikipedia)"
-[Hydraulic conductivity]:  http://en.wikipedia.org/wiki/Hydraulic_conductivity "Hydraulic conductivity (Wikipedia)"
+<!--- Wikipedia     -->
+[ThivervalGrignon]: http://sv.wikipedia.org/wiki/Thiverval-Grignon "Thiverval-Grignon (Wikipedia)"
+[CEFR]:             http://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels "Common European Framework of Reference for Languages - Common reference levels (Wikipedia)"
+[Pedometrics]:      http://en.wikipedia.org/wiki/Pedometrics "pedometrics (Wikipedia)" 
+[Municipalities]:   http://en.wikipedia.org/wiki/Municipalities_of_Sweden "Municipalities of Sweden (Wikipedia)"
+[PTF]:              http://en.wikipedia.org/wiki/Pedotransfer_functions "Pedotransfer functions (Wikipedia)"
+[MSc]:              http://sv.wikipedia.org/wiki/Master_of_science "Master of science (Wikipedia)"
+[soilWatRet]:       http://en.wikipedia.org/wiki/Soil_water_%28retention%29 "Soil water retention (Wikipedia)"
+[K]:                http://en.wikipedia.org/wiki/Hydraulic_conductivity "Hydraulic conductivity (Wikipedia)"
+
+<!-- Other links    -->
+[MACRO-SE]:         http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/verksamhetsomraden/modeller/macro-se/ "MACRO-SE regional scale pesticide fate model" 
+[MACRO]:            http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/areas-of-operation-within-ckb/models/macro-52/ "MACRO 5.2" 
+[FOOTPRINT]:        http://sitem.herts.ac.uk/aeru/footprint/ "FOOTPRINT EU FP6 project (@University of Hertfordshire)"
+[OperationalGroup]: http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/about-us/management-group/ "Operational group (CKB/SLU)"
+[MV0192]:           http://slunik.slu.se/student_index.cfm?id=10633 "Soil science for water and environment (SLU)" 
+[MV0198]:           http://slunik.slu.se/student_index.cfm?id=10672 "Water and solute transport in the soil-plant-system (SLU)" 
+[ESHEL]:            http://agriculture.gouv.fr/IMG/pdf/ESHEL_cle0866f6.pdf "ESHEL research project"
+[PERFORM]:          https://www6.versailles-grignon.inra.fr/egc/Recherches/Equipes-axes-de-recherche/Equipe-Sol/PROJETS-DE-RECHERCHE/PERFORM "Projet PERFORM"
+[EUFP6]:            http://cordis.europa.eu/fp6/ "The 6th Framework Programme funded European Research and Technological Development"
+[ECOPHYTO]:         http://agriculture.gouv.fr/ecophyto "Ecophyto program"
+[FoSW]:             http://www.slu.se/FoSW "Focus on Soils and Water (FoSW) graduate school"
+[jmSLUPub]:         http://slubar.slub.se/pweb/mailsh/form?mail=Julien.Moeys%40slu.se&lang=eng&show=yes&sortorder=publication_year# "Julien Moeys (on SLUPub)"
+[jmGoogleScholar]:  http://scholar.google.se/citations?user=cRNn-IMAAAAJ&hl=en&oi=ao "Julien MOEYS Google Scholar profile"
 
 

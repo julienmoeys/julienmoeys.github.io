@@ -11,6 +11,7 @@ Sidinnehall:
 [Kompetensområden](#kompetensomraden) &middot; 
 [Yrkeserfarenhet](#yrkeserfarenhet) &middot; 
 [Språk](#sprak) &middot; 
+[Projekt](#projekt) &middot; 
 [Publikationer](#publikationer) &middot; 
 [Undervisning](#undervisning) &middot; 
 [Informatik](#informatik) &middot; 
@@ -120,6 +121,40 @@ Språk    <a id="sprak"></a>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Projekt   <a id="projekt"></a>
+-------
+
+*   _2003 - 2007_. **[ESHEL][]** projekt (under min doktorand arbete). 
+    "_Charactersing the risk of contamination of the Beauce aquifer 
+    by pesticides. Understanding the mechanisms of transport by 
+    preferential flow and risk analysis at the watershed scale_". 
+    Projekt ledare: Pr. Yves Coquet ([AgroParisTech][]).
+    
+*   _2008_. **[FOOTPRINT][]** (under min första postdoktor arbete), 
+    ett [EU FP6][EUFP6] projekt. Utveckling av tre verktyg för 
+    bedömning och förvaltning av bekämpningsmedel förlustrisker. 
+    Projekt ledare: [Igor Dubus][IgorDubus] ([BRGM][]).
+    
+*   _2009 - now_. **[MACRO-SE][]**. 
+    Se [Yrkeserfarenhet](#yrkeserfarenhet) ovanför.
+
+*   _2013 - 2016_. **[PERFORM][]**. "_Modelling approaches to evaluate 
+    and compare the environmental performance of innovative cropping 
+    systems designed to pesticide usage: spatio-temporal integration 
+    and treatment of uncertainties_". Projektledare: 
+    [Laure Mamy][LaureMamy] ([EGC](), [INRA][]). Finansiering: 
+    [ONEMA][] och Fransk [Jordbruk, Närings och Skogsbruk 
+    Departementet][MAAF], för departementet:s [Écophyto][ECOPHYTO] 
+    program.
+
+Jag har varit involverad i doktorandarbete av 
+[Abdul Ghafoor][AbdulGhafoor] (_disputerat i 2013_) och 
+[Karin Steffens][KarinSteffens] (_disputation är planerad för 
+2015_). Se [publikationslistan](#publikationer) nedan.
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Publikationer    <a id="publikationer"></a>
 -------------
 
@@ -176,52 +211,54 @@ Informatik    <a id="informatik"></a>
         
     *   S3 and [S4][] **Objektorienterad programmering**.
     
-    *   **Analys och beräkning av geografisk data** i [R][], med 
-        [sp][], [maptools][], [raster][], [rgeos][] and [rgdal][] 
-        paket.
+    *   <a id="rgis"></a>**Analys och beräkning av geografisk data** 
+        i [R][], med [sp][], [maptools][], [raster][], [rgeos][] och 
+        [rgdal][] paket.
     
     *   **Automatisk rapportgenerator** med [knitr][] eller [Sweave][]
         paket.
     
-    *   Databas gränssnitt ("database interface") (_se nedan_).
+    *   Databas gränssnitt ("database interface") (se [nedan](#databas)).
     
-    *   Skriva [FORTRAN][] 'subroutines' (_begränsad erfarenhet_).
+    *   Skriva [FORTRAN][] 'subroutines' (begränsad erfarenhet).
     
     *   Jag har även **undervisa** två korta kurser om R programmering 
-        (_se [ovanför](#undervisning)_).
+        (se [ovanför](#undervisning)).
     
-*   **Databas**: [SQLite][], [MySQL][], [MS Access][MSAccess], 
-    [SQL][] och databas gränssnitt med [R][] (se min projekt 
-    [easydb][]).
+*   <a id="databas"></a>**Databas**: [SQLite][], [MySQL][], 
+    [MS Access][MSAccess], [SQL][] och databas gränssnitt med [R][] 
+    (se min projekt [easydb](#easydb)).
     
 *   **Version hantering** med [Subversion][] och [Git][] (och 
-    [GitHub]), samt med verktyger som [Redmine][] 
-    (och tidigare [Trac][]) och [WebSVN][].
+    [GitHub]), samt med verktyg som [Redmine][] (och tidigare 
+    [Trac][]) och [WebSVN][].
     
-*   **Web development**: I have a small experience in **[PHP][]**, 
-    **[HTML][]** and [CSS][] programming (see my project [ssld][]).
-    I have recently started using the site generator [Jekyll][]. 
-    See also the paragraph on _content management systems_ below.
+*   **Webbutveckling**: Jag har små erfarenheter i **[PHP][]**, 
+    **[HTML][]** och [CSS][] programmering (se mitt projekt 
+    [ssld](#ssld)). Jag nu använda [Jekyll][] webbplatsgenerator. 
+    Se också sektion om [Innehållshanteringssystem](#CMS) 
+    nedan. 
     
-*   I have some basic knowledge on how to install and maintain 
-    a [Linux][] ([Ubuntu][]) **web-server** and how to write 
-    **[bash][]** scripts for automatic tasks (including [cron][] 
-    tasks). I have maintained the web server of the [French Soil 
-    Science Association][AFES] for more than three years (see 
-    [below](#ideellforeningar)).
+*   Jag har grundkunskaper om installering och underhållning av 
+    ett [Linux][] ([Ubuntu][]) **webbserver** och har man kan skriva 
+    små rutiner i **[bash][]** skriptspråket för att automatisera 
+    arbeten (inklusiv [cron][] arbeten). Jag har underhålla ett 
+    webbserver för den [Fransk Markvetenskap Föreningen][AFES] under 
+    tre år. (se [nedan](#ideellforeningar)).
     
-*   **[Content Management Systems][CMS]** (CMS):  I now use [Jekyll][] 
-    site generator (_not a CMS, but contrary to most CMS, Jekyll 
-    websites do not require time consuming security upgrades_), 
-    but I have used several content management systems, like 
-    [DokuWiki][] (wiki system), [Piwigo][] (picture galleries), 
-    and [Spip][], and tested quite a few others.
+*   <a id="CMS"></a>**[Innehållshanteringssystem][CMS]** (CMS): 
+    Jag nu använda [Jekyll][] webbplatsgenerator (inte ett CMS 
+    men, i motsats till CMS, behöver Jekyll inte tidskrävande 
+    säkerhetsuppdatering), och har använda tidigare flera CMS 
+    som [DokuWiki][] (wiki systemet), [Piwigo][] (bildgallerier) 
+    och [Spip][], och testa flera andra CMS.
     
-*   **[geographic information system (GIS)][GIS]**: See the 
-    paragraph on R GIS features above. I also use [ArcGIS][] 
-    regularly. 
+*   **[Geografiskt informationssystem (GIS)][GIS]**: Se ovanför 
+    [sektionen om R GIS funktioner](#rgis). Jag också använda 
+    [ArcGIS][] regelbundet. 
     
-*   **Graphics editor**: Regular user of [Inkscape][] or [The Gimp][].
+*   **Bildbehandling program**: Jag använda [Inkscape][] och 
+    [The Gimp][] regelbundet.
 
 
 
@@ -229,26 +266,29 @@ Informatik    <a id="informatik"></a>
 Öppen källkod    <a id="oppenkallkod"></a>
 -------------
 
-*   Creator & maintainer of the [R][] package **[soiltexture][]** 
-    ("The Soil Texture Wizard"), a package for plotting soil texture 
-    triangle and classifying soil texture data, with more than 10 
-    pre-defined texture classification systems;
+*   <a id="soiltexture"></a>Creator & maintainer of the [R][] package 
+    **[soiltexture][]** ("The Soil Texture Wizard"), a package for 
+    plotting soil texture triangle and classifying soil texture data, 
+    with more than 10 pre-defined texture classification systems;
     
-*   Creator & maintainer of the [R][] packages **[soilwaterfun][]** 
-    and **[soilwaterptf][]** implementing commonly used functions 
-    for [soil water retention][], soil [hydraulic conductivity][] 
-    and some [pedotransfer functions][PTF] for parametrising them from 
+*   <a id="soilwater"></a>Creator & maintainer of the [R][] packages 
+    **[soilwaterfun][]** and **[soilwaterptf][]** implementing 
+    commonly used functions for [soil water retention][soilWatRet], 
+    soil [hydraulic conductivity][K] and some 
+    [pedotransfer functions][PTF] for parametrising them from 
     easily available soil properties;
     
-*   Creator & maintainer of the project **[easydb][]** ("Easy 
-    database interface"), a collection of [R][] packages making it 
-    easier to read and write data from various database system 
-    ([MySQL][], [SQLite][], [MS Access][] and [MS Excel][]. It is build 
-    on lower level [R][] packages [RODBC][], [DBI][] and [RSQlite][];
+*   <a id="easydb"></a>Creator & maintainer of the project 
+    **[easydb][]** ("Easy database interface"), a collection of 
+    [R][] packages making it easier to read and write data from 
+    various database system ([MySQL][], [SQLite][], [MS Access][] 
+    and [MS Excel][]. It is build on lower level [R][] packages 
+    [RODBC][], [DBI][] and [RSQlite][];
 
-*   Creator & maintainer of a **geographical directory of soil science 
-    research groups around the world** ([ssld][]). Geo-reference 
-    more than 350 groups in 67 countries. _Not maintained any longer_.
+*   <a id="ssld"></a>Creator & maintainer of a **geographical 
+    directory of soil science research groups around the world** 
+    ([ssld][]). Geo-reference more than 350 groups in 67 countries. 
+    _Not maintained any longer_.
     
 See also [this page](/Software/) on my software development.
 
@@ -270,41 +310,38 @@ Ideell föreningar    <a id="ideellforeningar"></a>
 
 
 
-<!--- Links (general) -->
+<!--- Links         -->
+<!-- Institutions   -->
 [AgroParisTech]:    http://www.agroparistech.fr/ "AgroParisTech"
 [EGC]:              http://www6.versailles-grignon.inra.fr/egc_eng/ "department of Environment and Arable Crops (EGC)"
 [ISA Lille]:        http://www.isa-lille.com/ "ISA Lille" 
-[CKB]:              http://www.slu.se/ckb "Centre for Chemical Pesticides (CKB)" 
-[SLU]:              http://www.slu.se/ "Swedish University of Agricultural Sciences (SLU)" 
-[KemI]:             http://www.kemi.se/en/ "Swedish Chemicals Agency" 
-[JV]:               http://www.jordbruksverket.se "Swedish Board of Agriculture" 
-[NV]:               http://www.naturvardsverket.se/ "Swedish Environmental Protection Agency"
-[HaV]:              http://www.havochvatten.se/en "Swedish Agency for Marine and Water Management"
-[MACRO-SE]:         http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/verksamhetsomraden/modeller/macro-se/ "MACRO-SE regional scale pesticide fate model" 
-[MACRO]:            http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/areas-of-operation-within-ckb/models/macro-52/ "MACRO 5.2" 
-[FOOTPRINT]:        http://sitem.herts.ac.uk/aeru/footprint/ "FOOTPRINT EU FP6 project (@University of Hertfordshire)"
-[INRA]:             http://www.inra.fr/en "INRA"
-[Pedometrics]:      http://en.wikipedia.org/wiki/Pedometrics "pedometrics (Wikipedia)" 
-[Municipalities]:   http://en.wikipedia.org/wiki/Municipalities_of_Sweden "Municipalities of Sweden (Wikipedia)"
-[LRF]:              http://www.lrf.se/In-English/ "Federation of Swedish Farmers (LRF)"
+[CKB]:              http://www.slu.se/ckb "KompetensCentrum för Kemiska Bekämpningsmedel (CKB)" 
+[SLU]:              http://www.slu.se/ "Sveriges lantbruksuniversitet (SLU)" 
+[KemI]:             http://www.kemi.se/ "Kemikalieinspektionen (KemI)" 
+[JV]:               http://www.jordbruksverket.se "Jordbruksverket (SJV)" 
+[NV]:               http://www.naturvardsverket.se/ "Naturvårdsverket (NV)"
+[HaV]:              http://www.havochvatten.se/ "Havs- och vattenmyndigheten (HaV)"
+[LRF]:              http://www.lrf.se/ "Lantbrukarnas Riksförbund (LRF)"
 [SV]:               http://www.plastkemiforetagen.se/sektorgrupper/svv/ "De svenska växtskyddsföretagens branschförening"
 [AFES]:             http://www.afes.fr "French Soil Science Association (AFES)" 
 [FIF]:              http://www.fif.uu.se "Families for International Friendship (FIF)" 
-[PTF]:              http://en.wikipedia.org/wiki/Pedotransfer_functions "Pedotransfer functions (Wikipedia)"
+[INRA]:             http://www.inra.fr/en "INRA"
 [FoSW]:             http://www.slu.se/FoSW "Focus on Soils and Water (FoSW) graduate school"
-[jmSLUPub]:         http://slubar.slub.se/pweb/mailsh/form?mail=Julien.Moeys%40slu.se&lang=eng&show=yes&sortorder=publication_year# "Julien Moeys (on SLUPub)"
-[jmGoogleScholar]:  http://scholar.google.se/citations?user=cRNn-IMAAAAJ&hl=en&oi=ao "Julien MOEYS Google Scholar profile"
-[MSc]:              http://sv.wikipedia.org/wiki/Master_of_science "Master of science (Wikipedia)"
 [sluMark]:          http://www.slu.se/mark  "Institutionen för mark och miljö (SLU)"
-[verksamhetsgrupp]: http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/om-oss/verksamhetsgrupp/ "Verksamhetsgrupp (CKB/SLU)"
-[ThivervalGrignon]: http://sv.wikipedia.org/wiki/Thiverval-Grignon "Thiverval-Grignon (Wikipedia)"
-[NickJarvis]:       http://www.slu.se/en/faculties/nj/nj-home/presentation-example-nicholasjarvis/ "Nick Jarvis (SLU)"
 [ISTOM]:            http://www.istom.com "ISTOM, College of International Agro-Development"
-[MV0192]:           http://slunik.slu.se/student_index.cfm?id=10633 "MV0192 Markvetenskap för miljö och vatten (SLU)" 
-[MV0198]:           http://slunik.slu.se/student_index.cfm?id=10672 "Water and solute transport in the soil-plant-system (SLU)" 
-[CEFR]:             http://sv.wikipedia.org/wiki/Gemensam_europeisk_referensram_f%C3%B6r_spr%C3%A5k#Referensniv.C3.A5erna "Gemensam europeisk referensram för språk - Referensnivåerna (Wikipedia)"
+[BRGM]:             http://www.brgm.eu/ "The French Geological Survey (BRGM)"
+[MAAF]:             http://agriculture.gouv.fr "Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt"
+[ONEMA]:            http://www.onema.fr/ "The French National Agency for Water and Aquatic Environments"
 
-<!--- IT links (except R) -->
+<!-- People         -->
+[LaureMamy]:        https://www6.versailles-grignon.inra.fr/egc/Personnes/Annuaire-des-permanents2/Liste-L-N/Mamy-L "Laure Mamy (EGC - INRA)"
+[AbdulGhafoor]:     https://sites.google.com/site/aghafoor1981/ "Abdul Ghafoor (homepage)"
+[KarinSteffens]:    http://www.slu.se/en/departments/soil-environment/contact/biogeophysics-and-water-quality/karin-steffens/ "Karin Steffens (SLU)"
+[IgorDubus]:        http://www.pfmodels.org/idubus.html "Dr Igor G. Dubus (homepage)"
+[NickJarvis]:       http://www.slu.se/en/faculties/nj/nj-home/presentation-example-nicholasjarvis/ "Nick Jarvis (SLU)"
+[KarenYemadje]:     https://www.linkedin.com/pub/karen-yemadje/61/143/691 "Karen Yemadje (Linkedin)"
+
+<!--- IT links      -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 
 [DokuWiki]:         https://www.dokuwiki.org "DokuWiki"
 [Piwigo]:           http://piwigo.org/ "Piwigo" 
@@ -338,7 +375,7 @@ Ideell föreningar    <a id="ideellforeningar"></a>
 [Spip]:             http://www.spip.net  "Spip content management system"
 [GIS]:              http://en.wikipedia.org/wiki/Geographic_information_system  "geographic information system (GIS) (Wikipedia)" 
 
-<!--- R links -->
+<!--- R links       -->
 [R]:                http://www.r-project.org/ "The R Project for Statistical Computing" 
 [Sweave]:           http://leisch.userweb.mwn.de/Sweave/ "Sweave" 
 [easydb]:           https://r-forge.r-project.org/projects/easydb/ "easy database interface (R package)"
@@ -361,9 +398,28 @@ Ideell föreningar    <a id="ideellforeningar"></a>
 [S4]:               http://cran.r-project.org/doc/manuals/r-release/R-ints.html#S4-objects "S4 objects"
 [sp]:               http://cran.r-project.org/web/packages/sp/  "sp (R package)"
 
-<!--- 'Long' links -->
-[Water Authorities]:  http://www.vattenmyndigheterna.se/En/ "Sweden water authorities" 
-[counties of Sweden]:  http://en.wikipedia.org/wiki/Counties_of_Sweden "counties of Sweden (Wikipedia)" 
-[Soil water retention]: http://en.wikipedia.org/wiki/Soil_water_%28retention%29 "Soil water retention (Wikipedia)"
-[Hydraulic conductivity]:  http://en.wikipedia.org/wiki/Hydraulic_conductivity "Hydraulic conductivity (Wikipedia)"
-[Water and solute transport in the soil-plant-system]:  http://slunik.slu.se/student_index.cfm?id=10672 "Water and solute transport in the soil-plant-system" 
+<!--- Wikipedia     -->
+[Pedometrics]:      http://en.wikipedia.org/wiki/Pedometrics "pedometrics (Wikipedia)" 
+[Municipalities]:   http://en.wikipedia.org/wiki/Municipalities_of_Sweden "Municipalities of Sweden (Wikipedia)"
+[PTF]:              http://en.wikipedia.org/wiki/Pedotransfer_functions "Pedotransfer functions (Wikipedia)"
+[MSc]:              http://sv.wikipedia.org/wiki/Master_of_science "Master of science (Wikipedia)"
+[ThivervalGrignon]: http://sv.wikipedia.org/wiki/Thiverval-Grignon "Thiverval-Grignon (Wikipedia)"
+[CEFR]:             http://sv.wikipedia.org/wiki/Gemensam_europeisk_referensram_f%C3%B6r_spr%C3%A5k#Referensniv.C3.A5erna "Gemensam europeisk referensram för språk - Referensnivåerna (Wikipedia)"
+[soilWatRet]:       http://en.wikipedia.org/wiki/Soil_water_%28retention%29 "Soil water retention (Wikipedia)"
+[K]:                http://en.wikipedia.org/wiki/Hydraulic_conductivity "Hydraulic conductivity (Wikipedia)"
+
+<!-- Other          -->
+[MACRO-SE]:         http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/verksamhetsomraden/modeller/macro-se/ "MACRO-SE regional scale pesticide fate model" 
+[MACRO]:            http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/verksamhetsomraden/modeller/macro-5x/ "MACRO 5.2" 
+[FOOTPRINT]:        http://sitem.herts.ac.uk/aeru/footprint/ "FOOTPRINT EU FP6 project (@University of Hertfordshire)"
+[jmSLUPub]:         http://slubar.slub.se/pweb/mailsh/form?mail=Julien.Moeys%40slu.se&lang=eng&show=yes&sortorder=publication_year# "Julien Moeys (on SLUPub)"
+[jmGoogleScholar]:  http://scholar.google.se/citations?user=cRNn-IMAAAAJ&hl=en&oi=ao "Julien MOEYS Google Scholar profile"
+[verksamhetsgrupp]: http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/om-oss/verksamhetsgrupp/ "Verksamhetsgrupp (CKB/SLU)"
+[MV0192]:           http://slunik.slu.se/student_index.cfm?id=10633 "MV0192 Markvetenskap för miljö och vatten (SLU)" 
+[MV0198]:           http://slunik.slu.se/student_index.cfm?id=10672 "Water and solute transport in the soil-plant-system (SLU)" 
+[ESHEL]:            http://agriculture.gouv.fr/IMG/pdf/ESHEL_cle0866f6.pdf "ESHEL research project"
+[PERFORM]:          https://www6.versailles-grignon.inra.fr/egc/Recherches/Equipes-axes-de-recherche/Equipe-Sol/PROJETS-DE-RECHERCHE/PERFORM "Projet PERFORM"
+[EUFP6]:            http://cordis.europa.eu/fp6/ "The 6th Framework Programme funded European Research and Technological Development"
+[ECOPHYTO]:         http://agriculture.gouv.fr/ecophyto "Ecophyto program"
+
+
