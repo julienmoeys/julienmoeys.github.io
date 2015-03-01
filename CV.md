@@ -327,7 +327,7 @@ Associations    <a id="associations"></a>
 [AbdulGhafoor]:     https://sites.google.com/site/aghafoor1981/ "Abdul Ghafoor (homepage)"
 [KarinSteffens]:    http://www.slu.se/en/departments/soil-environment/contact/biogeophysics-and-water-quality/karin-steffens/ "Karin Steffens (SLU)"
 
-<!--- IT links      --><!--- (not R links) -->
+<!--- IT links (!R) -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 
 [DokuWiki]:         https://www.dokuwiki.org "DokuWiki"
 [Piwigo]:           http://piwigo.org/ "Piwigo" 

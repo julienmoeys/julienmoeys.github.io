@@ -341,7 +341,7 @@ Ideell föreningar    <a id="ideellforeningar"></a>
 [NickJarvis]:       http://www.slu.se/en/faculties/nj/nj-home/presentation-example-nicholasjarvis/ "Nick Jarvis (SLU)"
 [KarenYemadje]:     https://www.linkedin.com/pub/karen-yemadje/61/143/691 "Karen Yemadje (Linkedin)"
 
-<!--- IT links      -->
+<!--- IT links (!R) -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 
 [DokuWiki]:         https://www.dokuwiki.org "DokuWiki"
 [Piwigo]:           http://piwigo.org/ "Piwigo" 
