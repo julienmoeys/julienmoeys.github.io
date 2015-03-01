@@ -34,11 +34,10 @@ av bekämpningsmedel öden i Sverige.
 
 ### webbplatsinnehåll   <a id="sitecontent"></a>
 
-På denna hemsida presenterar jag min [curriculum vitae](/CV/) 
-(_på engelska_), en list av [publikationer](/Publications/) 
-(_på engelska_. Se även [&#9656; Google Scholar][jmScholar]) och 
-en presentation av [mina aktiviteter på SLU](/Activities/) 
-(_på engelska_).
+På denna hemsida presenterar jag min [curriculum vitae](/sv/CV/), 
+en list av [publikationer](/Publications/) (_på engelska_. 
+Se även [&#9656; Google Scholar][jmScholar]) och en presentation av 
+[mina aktiviteter på SLU](/Activities/) (_på engelska_).
 
 Jag presentera allmän [R paket](/Software/) (_på engelska_. 
 Mjukvaror moduler) jag har utveckla.

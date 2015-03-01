@@ -33,7 +33,7 @@ fate modelling in Sweden.
 
 ### Site Content   <a id="sitecontent"></a>
 
-On this website, I present my [curriculum](/CV/), a list of 
+On this website, I present my [curriculum vitae](/CV/), a list of 
 [publications](/Publications/) (also on [&#9656; Google Scholar][jmScholar]) 
 and a presentation of [my activities at SLU](/Activities/).
 

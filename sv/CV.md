@@ -1,136 +1,142 @@
 ---
-layout    : page_en
+layout    : page_sv
 title     : CV
 longtitle : Curriculum vitae
 weight    : 2.1
 ---
 
-Page content: [Contact](#contact) | [Education](#education) | 
-[Fields of expertise](#expertiseFields) | 
-[Professional experience](#professionalexperience) | 
-[Publications](#publications) | [Teaching](#teaching) | 
-[Informatics](#informatics) | [Open Source](#opensource) | 
-[Associations](#associations) 
+Sidinnehall: [Kontakt](#kontakt) | [Utbildning](#utbildning) | 
+[Kompetensområden](#kompetensomraden) | 
+[Yrkeserfarenhet](#yrkeserfarenhet) | 
+[Publikationer](#publikationer) | [Undervisning](#undervisning) | 
+[Informatik](#informatik) | [Öppen källkod](#oppenkallkod) | 
+[Ideell föreningar](#ideellforeningar) 
 
 
 
-Contact   <a id="contact"></a>
+Kontakt   <a id="kontakt"></a>
 -------
 
-See the [home page](/#contact) of this site.
+Se [hemsidan](/sv/).
 
 ![Time series of pesticide losses at the landscape scale]({{ site.url }}/assets/img/timeSeries_IPU_SW_avg-s.jpg "Time series of pesticide losses at the landscape scale")
 
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Education    <a id="education"></a>
+Utbildning    <a id="utbildning"></a>
 ---------
 
-*   **Ph.D. in Soil Science** ([AgroParisTech][], [EGC][], 2007). 
-    With Pr. Yves Coquet .
+*   **Ph.D. i markvetenskap** ([AgroParisTech][], [EGC][], 2007). 
+    Med Pr. Yves Coquet.
 
-*   **'DEA' in Soil Science** (INPL & [AgroParisTech][], 2004). 1 
-    year specialisation (eq. to a [M.Sc.][MSc]). 
+*   **'DEA' i markvetenskap** (INPL & [AgroParisTech][], 2004). 1 
+    år specialisering (cirka motsvarande en [M.Sc.][MSc]). 
 
-*   **Agriculture Engineer** ([ISA Lille][], 2003). 5 years degree 
-    (eq. to a [M.Sc.][MSc]).
+*   **Jordbruksingenjör** ([ISA Lille][], 2003). 5 år utbildning 
+    (cirka motsvarande en [M.Sc.][MSc]).
 
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Fields of expertise   <a id="expertiseFields"></a>
+Kompetensområden   <a id="kompetensomraden"></a>
 -------------------
 
-*   Modelling **water flow and pesticide fate in soils**; 
+*   Modellering av **vattenflöde och transport av bekämpningsmedel** 
+    **i marken**;
 
-*   Estimating the **risks of diffuse pesticide losses at the** 
-    **regional scale**;
+*   Bedömning av diffusa **risker av bekämpningsmedelsförluster på** 
+    **regionalskala**;
 
-*   Robust and efficient **statistics** for estimating model 
-    parameters from easily available proxy-data 
-    ([pedotransfer functions][PTF] and [pedometrics][]);
+*   Robusta och effektiva **statistiker** (rutiner) för bedömning 
+    av modellparametrar med lätt tillgängliga miljödata 
+    (se [pedotransfer functions][PTF] och [pedometrics][]);
 
-*   **Programming techniques** ([R][]) for data management 
-    and analysis, including geographical datasets;
+*   **Programmering-tekniker** ([R][]) för data hantering och analys, 
+    inklusive geografisk data;
 
-See also [this description](/Activities/) of my current "research 
-and development" and teaching activities.
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Professional experience    <a id="professionalexperience"></a>
------------------------
-
-*   _01/2011 - Now_: **Research Engineer at SLU** (Uppsala), department of 
-    [Soil and Environment][], Biogeophysics and water quality division. 
-    Building tools for regional scale modelling of pesticide 
-    leaching risks ([MACRO-SE][]). Work financed by the 
-    [Centre for Chemical Pesticides (CKB)][CKB], at [SLU][]. 
-    With Pr. [Nick Jarvis][NickJarvis]. 
-    
-*   Assistant responsibility for the risk assessment tools 
-    [competence area][OperationalGroup] at the 
-    [Centre for Chemical Pesticides (CKB) ][CKB].
-    
-*   _01/2009 - 01/2011_: **Postdoc at SLU** (Uppsala), department of 
-    [Soil and Environment][], Biogeophysics and water quality division. 
-    Building tools for regional scale modelling of pesticide 
-    leaching risks ([MACRO-SE][]). Work financed by the 
-    [Centre for Chemical Pesticides (CKB)][CKB], at [SLU][]. 
-    With Pr. [Nick Jarvis][NickJarvis]. 
-   
-*   _01/2008 - 01/2009_: **Postdoc at SLU** (Uppsala), department of 
-    [Soil and Environment][], Biogeophysics and water quality division. 
-    [FOOTPRINT][] EU FP6 project. Validation of FOOTPRINT sets of 
-    [pedotransfer functions][PTF] for water and solute transport in 
-    soils. With Pr. [Nick Jarvis][NickJarvis]. 
-
-*   _09/2003 - 12/2007_: **Ph.D. student** at 
-    [AgroParisTech][] (Thiverval-Grignon, France), department of 
-    [Environment and Arable Crops (EGC)][EGC] ([INRA][] / 
-    [AgroParisTech][] joint research unit). "_Spatial variability_ 
-    _and agro-pedological determinisms of an herbicide fate in the_ 
-    _surface horizon : an application to isoproturon in an agricultural_ 
-    _catchment of the Beauce chartraine region, France_" (in French). 
-    With Pr. Yves Coquet. 
+Se även [beskrivningen](/Activities/) (_på engelska_) av mina 
+nuvarande "forskning och utveckling" och undervisning aktiviteter.
 
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Publications    <a id="publications"></a>
+Yrkeserfarenhet    <a id="yrkeserfarenhet"></a>
+---------------
+
+*   _01/2011 - Idag_: **Forskningsingenjör på [SLU][]** (Uppsala), 
+    [Institutionen för mark och miljö][sluMark], samt 
+    [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB]. 
+    **Utveckling av ett regionalskala riskbedömningsverktyg** 
+    ([MACRO-SE][]) och **geografisk dataset för modellering av** 
+    **bekämpningsmedel förlustrisker**. 
+    Med Pr. [Nick Jarvis][NickJarvis]. 
+    
+*   Biträdande ansvarig för [verksamhetsområdet][verksamhetsgrupp] 
+    "riskbedömningsverktyg" på 
+    [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB].
+    
+*   _01/2009 - 01/2011_: **Postdoktor på [SLU][]** (Uppsala), 
+    [Institutionen för mark och miljö][sluMark], samt 
+    [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB]. 
+    Utveckling av ett regionalskala riskbedömningsverktyg 
+    ([MACRO-SE][]) för modellering av bekämpningsmedel 
+    förlustrisker. Med Pr. [Nick Jarvis][NickJarvis]. 
+    
+*   _01/2008 - 01/2009_: **Postdoktor på [SLU][]** (Uppsala), 
+    [Institutionen för mark och miljö][sluMark], Biogeofysik och 
+    vattenvård avdelning. [FOOTPRINT][] EU FP6 projekt. Validering 
+    av ett set av parameter bedömningsrutiner 
+    ([pedotransfer functions][PTF]) för modellering av vattenflöde 
+    och ämnestransport i marken. Med Pr. [Nick Jarvis][NickJarvis].
+
+*   _09/2003 - 12/2007_: **Doktorant** på [AgroParisTech][] 
+    ([Grignon][ThivervalGrignon], France), 
+    [Institutionen för miljö och grödor (EGC)][EGC] ([INRA][] och 
+    [AgroParisTech][]). "_Spatial variability and agro-pedological_ 
+    _determinisms of an herbicide fate in the surface horizon : an_ 
+    _application to isoproturon in an agricultural catchment of the_ 
+    _Beauce chartraine region, France_" (på franska).
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Publikationer    <a id="publikationer"></a>
+-------------
+
+Se min **list av publikationer** [på den här sidan](/Publications/) 
+(på Engelska).
+
+Se även min list av publikationer på 
+[&#9656; Google Scholar][jmGoogleScholar] eller 
+[&#9656; SLUPub][jmSLUPub] (SLU:s publikationsdatabas).
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Undervisning    <a id="undervisning"></a>
 ------------
 
-See my **publication list** [on this page](/Publications/).
-
-See also my publication list on [&#9656; Google Scholar][jmGoogleScholar] 
-or [&#9656; SLUPub][jmSLUPub] (SLU publication database).
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Teaching    <a id="teaching"></a>
---------
-
-*   Teaches some computer based modelling exercises for 
-    [Soil science for water and environment][MV0192] (_MV0192_), 
-    since 2011.
+*   Dator-baserad modellering övningar för kursen 
+    [Markvetenskap för miljö och vatten][MV0192] (_MV0192_), sedan 
+    2011 (_utbildning på Engelska_).
     
-*   Teaches some computer based modelling exercises for 
-    [Water and solute transport in the soil-plant-system][MV0198] 
-    (_MV0198_), since 2010.
+*   Dator-baserad modellering övningar för kursen 
+    [Water and solute transport in the soil-plant-system][] 
+    (_MV0198_), sedan 2010 (_utbildning på Engelska_).
 
-*   **[R][] beginner course** for [SLU][]-[CKB][] (3 days, 2009).
-
-*   **[MS Access][] and [R][] beginner course** for [SLU][] 
-    [Focus on Soils and Water (FoSW)][FoSW] graduate school (4 days, 
+*   "**[R][] beginner course**" ([R][] kurs för nybörjare) för 
+    [SLU][]-[CKB][] (3 dagar, 2009).
+    
+*   "**[MS Access][MSAccess] and [R][] beginner course**" 
+    ([MS Access][MSAccess] och [R][] kurs för nybörjare) för [SLU][] 
+    [Focus on Soils and Water (FoSW)][FoSW] forskarskola (4 dagar, 
     2010).
-
-*   Practical field-exercise on **soil profile description**. 
-    Two times 3 hours, 2005 and 2006. Fisrt year students of 
+    
+*   Fält praktik övningen om **beskrivning av markprofiler**. 
+    Två gång 3 timme. Studenter från första terminen av 
     Cergy-Pontoise College of International Agro-Development 
-    ([ISTOM][]).
+    ([ISTOM][]). 
 
 <!-- Cours. Le rôle du sol dans les problèmes de pollutions des eaux par les produits
 phytosanitaires ; 3 h, 2005, 2007 ; dans le cadre de l’enseignement « Itinéraires
@@ -140,36 +146,38 @@ d’Agriculture de Lille. -->
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Informatics    <a id="informatics"></a>
------------
+Informatik    <a id="informatik"></a>
+----------
 
-*   **[R][]** programming language for statistical computing:
+*   **[R][]** programmeringsspråk för statistik datakunskap:
     
-    *   **Writing and documenting [R packages][]** (developer and 
-        maintainer of > 20 packages. I use [roxygen2][] and 
-        [inlinedocs][] documentation systems.
+    *   **Skriva och dokumentera [R paket][RPackages]** (utvecklare 
+        och underhållare av mer an 20 R paket. Jag använda [roxygen2][] 
+        och [inlinedocs][] dokumentationsgenerator.
+        
+    *   S3 and [S4][] **Objektorienterad programmering**.
     
-    *   S3 and [S4][] **object-oriented programming**.
+    *   **Analys och beräkning av geografisk data** i [R][], med 
+        [sp][], [maptools][], [raster][], [rgeos][] and [rgdal][] 
+        paket.
     
-    *   **Processing geographic data** in [R][] with [sp][], 
-        [maptools][], [raster][], [rgeos][] and [rgdal][].
+    *   **Automatisk rapportgenerator** med [knitr][] eller [Sweave][]
+        paket.
     
-    *   **Automatic report** generation with [knitr][] or [Sweave][].
+    *   Databas gränssnitt ("database interface") (_se nedan_).
     
-    *   Interface with databases (see below).
+    *   Skriva [FORTRAN][] 'subroutines' (_begränsad erfarenhet_).
     
-    *   Writing [FORTRAN][] subroutines (limited experience).
+    *   Jag har även **undervisa** två korta kurser om R programmering 
+        (_se [ovanför](#undervisning)_).
     
-    *   I have been **teaching** two short courses on R programming 
-        (_see [above](#teaching)_)
-    
-*   **Database systems**: [SQLite][], [MySQL][], [MS Access][], 
-    [SQL][] and database interface with [R][] (see my project 
+*   **Databas**: [SQLite][], [MySQL][], [MS Access][MSAccess], 
+    [SQL][] och databas gränssnitt med [R][] (se min projekt 
     [easydb][]).
     
-*   **Version control** with [Subversion][] and [Git][] (and 
-    [GitHub]), as well as the tools such [Redmine][] 
-    (and before [Trac][]) or [WebSVN][].
+*   **Version hantering** med [Subversion][] och [Git][] (och 
+    [GitHub]), samt med verktyger som [Redmine][] 
+    (och tidigare [Trac][]) och [WebSVN][].
     
 *   **Web development**: I have a small experience in **[PHP][]**, 
     **[HTML][]** and [CSS][] programming (see my project [ssld][]).
@@ -181,7 +189,7 @@ Informatics    <a id="informatics"></a>
     **[bash][]** scripts for automatic tasks (including [cron][] 
     tasks). I have maintained the web server of the [French Soil 
     Science Association][AFES] for more than three years (see 
-    [below](#associations)).
+    [below](#ideellforeningar)).
     
 *   **[Content Management Systems][CMS]** (CMS):  I now use [Jekyll][] 
     site generator (_not a CMS, but contrary to most CMS, Jekyll 
@@ -199,8 +207,8 @@ Informatics    <a id="informatics"></a>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Open Source    <a id="opensource"></a>
------------
+Öppen källkod    <a id="oppenkallkod"></a>
+-------------
 
 *   Creator & maintainer of the [R][] package **[soiltexture][]** 
     ("The Soil Texture Wizard"), a package for plotting soil texture 
@@ -227,8 +235,8 @@ See also [this page](/Software/) on my software development.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Associations    <a id="associations"></a>
-------------
+Ideell föreningar    <a id="ideellforeningar"></a>
+-----------------
 
 *   Between 2011 and 2013 (and a a bit before that) I was **webmaster** 
     and **member of the board** of the **[French Soil Science 
@@ -268,11 +276,12 @@ Associations    <a id="associations"></a>
 [jmSLUPub]:         http://slubar.slub.se/pweb/mailsh/form?mail=Julien.Moeys%40slu.se&lang=eng&show=yes&sortorder=publication_year# "Julien Moeys (on SLUPub)"
 [jmGoogleScholar]:  http://scholar.google.se/citations?user=cRNn-IMAAAAJ&hl=en&oi=ao "Julien MOEYS Google Scholar profile"
 [MSc]:              http://sv.wikipedia.org/wiki/Master_of_science "Master of science (Wikipedia)"
+[sluMark]:          http://www.slu.se/mark  "Institutionen för mark och miljö (SLU)"
+[verksamhetsgrupp]: http://www.slu.se/sv/centrumbildningar-och-projekt/kompetenscentrum-for-kemiska-bekampningsmedel/om-oss/verksamhetsgrupp/ "Verksamhetsgrupp (CKB/SLU)"
+[ThivervalGrignon]: http://sv.wikipedia.org/wiki/Thiverval-Grignon "Thiverval-Grignon (Wikipedia)"
 [NickJarvis]:       http://www.slu.se/en/faculties/nj/nj-home/presentation-example-nicholasjarvis/ "Nick Jarvis (SLU)"
-[OperationalGroup]: http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/about-us/management-group/ "Operational group (CKB/SLU)"
-[ISTOM]:            http://www.istom.com "College of International Agro-Development (ISTOM)"
-[MV0192]:           http://slunik.slu.se/student_index.cfm?id=10633 "Soil science for water and environment (SLU)" 
-[MV0198]:           http://slunik.slu.se/student_index.cfm?id=10672 "Water and solute transport in the soil-plant-system (SLU)" 
+[ISTOM]:            http://www.istom.com "ISTOM, College of International Agro-Development"
+[MV0192]:           http://slunik.slu.se/student_index.cfm?id=10633 "MV0192 Markvetenskap för miljö och vatten (SLU)" 
 
 <!--- IT links (except R) -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 
@@ -286,8 +295,8 @@ Associations    <a id="associations"></a>
 [SQLite]:           http://www.sqlite.org/ "SQLite database"
 [ssld]:             http://www.afes.fr/ssld/ "geographical directory of soil science research groups around the world" 
 [markdown syntax]:  http://daringfireball.net/projects/markdown "markdown"
-[MS Access]:        http://en.wikipedia.org/wiki/MS_Access "Microsoft Access" 
-[MS Excel]:         http://en.wikipedia.org/wiki/MS_Excel "Microsoft Excel"
+[MSAccess]:         http://en.wikipedia.org/wiki/MS_Access "Microsoft Access" 
+[MSExcel]:          http://en.wikipedia.org/wiki/MS_Excel "Microsoft Excel"
 [PHP]:              http://php.net/ "PHP Programming" 
 [HTML]:             http://en.wikipedia.org/wiki/HTML "HyperText Markup Language (Wikipedia)" 
 [CSS]:              http://en.wikipedia.org/wiki/CSS "Cascading Style Sheets (Wikipedia)"
@@ -327,15 +336,13 @@ Associations    <a id="associations"></a>
 [rgeos]:            http://cran.r-project.org/web/packages/rgeos/ "rgeos (R package)"
 [roxygen2]:         http://cran.r-project.org/web/packages/roxygen2/ "roxygen2 (R package)"
 [inlinedocs]:       http://cran.r-project.org/web/packages/inlinedocs/ "inlinedocs (R package)"
-[R packages]:       http://cran.r-project.org/doc/manuals/R-exts.html 
+[RPackages]:        http://cran.r-project.org/doc/manuals/R-exts.html "Writing R Extensions" 
 [S4]:               http://cran.r-project.org/doc/manuals/r-release/R-ints.html#S4-objects "S4 objects"
 [sp]:               http://cran.r-project.org/web/packages/sp/  "sp (R package)"
 
 <!--- 'Long' links -->
-[Soil and Environment]:  http://www.slu.se/en/departments/soil-environment/ "Soil and Environment"
 [Water Authorities]:  http://www.vattenmyndigheterna.se/En/ "Sweden water authorities" 
 [counties of Sweden]:  http://en.wikipedia.org/wiki/Counties_of_Sweden "counties of Sweden (Wikipedia)" 
 [Soil water retention]: http://en.wikipedia.org/wiki/Soil_water_%28retention%29 "Soil water retention (Wikipedia)"
 [Hydraulic conductivity]:  http://en.wikipedia.org/wiki/Hydraulic_conductivity "Hydraulic conductivity (Wikipedia)"
-
-
+[Water and solute transport in the soil-plant-system]:  http://slunik.slu.se/student_index.cfm?id=10672 "Water and solute transport in the soil-plant-system" 
