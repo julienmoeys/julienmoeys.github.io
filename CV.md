@@ -257,25 +257,43 @@ Informatics    <a id="informatics"></a>
 Open Source    <a id="opensource"></a>
 -----------
 
+*   Creator & maintainer of the [R][] package **[easylegend][]** 
+    (on [GitHub][]), a package for generating plot aesthetics 
+    and legends for categorical and continuous data, with a focus
+    on variables spanning across several orders of magnitudes 
+    (such as _maps of pesticide concentrations_), that require 
+    custom, non-linear legends.
+    
 *   Creator & maintainer of the [R][] package **[soiltexture][]** 
-    ("The Soil Texture Wizard"), a package for plotting soil texture 
-    triangle and classifying soil texture data, with more than 10 
-    pre-defined texture classification systems;
+    ("The Soil Texture Wizard"; on [CRAN][]), a package for plotting 
+    soil texture triangle and classifying soil texture data, 
+    providing 16 texture classification systems from around the world. 
+    See also this 
+    [gallery of texture triangles]({% post_url 2015-02-06-texture-triangle-gallery %}).
     
 *   Creator & maintainer of the [R][] packages **[soilwaterfun][]** 
-    and **[soilwaterptf][]** implementing commonly used functions 
-    for [soil water retention][soilWatRet], soil [hydraulic conductivity][K] 
-    and some [pedotransfer functions][PTF] for parametrising them from 
-    easily available soil properties;
+    and **[soilwaterptf][]** (on [r-forge][]) implementing commonly 
+    used functions for [soil water retention][soilWatRet], soil 
+    [hydraulic conductivity][K] and some [pedotransfer functions][PTF] 
+    for parametrising them from easily available soil properties.
     
 *   Creator & maintainer of the project **[easydb][]** ("Easy 
     database interface"), a collection of [R][] packages making it 
     easier to read and write data from various database system 
-    ([MySQL][], [SQLite][], [MS Access][] and [MS Excel][]. It is build 
-    on lower level [R][] packages [RODBC][], [DBI][] and [RSQlite][];
+    ([MySQL][], [SQLite][], [MS Access][] and [MS Excel][]). It is 
+    build on lower level [R][] packages [RODBC][], [DBI][] and 
+    [RSQlite][];
 
-*   Creator & maintainer of a **geographical directory of soil science 
-    research groups around the world** ([ssld][]). Geo-reference 
+*   Creator & maintainer of the [R][] package **[macroutils][MACRO]**, 
+    a collection of utility functions for the pesticide fate model 
+    [MACRO][]. `macroutils` provides functions for importing and 
+    exporting MACRO binary input/output data files, for visualising 
+    their content and for converting them. `macroutils` includes 
+    simple [text-based interface][textUI]s for fast and efficient 
+    operations.
+
+*   Creator of a **geographical directory of soil science** 
+    **research groups around the world** ([ssld][]). Geo-reference 
     more than 350 groups in 67 countries. _Not maintained any longer_.
     
 See also [this page](/Software/) on my software development.
@@ -289,7 +307,7 @@ Associations    <a id="associations"></a>
     and **member of the board** of the **[French Soil Science 
     Association (AFES)][AFES]**. 
     
-*   Since 2012 I am **member of the board** of the Uppsala-based 
+*   Between 2012 and 2014 I was **member of the board** of the Uppsala-based 
     association **[Families for International Friendship 
     (FIF)][FIF]**. This non-political and non-relegious association 
     (founded in 1965) organises cultural and social activities for 
@@ -327,7 +345,7 @@ Associations    <a id="associations"></a>
 [AbdulGhafoor]:     https://sites.google.com/site/aghafoor1981/ "Abdul Ghafoor (homepage)"
 [KarinSteffens]:    http://www.slu.se/en/departments/soil-environment/contact/biogeophysics-and-water-quality/karin-steffens/ "Karin Steffens (SLU)"
 
-<!--- IT links (!R) -->
+<!--- IT links      | not R -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 
 [DokuWiki]:         https://www.dokuwiki.org "DokuWiki"
 [Piwigo]:           http://piwigo.org/ "Piwigo" 
@@ -355,11 +373,12 @@ Associations    <a id="associations"></a>
 [CMS]:              http://en.wikipedia.org/wiki/Content_management_system  "Content Management System (Wikipedia)"
 [Trac]:             http://trac.edgewall.org/  "Enhanced wiki and issue tracking system for software development projects"
 [Redmine]:          http://www.redmine.org/  "Flexible project management web application"
-[GitHub]:           http://en.wikipedia.org/wiki/GitHub  "Github (Wikipedia)"
+[GitHub]:           https://github.com/  "Github"
 [WebSVN]:           http://www.websvn.info/  "WebSVN (subversion browser)"
 [Jekyll]:           http://en.wikipedia.org/wiki/Jekyll_%28software%29
 [Spip]:             http://www.spip.net  "Spip content management system"
 [GIS]:              http://en.wikipedia.org/wiki/Geographic_information_system  "geographic information system (GIS) (Wikipedia)" 
+[textUI]:           http://en.wikipedia.org/wiki/Text-based_user_interface "Text-based user interface (Wikipedia)"
 
 <!--- R links       -->
 [R]:                http://www.r-project.org/ "The R Project for Statistical Computing" 
@@ -368,6 +387,8 @@ Associations    <a id="associations"></a>
 [soilwaterfun]:     https://r-forge.r-project.org/projects/soilwater/ "soilwaterfun (R package)" 
 [soilwaterptf]:     https://r-forge.r-project.org/projects/soilwater/ "soilwaterptf (R package)" 
 [soiltexture]:      http://cran.r-project.org/web/packages/soiltexture/ "soiltexture (R package)" 
+[easylegend]:       https://github.com/julienmoeys/easylegend "easylegend (R package)"
+[macroutils]:       http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/areas-of-operation-within-ckb/models/macro-52/ "macroutils R package (on MACRO 5.2 homepage)"
 [bibtex]:           http://cran.r-project.org/web/packages/bibtex "bibtex (R package)" 
 [markdown]:         http://cran.r-project.org/web/packages/markdown "markdown (R package)" 
 [RODBC]:            http://cran.r-project.org/web/packages/RODBC/ "RODBC (R package)"
@@ -383,8 +404,10 @@ Associations    <a id="associations"></a>
 [R packages]:       http://cran.r-project.org/doc/manuals/R-exts.html 
 [S4]:               http://cran.r-project.org/doc/manuals/r-release/R-ints.html#S4-objects "S4 objects"
 [sp]:               http://cran.r-project.org/web/packages/sp/  "sp (R package)"
+[CRAN]:             http://cran.r-project.org/ "The Comprehensive R Archive Network"
+[r-forge]:          https://r-forge.r-project.org/ "R-Forge - central platform for R packages development"
 
-<!--- Wikipedia     -->
+<!--- Wikipedia     | not IT -->
 [ThivervalGrignon]: http://sv.wikipedia.org/wiki/Thiverval-Grignon "Thiverval-Grignon (Wikipedia)"
 [CEFR]:             http://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels "Common European Framework of Reference for Languages - Common reference levels (Wikipedia)"
 [Pedometrics]:      http://en.wikipedia.org/wiki/Pedometrics "pedometrics (Wikipedia)" 

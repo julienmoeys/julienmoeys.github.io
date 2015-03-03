@@ -176,7 +176,7 @@ Undervisning    <a id="undervisning"></a>
     2011 (_utbildning på Engelska_).
     
 *   Dator-baserad modellering övningar för kursen 
-    [Water and solute transport in the soil-plant-system][] 
+    [Water and solute transport in the soil-plant-system][MV0198] 
     (_MV0198_), sedan 2010 (_utbildning på Engelska_).
 
 *   "**[R][] beginner course**" ([R][] kurs för nybörjare) för 
@@ -266,31 +266,48 @@ Informatik    <a id="informatik"></a>
 Öppen källkod    <a id="oppenkallkod"></a>
 -------------
 
-*   <a id="soiltexture"></a>Creator & maintainer of the [R][] package 
-    **[soiltexture][]** ("The Soil Texture Wizard"), a package for 
-    plotting soil texture triangle and classifying soil texture data, 
-    with more than 10 pre-defined texture classification systems;
+*   Skapare och underhållare av [R][] paket **[easylegend][]** 
+    (på [GitHub][]), ett paket för att skapa diagram 'aesthetics' 
+    och diagram förklaring för kvantitativa variabler eller 
+    kategoriska variabler med fokus på variabler som spänna över 
+    flera storleksordning (som _kartor av bekämpningsmedel 
+    koncentrationer_), och som behöver speciella icke-lineärt 
+    förklaring.
     
-*   <a id="soilwater"></a>Creator & maintainer of the [R][] packages 
-    **[soilwaterfun][]** and **[soilwaterptf][]** implementing 
-    commonly used functions for [soil water retention][soilWatRet], 
-    soil [hydraulic conductivity][K] and some 
-    [pedotransfer functions][PTF] for parametrising them from 
-    easily available soil properties;
+*   Skapare och underhållare av [R][] paket **[soiltexture][]** 
+    ("_The Soil Texture Wizard_"; på [CRAN][]), ett paket för att 
+    skapa textur-triangel (diagram av marktextur) klassificera textur 
+    data, och tillföra 16 textur klassningssystemen från hela 
+    världen. Se också detta 
+    [textur-trianglar galleri]({% post_url 2015-02-06-texture-triangle-gallery %}).
     
-*   <a id="easydb"></a>Creator & maintainer of the project 
-    **[easydb][]** ("Easy database interface"), a collection of 
-    [R][] packages making it easier to read and write data from 
-    various database system ([MySQL][], [SQLite][], [MS Access][] 
-    and [MS Excel][]. It is build on lower level [R][] packages 
-    [RODBC][], [DBI][] and [RSQlite][];
+*   Skapare och underhållare av [R][] paket **[soilwaterfun][]** 
+    och **[soilwaterptf][]** (på [r-forge][]). Paket implementera 
+    vanliga funktioner för [markens vattenbindning][soilWatRet] och 
+    [markens vattengenomsläpplighet][K], samt med några rutiner 
+    för att bedöma funktionsparametrar ([pedotransfer functions][PTF]).
+    
+*   Skapare och underhållare av projektet **[easydb][]** ("_Easy_ 
+    _database interface_"), ett samling av [R][] paket gör det 
+    enklare att skriva eller läsa data från olika databassystemen 
+    ([MySQL][], [SQLite][], [MS Access][MSAccess] och 
+    [MS Excel][MSExcel]). Paketet bygga på andra _lower level_ 
+    paket [RODBC][], [DBI][] och [RSQlite][].
 
-*   <a id="ssld"></a>Creator & maintainer of a **geographical 
-    directory of soil science research groups around the world** 
-    ([ssld][]). Geo-reference more than 350 groups in 67 countries. 
-    _Not maintained any longer_.
+*   Skapare och underhållare av [R][] paket **[macroutils][MACRO]**, 
+    ett samling av rutiner för bekämpningsmedel transport modell 
+    [MACRO][]. `macroutils` implementera rutiner för att importera 
+    och exportera MACRO binär in/ut-data filer, och för att 
+    visualisera de, och konvertera de. Ett enkelt 
+    [textbaserat användargränssnitt][textUI] ingå i paket för 
+    snabbt och effektivt operationer. 
+
+*   Skapare av ett **geografisk register av markvetenskap forsknings** 
+    **avdelningar i världen** ([ssld][]). Geo-referera över 350 
+    avdelning i 67 länder. _Underhålls inte längre_
     
-See also [this page](/Software/) on my software development.
+Se också [detta sida](/Software/) om mjukvaror jag utveckla.
+
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -301,7 +318,7 @@ Ideell föreningar    <a id="ideellforeningar"></a>
     and **member of the board** of the **[French Soil Science 
     Association (AFES)][AFES]**. 
     
-*   Since 2012 I am **member of the board** of the Uppsala-based 
+*   Between 2012 and 2014 I was **member of the board** of the Uppsala-based 
     association **[Families for International Friendship 
     (FIF)][FIF]**. This non-political and non-relegious association 
     (founded in 1965) organises cultural and social activities for 
@@ -341,7 +358,7 @@ Ideell föreningar    <a id="ideellforeningar"></a>
 [NickJarvis]:       http://www.slu.se/en/faculties/nj/nj-home/presentation-example-nicholasjarvis/ "Nick Jarvis (SLU)"
 [KarenYemadje]:     https://www.linkedin.com/pub/karen-yemadje/61/143/691 "Karen Yemadje (Linkedin)"
 
-<!--- IT links (!R) -->
+<!--- IT links      | not R -->
 [SQL]:              http://en.wikipedia.org/wiki/SQL "Structured Query Language (Wikipedia)" 
 [DokuWiki]:         https://www.dokuwiki.org "DokuWiki"
 [Piwigo]:           http://piwigo.org/ "Piwigo" 
@@ -369,11 +386,12 @@ Ideell föreningar    <a id="ideellforeningar"></a>
 [CMS]:              http://en.wikipedia.org/wiki/Content_management_system  "Content Management System (Wikipedia)"
 [Trac]:             http://trac.edgewall.org/  "Enhanced wiki and issue tracking system for software development projects"
 [Redmine]:          http://www.redmine.org/  "Flexible project management web application"
-[GitHub]:           http://en.wikipedia.org/wiki/GitHub  "Github (Wikipedia)"
+[GitHub]:           https://github.com/  "Github"
 [WebSVN]:           http://www.websvn.info/  "WebSVN (subversion browser)"
 [Jekyll]:           http://en.wikipedia.org/wiki/Jekyll_%28software%29
 [Spip]:             http://www.spip.net  "Spip content management system"
 [GIS]:              http://en.wikipedia.org/wiki/Geographic_information_system  "geographic information system (GIS) (Wikipedia)" 
+[textUI]:           http://en.wikipedia.org/wiki/Text-based_user_interface "Text-based user interface (Wikipedia)"
 
 <!--- R links       -->
 [R]:                http://www.r-project.org/ "The R Project for Statistical Computing" 
@@ -382,6 +400,8 @@ Ideell föreningar    <a id="ideellforeningar"></a>
 [soilwaterfun]:     https://r-forge.r-project.org/projects/soilwater/ "soilwaterfun (R package)" 
 [soilwaterptf]:     https://r-forge.r-project.org/projects/soilwater/ "soilwaterptf (R package)" 
 [soiltexture]:      http://cran.r-project.org/web/packages/soiltexture/ "soiltexture (R package)" 
+[easylegend]:       https://github.com/julienmoeys/easylegend "easylegend (R package)"
+[macroutils]:       http://www.slu.se/en/collaborative-centres-and-projects/centre-for-chemical-pesticides-ckb1/areas-of-operation-within-ckb/models/macro-52/ "macroutils R package (on MACRO 5.2 homepage)"
 [bibtex]:           http://cran.r-project.org/web/packages/bibtex "bibtex (R package)" 
 [markdown]:         http://cran.r-project.org/web/packages/markdown "markdown (R package)" 
 [RODBC]:            http://cran.r-project.org/web/packages/RODBC/ "RODBC (R package)"
@@ -397,8 +417,10 @@ Ideell föreningar    <a id="ideellforeningar"></a>
 [RPackages]:        http://cran.r-project.org/doc/manuals/R-exts.html "Writing R Extensions" 
 [S4]:               http://cran.r-project.org/doc/manuals/r-release/R-ints.html#S4-objects "S4 objects"
 [sp]:               http://cran.r-project.org/web/packages/sp/  "sp (R package)"
+[CRAN]:             http://cran.r-project.org/ "The Comprehensive R Archive Network"
+[r-forge]:          https://r-forge.r-project.org/ "R-Forge - central platform for R packages development"
 
-<!--- Wikipedia     -->
+<!--- Wikipedia     | not IT -->
 [Pedometrics]:      http://en.wikipedia.org/wiki/Pedometrics "pedometrics (Wikipedia)" 
 [Municipalities]:   http://en.wikipedia.org/wiki/Municipalities_of_Sweden "Municipalities of Sweden (Wikipedia)"
 [PTF]:              http://en.wikipedia.org/wiki/Pedotransfer_functions "Pedotransfer functions (Wikipedia)"
