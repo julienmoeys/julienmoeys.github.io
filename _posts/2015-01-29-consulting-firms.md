@@ -110,10 +110,14 @@ employees is generally given worldwide (when relevant).
 *   [ARCHE Consulting](http://www.arche-consulting.be/en/). (16 
     experts?)
 *   [EBRC](http://www.ebrc.de/).
-
+*   [Tessella](http://tessella.com/). Tessella is developping the 
+    FOCUS tools [CAKE][] and [SWAN][].
+    
 <!-- WCA (http://www.wca-environment.com) (about 15 employees). -->
 <!-- http://www.nufarm.com -->
 <!-- http://www.isagro.com -->
 <!-- http://www.cheminova.com -->
 
-
+<!-- List of links  -->
+[CAKE]:             http://tessella.com/products/demonstrate-chemical-satisfies-environmental-regulations/#.VP8eE-EwBYZ "Computer Assisted Kinetic Evaluation (CAKE)" 
+[SWAN]:             https://sites.google.com/site/surfacewaterassessment/home "Surface Water Assessment eNabler (SWAN)"
