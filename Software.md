@@ -39,7 +39,7 @@ Package [online help pages][docs.soiltexture].
 See also my [gallery of soil texture triangles]({% post_url 2015-02-06-texture-triangle-gallery %}), 
 created with this package.
 
-_Warning: `soiltexture` is the first R package I ever wrote. Its was 
+<small>_Warning: `soiltexture` is the first R package I ever wrote. Its was 
 first released in 2010. If the algorithms behind the packages 
 seems to work very well, I have realise since then that the packages 
 interface, and its documentation is quite awful and would need 
@@ -47,7 +47,7 @@ an important re-factoring. This was the purpose of the sub-project
 [ternaryplot][], aiming at providing a clean, object-oriented and 
 well documented interface for ternary plots and texture diagrams, 
 started one year ago. But I have so far not managed to finish it 
-(because of lack of time)._
+(because of lack of time)._</small>
 
 
 
