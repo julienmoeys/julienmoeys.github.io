@@ -32,7 +32,7 @@ av bekämpningsmedel öden i Sverige.
 
 
 
-### webbplatsinnehåll   <a id="sitecontent"></a>
+### Webbplatsinnehåll   <a id="sitecontent"></a>
 
 På denna hemsida presenterar jag min [curriculum vitae](/sv/CV/), 
 en list av [publikationer](/Publications/) (_på engelska_. 
