@@ -5,7 +5,7 @@ longtitle : Curriculum vitae
 weight    : 2.1
 ---
 
-Sidinnehall: 
+Sidinnehåll: 
 [Kontakt](#kontakt) &middot; 
 [Utbildning](#utbildning) &middot; 
 [Kompetensområden](#kompetensomraden) &middot; 
@@ -16,7 +16,7 @@ Sidinnehall:
 [Undervisning](#undervisning) &middot; 
 [Informatik](#informatik) &middot; 
 [Öppen källkod](#oppenkallkod) &middot; 
-[Ideell föreningar](#ideellforeningar) 
+[Ideella föreningar](#ideelleforeningar) 
 
 
 
@@ -25,7 +25,7 @@ Kontakt   <a id="kontakt"></a>
 
 Se [hemsidan](/sv/).
 
-![Time series of pesticide losses at the landscape scale]({{ site.url }}/assets/img/timeSeries_IPU_SW_avg-s.jpg "Time series of pesticide losses at the landscape scale")
+![Modellerad tidserie av bekämpningsmedel förluster på regionalskala]({{ site.url }}/assets/img/timeSeries_IPU_SW_avg-s.jpg "Modellerad tidserie av bekämpningsmedel förluster på regionalskala")
 
 
 
@@ -37,10 +37,10 @@ Utbildning    <a id="utbildning"></a>
     Med Pr. Yves Coquet.
 
 *   **'DEA' i markvetenskap** (INPL & [AgroParisTech][], 2004). 1 
-    år specialisering (cirka motsvarande en [M.Sc.][MSc]). 
+    år specialisering (motsvarande en [M.Sc.][MSc]). 
 
-*   **Jordbruksingenjör** ([ISA Lille][], 2003). 5 år utbildning 
-    (cirka motsvarande en [M.Sc.][MSc]).
+*   **Jordbruksingenjör** ([ISA Lille][], 2003). 5 år (motsvarande 
+    en [M.Sc.][MSc]).
 
 
 
@@ -49,20 +49,20 @@ Kompetensområden   <a id="kompetensomraden"></a>
 -------------------
 
 *   Modellering av **vattenflöde och transport av bekämpningsmedel** 
-    **i marken**;
+    **i marken**.
 
-*   Bedömning av diffusa **risker av bekämpningsmedelsförluster på** 
-    **regionalskala**;
+*   Bedömning av diffusa **förluster av bekämpningsmedel på** 
+    **regionalskala**.
 
-*   Robusta och effektiva **statistiker** (rutiner) för bedömning 
-    av modellparametrar med lätt tillgängliga miljödata 
-    (se [pedotransfer functions][PTF] och [pedometrics][]);
+*   Robusta och effektiva **statistiska metoder** (rutiner) för bedömning 
+    av modellparametrar med lät tillgänglig miljödata 
+    (se [pedotransfer functions][PTF] och [pedometrics][]).
 
-*   **Programmering-tekniker** ([R][]) för data hantering och analys, 
-    inklusive geografisk data;
+*   **Programmerings-tekniker** ([R][]) för data hantering och analys, 
+    inklusive geografisk data.
 
 Se även [beskrivningen](/Activities/) (_på engelska_) av mina 
-nuvarande "forskning och utveckling" och undervisning aktiviteter.
+nuvarande "forskning och utveckling" och undervisnings aktiviteter.
 
 
 
@@ -70,37 +70,37 @@ nuvarande "forskning och utveckling" och undervisning aktiviteter.
 Yrkeserfarenhet    <a id="yrkeserfarenhet"></a>
 ---------------
 
-*   _01/2011 - Idag_: **Forskningsingenjör på [SLU][]** (Uppsala), 
+*   _01/2011 - Idag_: **Forskningsingenjör** på [SLU][] (Uppsala), 
     [Institutionen för mark och miljö][sluMark], samt 
     [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB]. 
-    **Utveckling av ett regionalskala riskbedömningsverktyg** 
+    **Utveckling av ett riskbedömningsverktyg på regionalskala** 
     ([MACRO-SE][]) och **geografisk dataset för modellering av** 
-    **bekämpningsmedel förlustrisker**. 
+    **diffusa förluster av bekämpningsmedel**. 
     Med Pr. [Nick Jarvis][NickJarvis]. 
     
 *   Biträdande ansvarig för [verksamhetsområdet][verksamhetsgrupp] 
     "riskbedömningsverktyg" på 
     [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB].
     
-*   _01/2009 - 01/2011_: **Postdoktor på [SLU][]** (Uppsala), 
+*   _01/2009 - 01/2011_: **Postdoktor** på [SLU][] (Uppsala), 
     [Institutionen för mark och miljö][sluMark], samt 
     [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB]. 
-    Utveckling av ett regionalskala riskbedömningsverktyg 
-    ([MACRO-SE][]) för modellering av bekämpningsmedel 
-    förlustrisker. Med Pr. [Nick Jarvis][NickJarvis]. 
+    Utveckling av ett riskbedömningsverktyg ([MACRO-SE][]) på 
+    regionalskala modellering av diffusa förluster av 
+    bekämpningsmedel. Med Pr. [Nick Jarvis][NickJarvis]. 
     
-*   _01/2008 - 01/2009_: **Postdoktor på [SLU][]** (Uppsala), 
-    [Institutionen för mark och miljö][sluMark], Biogeofysik och 
-    vattenvård avdelning. [FOOTPRINT][] EU FP6 projekt. Validering 
-    av ett set av parameter bedömningsrutiner 
-    ([pedotransfer functions][PTF]) för modellering av vattenflöde 
-    och ämnestransport i marken. Med Pr. [Nick Jarvis][NickJarvis].
+*   _01/2008 - 01/2009_: **Postdoktor** på [SLU][] (Uppsala), 
+    [Institutionen för mark och miljö][sluMark]. [FOOTPRINT][] 
+    EU FP6 projekt. Validering av ett set av parametrar av 
+    bedömningsrutiner ([pedotransfer functions][PTF]) för modellering 
+    av vattenflöde och ämnestransport i marken. Med Pr. 
+    [Nick Jarvis][NickJarvis].
 
-*   _09/2003 - 12/2007_: **Doktorant** på [AgroParisTech][] 
-    ([Grignon][ThivervalGrignon], France), 
+*   _09/2003 - 12/2007_: **Doktorand** på [AgroParisTech][] 
+    ([Grignon][ThivervalGrignon], Frankrike), 
     [Institutionen för miljö och grödor (EGC)][EGC] ([INRA][] och 
     [AgroParisTech][]). "_Spatial variability and agro-pedological_ 
-    _determinisms of an herbicide fate in the surface horizon : an_ 
+    _determinisms of an herbicide fate in the surface horizon: an_ 
     _application to isoproturon in an agricultural catchment of the_ 
     _Beauce chartraine region, France_" (på franska).
 
@@ -111,9 +111,10 @@ Språk    <a id="sprak"></a>
 -----
 
 *   **Franska**: modersmål.
-*   **Engelska**: flytande. Avancerad språkfärdighet, inklusiv för 
-    vetenskapliga arbetsuppgifter (cirka ett [C2 nivå][CEFR]).
-*   **Svenska**: effektiva men begränsad språkfärdighet (cirka ett 
+*   **Engelska**: flytande. Avancerad språkfärdighet, inklusive 
+    kunskaper för vetenskapliga arbetsuppgifter (cirka en 
+    [C2 nivå][CEFR]).
+*   **Svenska**: effektiv men begränsad språkfärdighet (cirka en 
     [B2 nivå][CEFR]).
 *   **Tyska**: nybörjare. Folkuniversitetet kvällskurs [A1][CEFR]-2 
     (2014) och kvällskurs [A2][CEFR]-1 (2015, pågående).
@@ -124,19 +125,19 @@ Språk    <a id="sprak"></a>
 Projekt   <a id="projekt"></a>
 -------
 
-*   _2003 - 2007_. **[ESHEL][]** projekt (under min doktorand arbete). 
+*   _2003 - 2007_. **[ESHEL][]** projekt (under mitt doktorandarbete). 
     "_Charactersing the risk of contamination of the Beauce aquifer 
     by pesticides. Understanding the mechanisms of transport by 
     preferential flow and risk analysis at the watershed scale_". 
-    Projekt ledare: Pr. Yves Coquet ([AgroParisTech][]).
+    Projektledare: Pr. Yves Coquet ([AgroParisTech][]).
     
-*   _2008_. **[FOOTPRINT][]** (under min första postdoktor arbete), 
+*   _2008_. **[FOOTPRINT][]** (under min första tjänst som postdoktor), 
     ett [EU FP6][EUFP6] projekt. Utveckling av tre verktyg för 
     bedömning och förvaltning av bekämpningsmedel förlustrisker. 
-    Projekt ledare: [Igor Dubus][IgorDubus] ([BRGM][]).
+    Projektledare: [Igor Dubus][IgorDubus] ([BRGM][]).
     
 *   _2009 - now_. **[MACRO-SE][]**. 
-    Se [Yrkeserfarenhet](#yrkeserfarenhet) ovanför.
+    Se [Yrkeserfarenhet](#yrkeserfarenhet) ovan.
 
 *   _2013 - 2016_. **[PERFORM][]**. "_Modelling approaches to evaluate 
     and compare the environmental performance of innovative cropping 
@@ -147,10 +148,10 @@ Projekt   <a id="projekt"></a>
     Departementet][MAAF], för departementet:s [Écophyto][ECOPHYTO] 
     program.
 
-Jag har varit involverad i doktorandarbete av 
-[Abdul Ghafoor][AbdulGhafoor] (_disputerat i 2013_) och 
-[Karin Steffens][KarinSteffens] (_disputation är planerad för 
-2015_). Se [publikationslistan](#publikationer) nedan.
+Jag har varit involverad i doktorandarbeten av 
+[Abdul Ghafoor][AbdulGhafoor] (_disputerad i 2013_) och 
+[Karin Steffens][KarinSteffens] (_disputation är planerad till april_ 
+_2015_). Se [publikationslistan](#publikationer) nedan.
 
 
 
@@ -158,10 +159,10 @@ Jag har varit involverad i doktorandarbete av
 Publikationer    <a id="publikationer"></a>
 -------------
 
-Se min **list av publikationer** [på den här sidan](/Publications/) 
+Se min **lista av publikationer** [på den här sidan](/Publications/) 
 (på Engelska).
 
-Se även min list av publikationer på 
+Se även min lista av publikationer på 
 [&#9656; Google Scholar][jmGoogleScholar] eller 
 [&#9656; SLUPub][jmSLUPub] (SLU:s publikationsdatabas).
 
@@ -171,11 +172,11 @@ Se även min list av publikationer på
 Undervisning    <a id="undervisning"></a>
 ------------
 
-*   Dator-baserad modellering övningar för kursen 
+*   Dator-baserade modelleringsövningar för kursen 
     [Markvetenskap för miljö och vatten][MV0192] (_MV0192_), sedan 
     2011 (_utbildning på Engelska_).
     
-*   Dator-baserad modellering övningar för kursen 
+*   Dator-baserade modelleringsövningar för kursen 
     [Water and solute transport in the soil-plant-system][MV0198] 
     (_MV0198_), sedan 2010 (_utbildning på Engelska_).
 
@@ -187,8 +188,8 @@ Undervisning    <a id="undervisning"></a>
     [Focus on Soils and Water (FoSW)][FoSW] forskarskola (4 dagar, 
     2010).
     
-*   Fält praktik övningen om **beskrivning av markprofiler**. 
-    Två gång 3 timme. Studenter från första terminen av 
+*   Fältpraktik övningar om **beskrivning av markprofiler**. 
+    Två x 3 timmar. Studenter från första terminen av 
     Cergy-Pontoise College of International Agro-Development 
     ([ISTOM][]). 
 
@@ -203,11 +204,11 @@ d’Agriculture de Lille. -->
 Informatik    <a id="informatik"></a>
 ----------
 
-*   **[R][]** programmeringsspråk för statistik datakunskap:
+*   **[R][]** programmeringsspråk för statistiska beräkningar:
     
-    *   **Skriva och dokumentera [R paket][RPackages]** (utvecklare 
-        och underhållare av mer an 20 R paket. Jag använda [roxygen2][] 
-        och [inlinedocs][] dokumentationsgenerator.
+    *   **Skriva och dokumentera [R paket][RPackages]**. Utvecklare 
+        och underhållare av fler än 20 R-paket. Jag använder 
+        [roxygen2][] och [inlinedocs][] som dokumentationsgenerator.
         
     *   S3 and [S4][] **Objektorienterad programmering**.
     
@@ -222,8 +223,8 @@ Informatik    <a id="informatik"></a>
     
     *   Skriva [FORTRAN][] 'subroutines' (begränsad erfarenhet).
     
-    *   Jag har även **undervisa** två korta kurser om R programmering 
-        (se [ovanför](#undervisning)).
+    *   Jag har även **undervisat** två korta kurser om R programmering 
+        (se [ovan](#undervisning)).
     
 *   <a id="databas"></a>**Databas**: [SQLite][], [MySQL][], 
     [MS Access][MSAccess], [SQL][] och databas gränssnitt med [R][] 
@@ -235,16 +236,16 @@ Informatik    <a id="informatik"></a>
     
 *   **Webbutveckling**: Jag har små erfarenheter i **[PHP][]**, 
     **[HTML][]** och [CSS][] programmering (se mitt projekt 
-    [ssld](#ssld)). Jag nu använda [Jekyll][] webbplatsgenerator. 
-    Se också sektion om [Innehållshanteringssystem](#CMS) 
+    [ssld](#ssld)). Jag använder nu [Jekyll][] webbplatsgenerator. 
+    Se även sektionen om [Innehållshanteringssystem](#CMS) 
     nedan. 
     
-*   Jag har grundkunskaper om installering och underhållning av 
-    ett [Linux][] ([Ubuntu][]) **webbserver** och har man kan skriva 
-    små rutiner i **[bash][]** skriptspråket för att automatisera 
-    arbeten (inklusiv [cron][] arbeten). Jag har underhålla ett 
-    webbserver för den [Fransk Markvetenskap Föreningen][AFES] under 
-    tre år. (se [nedan](#ideellforeningar)).
+*   Jag har grundkunskaper om installation och underhållning av 
+    [Linux][] ([Ubuntu][]) **webbserver** och hur mindre rutiner 
+    i **[bash][]** skriptspråket skrivs, ämnade att automatisera 
+    arbeten (inklusive [cron][]-arbeten). Jag har varit ansvarig 
+    för en webbserver för den [Franska Markvetenskap Föreningen][AFES] 
+    under tre år. (se [nedan](#ideelleforeningar)).
     
 *   <a id="CMS"></a>**[Innehållshanteringssystem][CMS]** (CMS): 
     Jag nu använda [Jekyll][] webbplatsgenerator (inte ett CMS 
@@ -253,11 +254,11 @@ Informatik    <a id="informatik"></a>
     som [DokuWiki][] (wiki systemet), [Piwigo][] (bildgallerier) 
     och [Spip][], och testa flera andra CMS.
     
-*   **[Geografiskt informationssystem (GIS)][GIS]**: Se ovanför 
-    [sektionen om R GIS funktioner](#rgis). Jag också använda 
+*   **[Geografiskt informationssystem (GIS)][GIS]**: Se ovan, 
+    [sektionen om R GIS funktioner](#rgis). Jag använder 
     [ArcGIS][] regelbundet. 
     
-*   **Bildbehandling program**: Jag använda [Inkscape][] och 
+*   **Bildbehandlingsprogramer**: Jag använder [Inkscape][] och 
     [The Gimp][] regelbundet.
 
 
@@ -266,64 +267,64 @@ Informatik    <a id="informatik"></a>
 Öppen källkod    <a id="oppenkallkod"></a>
 -------------
 
-*   Skapare och underhållare av [R][] paket **[easylegend][]** 
-    (på [GitHub][]), ett paket för att skapa diagram 'aesthetics' 
-    och diagram förklaring för kvantitativa variabler eller 
-    kategoriska variabler med fokus på variabler som spänna över 
-    flera storleksordning (som _kartor av bekämpningsmedel 
-    koncentrationer_), och som behöver speciella icke-lineärt 
-    förklaring.
+*   Skapare och underhållare av [R][]-paketet **[easylegend][]** 
+    (på [GitHub][]), ett paket för att skapa och förklara 
+    kvantitativa variabler i diagramform eller 
+    kategoriska variabler med fokus på variabler som spänner över 
+    flera storleksordningar (som _kartor av bekämpningsmedels 
+    koncentrationer_), och som behöver en icke-lineär förklaring.
     
-*   Skapare och underhållare av [R][] paket **[soiltexture][]** 
+*   Skapare och underhållare av [R][]-paketet **[soiltexture][]** 
     ("_The Soil Texture Wizard_"; på [CRAN][]), ett paket för att 
-    skapa textur-triangel (diagram av marktextur) klassificera textur 
-    data, och tillföra 16 textur klassningssystemen från hela 
-    världen. Se också detta 
+    skapa textur-trianglar (diagram av marktextur), klassificera 
+    texturdata och att tillföra 17 texturklassningssystemen från 
+    hela världen. Se också detta 
     [textur-trianglar galleri]({% post_url 2015-02-06-texture-triangle-gallery %}).
     
-*   Skapare och underhållare av [R][] paket **[soilwaterfun][]** 
-    och **[soilwaterptf][]** (på [r-forge][]). Paket implementera 
+*   Skapare och underhållare av [R][]-paketer **[soilwaterfun][]** 
+    och **[soilwaterptf][]** (på [r-forge][]). Paketet implementerar 
     vanliga funktioner för [markens vattenbindning][soilWatRet] och 
-    [markens vattengenomsläpplighet][K], samt med några rutiner 
+    [markens vattengenomsläpplighet][K], samt även några rutiner 
     för att bedöma funktionsparametrar ([pedotransfer functions][PTF]).
     
 *   Skapare och underhållare av projektet **[easydb][]** ("_Easy_ 
-    _database interface_"), ett samling av [R][] paket gör det 
-    enklare att skriva eller läsa data från olika databassystemen 
+    _database interface_"), en samling av [R][]-paket som gör det 
+    enklare att skriva eller läsa data från olika databassystem 
     ([MySQL][], [SQLite][], [MS Access][MSAccess] och 
-    [MS Excel][MSExcel]). Paketet bygga på andra _lower level_ 
+    [MS Excel][MSExcel]). Paketet bygger på andra _lower level_ 
     paket [RODBC][], [DBI][] och [RSQlite][].
 
-*   Skapare och underhållare av [R][] paket **[macroutils][MACRO]**, 
-    ett samling av rutiner för bekämpningsmedel transport modell 
-    [MACRO][]. `macroutils` implementera rutiner för att importera 
-    och exportera MACRO binär in/ut-data filer, och för att 
-    visualisera de, och konvertera de. Ett enkelt 
-    [textbaserat användargränssnitt][textUI] ingå i paket för 
-    snabbt och effektivt operationer. 
+*   Skapare och underhållare av [R][]-paket **[macroutils][MACRO]**, 
+    en samling av rutiner för de som arbeta med "[MACRO][]" (ett 
+    modell av bekämpningsmedelstransport). Rutiner för att importera 
+    och exportera binära in/ut-data filer för modellen, samt att 
+    visualisera och konvertera de implementeras i paketet. Ett enkelt 
+    [textbaserat användargränssnitt][textUI] ingår i paketet för 
+    snabba och effektiva operationer. 
 
-*   Skapare av ett **geografisk register av markvetenskap forsknings** 
-    **avdelningar i världen** ([ssld][]). Geo-referera över 350 
-    avdelning i 67 länder. _Underhålls inte längre_
+*   Skapare av ett **geografiskt register av markvetenskap för** 
+    **forskningsavdelningar i världen** ("[ssld][]"). Geo-referera 
+    över 350 avdelningar i 67 länder. _Projektet underhålls inte_ 
+    _längre_.
     
-Se också [detta sida](/Software/) om mjukvaror jag utveckla.
+Se också [denna sida](/Software/) (_på engelska_) om mjukvaror som 
+jag har utvecklat.
 
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Ideell föreningar    <a id="ideellforeningar"></a>
+Ideella föreningar    <a id="ideelleforeningar"></a>
 -----------------
 
-*   Between 2011 and 2013 (and a a bit before that) I was **webmaster** 
-    and **member of the board** of the **[French Soil Science 
-    Association (AFES)][AFES]**. 
+*   Mellan 2011 och 2013 var jag webbmaster och styrelsemedlem för 
+    för den **[Franska Markvetenskap Föreningen][AFES] ("AFES")**.
     
-*   Between 2012 and 2014 I was **member of the board** of the Uppsala-based 
-    association **[Families for International Friendship 
-    (FIF)][FIF]**. This non-political and non-relegious association 
-    (founded in 1965) organises cultural and social activities for 
-    Uppsala foreign students and researchers, and aims at broadening 
-    mutual cultural understanding.
+*   Mellan 2012 och 2014 var jag styrelsemedlem i den Uppsalabaserade 
+    föreningen **[Families for International Friendship][FIF]  (FIF)**.
+    Denna opolitiska och oreligiösa föreningen (_grundad 1965_) 
+    organisera kulturella och sociala aktiviteter för utländska 
+    studenter och forskare och siktar att bredda ömsesidig kulturell
+    förståelse.
 
 
 

@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Julien Moeys
-tagline:             'Soil scientist | R programmer | Data analyst'
+tagline:             '&middot Soil scientist &middot R programmer &middot Data analyst'
 description:         'Julien Moeys homepage'
 url:                 http://julienmoeys.info/
 baseurl:             /

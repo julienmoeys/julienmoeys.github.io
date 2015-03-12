@@ -7,7 +7,7 @@ weight    : 1
 
 <img src="/assets/img/jmoeys-avatar-small.jpg" alt="Photo of Julien Moeys" class="right"/>
 <p class="lang"><a href="/" class="en">en</a> &middot; <a href="/fr/" class="fr">fr</a></p>
-Sidinnehall: [Presentation](#presentation) &middot; 
+Sidinnehåll: [Presentation](#presentation) &middot; 
 [Webbplatsinnehåll](#sitecontent) &middot; 
 [Kontaktinformation](#contact)
 
@@ -16,7 +16,7 @@ Sidinnehall: [Presentation](#presentation) &middot;
 ### Presentation   <a id="presentation"></a>
 
 Jag är forskningsingenjör (PhD) på [Institutionen för mark och miljö][sluMark] 
-([Biogeofysik och vattenvård][BGFVV] avdelning), på 
+([Biogeofysik och vattenvård][BGFVV] avdelningen), på 
 [Sveriges lantbruksuniversitet][SLU], i [Uppsala][], Sverige.
 
 Jag deltar i [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB], 
@@ -47,8 +47,8 @@ I am developing (mostly R packages), and some technical notes in the
 [IT lab book](/ITLabBook/) section (mostly about Ubuntu server 
 management). -->
 
-En list av [anteckningar](/Memos/) ('memo') finns också, om olika arbetsämne 
-(_på engelska_. 
+En list av [anteckningar](/Memos/) ('memo') finns också, om olika 
+arbetsämne (_på engelska_. 
 [modellering referenser]({% post_url 2015-01-29-modelling-references %}), 
 [vetenskapliga citat]({% post_url 2015-01-18-quotations %}) och 
 [konsultfirmor]({% post_url 2015-01-29-consulting-firms %})).
