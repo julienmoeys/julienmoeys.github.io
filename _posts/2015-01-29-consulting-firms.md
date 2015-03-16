@@ -11,7 +11,7 @@ Page content:
 The lists presented here are not intended to be extensive (rather 
 a memo). This page is updated from time to time.
 
-Last update: 2015-03-06
+Last update: 2015-03-16
 
 
 
@@ -71,9 +71,11 @@ Number of employees is generally given worldwide (when relevant).
 *   [Atrax](http://atrax.se/) (about 9 employees).
 *   [Inevco](http://www.inevco.se/).
 *   [DGE Mark och Miljö](http://www.dge.se/).
-*   [UVAT](www.uvat.se).
+*   [UVAT](http://www.uvat.se).
 *   [Metron](http://www.metron.se/).
 *   [Envix](http://www.envix.se).
+*   [Jordnära miljökonsult AB](http://jordnaramiljo.se/) (3 employees)
+*   [Liljemark Consulting](http://liljemark.net/) (7 employees)
 
 See also: [marksaneringsinfo.net/konsult](http://www.marksaneringsinfo.net/konsult.htm).
 
