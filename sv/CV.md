@@ -317,10 +317,10 @@ Ideella föreningar    <a id="ideelleforeningar"></a>
 -----------------
 
 *   Mellan 2011 och 2013 var jag webbmaster och styrelsemedlem för 
-    för den **[Franska Markvetenskap Föreningen][AFES] ("AFES")**.
+    den **[Franska Markvetenskap Föreningen][AFES] ("AFES")**.
     
 *   Mellan 2012 och 2014 var jag styrelsemedlem i den Uppsalabaserade 
-    föreningen **[Families for International Friendship][FIF]  (FIF)**.
+    föreningen **[Families for International Friendship][FIF] (FIF)**.
     Denna opolitiska och oreligiösa föreningen (_grundad 1965_) 
     organisera kulturella och sociala aktiviteter för utländska 
     studenter och forskare och siktar att bredda ömsesidig kulturell
