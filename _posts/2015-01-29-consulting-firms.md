@@ -93,6 +93,8 @@ employees is generally given worldwide (when relevant).
 *   [Exponent](http://www.exponent.com/) (about 900 employees).
 *   [Dr. Knoell Consult](http://www.knoell.com) (about 450 employees).
 *   [Eurofins](http://www.eurofins.com) (about 750 employees).
+*   [Tessella](http://tessella.com/). Tessella is developping the 
+    FOCUS tools [CAKE][] and [SWAN][] (over 200 employees in 2009).
 *   [RIFCON](http://www.rifcon.de) (130 scientists and technicians).
 *   [Waterborne Environmental, Inc](http://www.waterborne-env.com/)
 *   [Enviresearch Ltd](http://www.enviresearch.com/) (8 employees)
@@ -113,8 +115,6 @@ employees is generally given worldwide (when relevant).
 *   [ARCHE Consulting](http://www.arche-consulting.be/en/). (16 
     experts?)
 *   [EBRC](http://www.ebrc.de/).
-*   [Tessella](http://tessella.com/). Tessella is developping the 
-    FOCUS tools [CAKE][] and [SWAN][].
     
 <!-- WCA (http://www.wca-environment.com) (about 15 employees). -->
 <!-- http://www.nufarm.com -->
