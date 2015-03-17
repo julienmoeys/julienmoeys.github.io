@@ -19,6 +19,10 @@ _site
 *~
 *.RData
 
+#   "docs" subdomain directory
+docs/easylegend/
+docs/soiltexture/
+
 # OS or Editor folders
 .DS_Store
 ._*
