@@ -60,10 +60,10 @@ Number of employees is generally given worldwide (when relevant).
 
 *   [WSP](http://www.wspgroup.com) (about 31,500 employees).
 *   [Ramboll](http://www.ramboll.com/) (Rambøll. about 12,500 employees).
+*   [SWECO](http://www.swecogroup.com) (about 9,000 employees).
 *   [Golder Associates](http://www.golder.com) (about 8,000 employees).
 *   [ÅF](http://www.afconsult.com/) (about 7,000 employees).
 *   [Cowi](http://www.cowi.com) (about 6,200 employees).
-*   [Sweco](http://www.swecogroup.com) (about 4,900 employees).
 *   [Tyrens](http://www.tyrens.se) (about 1300 employees).
 *   [Geosigma](http://www.geosigma.se/).
 *   [Calluna](http://www.calluna.se/).
