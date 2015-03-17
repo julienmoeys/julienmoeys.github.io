@@ -1,7 +1,7 @@
 
 wd <- "D:/Users/julienm/Documents/_WORKS/_WEB/julienmoeys.github.io/docs" 
 
-pkg <- "easylegend"
+pkg <- "macroutils"
 
 # setwd( wd <- file.path( "D:/Users/julienm/Documents/_WORKS/_PROJECTS/r_packages", pkg, "www", pkg ) )
 
@@ -11,7 +11,6 @@ index    <- c( "00Index.html", "index.html" )
 setwd( file.path( wd, pkg ) )
 
 
-# library( "easylegend" ) 
 library( "knitr" ) 
 
 library( pkg, character.only = TRUE ) 
@@ -32,4 +31,19 @@ for( i in index ){
     rm( index.html )
 }   
 
+#   Remove the user and computer name from macroutilsInfo.html
+change <- c( "login", "user", "effective_user", "nodename" )    
+
+for( ch in change ){ 
+    chOld <- Sys.info()[[ ch ]]
+    chNew <- paste( rep( "*", nchar(chOld) ), collapse = "" )
+    
+    macroutilsInfo.html <- readLines( "macroutilsInfo.html" )
+    macroutilsInfo.html <- gsub( x = macroutilsInfo.html, 
+        pattern = chOld, replacement = chNew, 
+        fixed = TRUE ) 
+    writeLines( text = macroutilsInfo.html, con = "macroutilsInfo.html" ) 
+}   
+
+rm( macroutilsInfo.html )
 

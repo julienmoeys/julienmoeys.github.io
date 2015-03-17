@@ -22,6 +22,7 @@ _site
 #   "docs" subdomain directory
 docs/easylegend/
 docs/soiltexture/
+docs/macroutils/
 
 # OS or Editor folders
 .DS_Store
