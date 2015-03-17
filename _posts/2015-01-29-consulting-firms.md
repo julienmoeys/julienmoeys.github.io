@@ -11,7 +11,7 @@ Page content:
 The lists presented here are not intended to be extensive (rather 
 a memo). This page is updated from time to time.
 
-Last update: 2015-03-16
+Last update: 2015-03-17
 
 
 
@@ -89,6 +89,7 @@ pesticide-related environment issues (in Europe). Number of
 employees is generally given worldwide (when relevant).
 
 *   [Arcadis](http://www.arcadis.com) (about 28,000 employees).
+*   [Battelle](http://www.battelle.org) (about 22,000 employees).
 *   [Exponent](http://www.exponent.com/) (about 900 employees).
 *   [Dr. Knoell Consult](http://www.knoell.com) (about 450 employees).
 *   [Eurofins](http://www.eurofins.com) (about 750 employees).
