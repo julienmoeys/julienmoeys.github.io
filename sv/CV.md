@@ -34,7 +34,7 @@ Utbildning    <a id="utbildning"></a>
 ---------
 
 *   **Ph.D. i markvetenskap** ([AgroParisTech][], [EGC][], 2007). 
-    Med Pr. Yves Coquet.
+    Med Prof. Yves Coquet.
 
 *   **'DEA' i markvetenskap** (INPL & [AgroParisTech][], 2004). 1 
     år specialisering (motsvarande en [M.Sc.][MSc]). 
@@ -76,7 +76,7 @@ Yrkeserfarenhet    <a id="yrkeserfarenhet"></a>
     **Utveckling av ett riskbedömningsverktyg på regionalskala** 
     ([MACRO-SE][]) och **geografisk dataset för modellering av** 
     **diffusa förluster av bekämpningsmedel**. 
-    Med Pr. [Nick Jarvis][NickJarvis]. 
+    Med Prof. [Nick Jarvis][NickJarvis]. 
     
 *   Biträdande ansvarig för [verksamhetsområdet][verksamhetsgrupp] 
     "riskbedömningsverktyg" på 
@@ -87,13 +87,13 @@ Yrkeserfarenhet    <a id="yrkeserfarenhet"></a>
     [KompetensCentrum för Kemiska Bekämpningsmedel (CKB)][CKB]. 
     Utveckling av ett riskbedömningsverktyg ([MACRO-SE][]) på 
     regionalskala modellering av diffusa förluster av 
-    bekämpningsmedel. Med Pr. [Nick Jarvis][NickJarvis]. 
+    bekämpningsmedel. Med Prof. [Nick Jarvis][NickJarvis]. 
     
 *   _01/2008 - 01/2009_: **Postdoktor** på [SLU][] (Uppsala), 
     [Institutionen för mark och miljö][sluMark]. [FOOTPRINT][] 
     EU FP6 projekt. Validering av ett set av parametrar av 
     bedömningsrutiner ([pedotransfer functions][PTF]) för modellering 
-    av vattenflöde och ämnestransport i marken. Med Pr. 
+    av vattenflöde och ämnestransport i marken. Med Prof. 
     [Nick Jarvis][NickJarvis].
 
 *   _09/2003 - 12/2007_: **Doktorand** på [AgroParisTech][] 
@@ -102,7 +102,8 @@ Yrkeserfarenhet    <a id="yrkeserfarenhet"></a>
     [AgroParisTech][]). "_Spatial variability and agro-pedological_ 
     _determinisms of an herbicide fate in the surface horizon: an_ 
     _application to isoproturon in an agricultural catchment of the_ 
-    _Beauce chartraine region, France_" (på franska).
+    _Beauce chartraine region, France_" (på franska). Med Prof. Yves 
+    Coquet.
 
 
 
