@@ -11,7 +11,7 @@ Page content:
 The lists presented here are not intended to be extensive (rather 
 a memo). This page is updated from time to time.
 
-Last update: 2015-03-17
+Last update: 2015-03-22
 
 
 
@@ -77,7 +77,7 @@ Number of employees is generally given worldwide (when relevant).
 *   [Liljemark Consulting](http://liljemark.net/) (7 employees).
 *   [WEREC Water Ecosystem Recovery AB](http://www.werec.se/) (4 
     employees).
-*   [Jordnära miljökonsult AB](http://jordnaramiljo.se/) (3 employees)
+*   [Jordnära miljökonsult AB](http://jordnaramiljo.se/) (3 employees).
 
 See also: [marksaneringsinfo.net/konsult](http://www.marksaneringsinfo.net/konsult.htm).
 
