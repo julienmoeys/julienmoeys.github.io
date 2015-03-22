@@ -74,8 +74,10 @@ Number of employees is generally given worldwide (when relevant).
 *   [UVAT](http://www.uvat.se).
 *   [Metron](http://www.metron.se/).
 *   [Envix](http://www.envix.se).
+*   [Liljemark Consulting](http://liljemark.net/) (7 employees).
+*   [WEREC Water Ecosystem Recovery AB](http://www.werec.se/) (4 
+    employees).
 *   [Jordnära miljökonsult AB](http://jordnaramiljo.se/) (3 employees)
-*   [Liljemark Consulting](http://liljemark.net/) (7 employees)
 
 See also: [marksaneringsinfo.net/konsult](http://www.marksaneringsinfo.net/konsult.htm).
 
