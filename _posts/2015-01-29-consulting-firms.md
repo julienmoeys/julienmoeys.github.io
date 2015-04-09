@@ -59,27 +59,39 @@ companies operates on much broader area than 'just' environment.
 Number of employees is generally given worldwide (when relevant).
 
 *   [WSP](http://www.wspgroup.com) (about 31,500 employees).
-*   [Ramboll](http://www.ramboll.com/) (Rambøll. about 12,500 employees).
+*   [Ramboll](http://www.ramboll.com/) (Rambøll. about 12,500 
+    employees).
 *   [SWECO](http://www.swecogroup.com) (about 9,000 employees).
-*   [Golder Associates](http://www.golder.com) (about 8,000 employees).
+*   [Golder Associates](http://www.golder.com) (about 8,000 
+    employees).
 *   [ÅF](http://www.afconsult.com/) (about 7,000 employees).
 *   [Cowi](http://www.cowi.com) (about 6,200 employees).
 *   [Tyrens](http://www.tyrens.se) (about 1300 employees).
+*   [Orbicon](http://www.orbicon.com/) (~500 employees). See 
+    also [Orbicon Informatics](http://www.orbiconinformatics.com/).
 *   [Geosigma](http://www.geosigma.se/).
-*   [Calluna](http://www.calluna.se/).
-*   [Ekologigruppen](http://www.ekologigruppen.se) (about 25 employees).
+*   [Sandström Miljö & Säkerhetskonsult AB](http://www.sandstrom.se) 
+    (35 employees?)
+*   [Ekologigruppen](http://www.ekologigruppen.se) (about 
+    25 employees).
+*   [Ecocom](http://www.ecocom.se/). (14 employees).
 *   [Atrax](http://atrax.se/) (about 9 employees).
+*   [Naturföretaget](http://www.naturforetaget.se/). 
+    (3 employees).
+*   [Liljemark Consulting](http://liljemark.net/) (7 employees).
+*   [WEREC Water Ecosystem Recovery AB](http://www.werec.se/) 
+    (4 employees).
+*   [Jordnära miljökonsult AB](http://jordnaramiljo.se/). 
+    (3 employees).
+*   [Calluna](http://www.calluna.se/).
 *   [Inevco](http://www.inevco.se/).
 *   [DGE Mark och Miljö](http://www.dge.se/).
 *   [UVAT](http://www.uvat.se).
 *   [Metron](http://www.metron.se/).
 *   [Envix](http://www.envix.se).
-*   [Liljemark Consulting](http://liljemark.net/) (7 employees).
-*   [WEREC Water Ecosystem Recovery AB](http://www.werec.se/) (4 
-    employees).
-*   [Jordnära miljökonsult AB](http://jordnaramiljo.se/) (3 employees).
 
 See also: [marksaneringsinfo.net/konsult](http://www.marksaneringsinfo.net/konsult.htm).
+<!-- http://www.naturforetaget.se/ -->
 
 
 
@@ -93,13 +105,16 @@ employees is generally given worldwide (when relevant).
 *   [Arcadis](http://www.arcadis.com) (about 28,000 employees).
 *   [Battelle](http://www.battelle.org) (about 22,000 employees).
 *   [Exponent](http://www.exponent.com/) (about 900 employees).
-*   [Dr. Knoell Consult](http://www.knoell.com) (about 450 employees).
+*   [Dr. Knoell Consult](http://www.knoell.com) (about 450 
+    employees).
 *   [Eurofins](http://www.eurofins.com) (about 750 employees).
-*   [Tessella](http://tessella.com/). Tessella is developping the 
-    FOCUS tools [CAKE][] and [SWAN][] (over 200 employees in 2009).
+*   [Tessella](http://tessella.com/). Tessella is developing 
+    the FOCUS tools [CAKE][] and [SWAN][] (over 200 employees 
+    in 2009).
 *   [RIFCON](http://www.rifcon.de) (130 scientists and technicians).
 *   [Waterborne Environmental, Inc](http://www.waterborne-env.com/)
-*   [Enviresearch Ltd](http://www.enviresearch.com/) (8 employees)
+*   [Enviresearch Ltd](http://www.enviresearch.com/) (8 
+    employees)
 *   [TSGE Consulting](http://www.tsgeurope.com/)
 *   [ACTA](http://www.actagroup.com/).
 *   [toXel](http://www.toxcel.com).
@@ -109,13 +124,13 @@ employees is generally given worldwide (when relevant).
 *   [Cambridge Environmental Assessments 
     (CEA)](http://www.cea.adas.co.uk), ADAS UK Ltd.
 *   [SCC - Scientific Consulting Company](http://www.scc-gmbh.de).
-*   [WSC Regexperts](http://wsc-regexperts.com/en/) (WSC Scientific 
-    GmbH).
+*   [WSC Regexperts](http://wsc-regexperts.com/en/) (WSC
+    Scientific GmbH).
 *   [Compliance Services International (CSI)](http://www.complianceservices.com/)
-*   [Agchem Project Consulting Ltd (APC)](http://apc.eu.com). (Staff 
-    in Europe: 28)
-*   [ARCHE Consulting](http://www.arche-consulting.be/en/). (16 
-    experts?)
+*   [Agchem Project Consulting Ltd (APC)](http://apc.eu.com). 
+    (Staff in Europe: 28)
+*   [ARCHE Consulting](http://www.arche-consulting.be/en/). 
+    (16 experts?)
 *   [EBRC](http://www.ebrc.de/).
     
 <!-- WCA (http://www.wca-environment.com) (about 15 employees). -->
