@@ -11,7 +11,7 @@ Page content:
 The lists presented here are not intended to be extensive (rather 
 a memo). This page is updated from time to time.
 
-Last update: 2015-03-22
+Last update: 2015-04-14
 
 
 
@@ -91,6 +91,7 @@ Number of employees is generally given worldwide (when relevant).
 *   [Envix](http://www.envix.se).
 
 See also: [marksaneringsinfo.net/konsult](http://www.marksaneringsinfo.net/konsult.htm).
+
 <!-- http://www.naturforetaget.se/ -->
 
 
