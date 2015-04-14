@@ -1,5 +1,5 @@
-# Options +FollowSymlinks
 
+Options +FollowSymlinks
 RewriteEngine on
 
 # Redirect visitors from the old texture triangle gallery
@@ -21,10 +21,20 @@ RewriteRule ^(.*)$ http://julienmoeys.info/CV/? [NC,R=301,L]
 # Block Referrer Spam
 #   Notice it might be useless as Referrer Spam may target 
 #   Google Analytics directly, not the server...
-RewriteCond %{HTTP_REFERER} (bestwebsitesawards\.com) [NC,OR]
-RewriteCond %{HTTP_REFERER} (buttons-for-website\.com) [NC,OR]
-RewriteCond %{HTTP_REFERER} (darodar\.com) [NC,OR]
-RewriteCond %{HTTP_REFERER} (semalt\.com) [NC,OR]
-RewriteCond %{HTTP_REFERER} (adviceforum\.info) [NC]
-RewriteRule .* - [F]
+RewriteCond %{HTTP_REFERER} ^(.*)bestwebsitesawards\.com [NC,OR]
+# RewriteCond %{HTTP_REFERER} ^(.*)buttons-for-website\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ^(.*)darodar\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ^(.*)semalt\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ^(.*)adviceforum\.info [NC,OR]
+# RewriteCond %{HTTP_REFERER} best-seo-offer\.com [NC,OR]
+# RewriteCond %{HTTP_REFERER} best-seo-solution\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ^(.*)best-seo(.*)$ [NC,OR]
+# RewriteCond %{HTTP_REFERER} buttons-for-your-website\.com [NC]
+RewriteCond %{HTTP_REFERER} ^(.*)buttons-for(.*)$ [NC]
+RewriteRule .* %{HTTP_REFERER} [F]
+# This last rule presumably sends back the visitor 
+# to the referral site.
+
+# Good reference to test htaccess files:
+# http://htaccess.madewithlove.be/
 
