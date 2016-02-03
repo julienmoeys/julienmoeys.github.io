@@ -44,4 +44,6 @@ exclude:
     - "*.RData"
     - "*.BIB.bak"
     - docs/
+    - "*.version"
+
 
