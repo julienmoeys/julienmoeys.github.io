@@ -8,9 +8,14 @@ title  : 'FOOTPRINT reports'
 <!-- INSERT DATE HERE -->
 
 The [FOOTPRINT][] (Functional Tools for Pesticide Risk Assessment and Management) 
-project was an EU FP6 projects. A lot of materials have been published in the 
-project deliverables (reports). As these reports are not available online any 
-longer, I make them available to the public here.
+project was an EU FP6 projects. A lot of interesting materials have been published 
+in the project deliverables (reports). As these reports are not available online 
+any longer, I make them available to the public here.
+
+This is not an official site of the FOOTPRINT project. Please visit [the FOOTPRINT 
+homepage at the University of Hertfordshire][FOOTPRINT] for more information. 
+The [list of publications][FOOT_PUB] of the project can be of special interest 
+(but it does not contain the reports below).
 
 Download the [reference list (bibtext format)](/assets/bib/FOOTPRINT_REPORTS.BIB).
 
@@ -18,4 +23,5 @@ INSERT assets/bib/FOOTPRINT_REPORTS.BIB
 
 <!-- List of links -->
 [FOOTPRINT]:       http://sitem.herts.ac.uk/aeru/footprint/ "The FOOTPRINT Project (@University of Hertfordshire)"
+[FOOT_PUB]:        http://sitem.herts.ac.uk/aeru/footprint/public_foot.htm "FOOTPRINT publications (@University of Hertfordshire)"
 
