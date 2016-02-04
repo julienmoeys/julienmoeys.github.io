@@ -1,5 +1,5 @@
 # Linux # cd /home/${USER}/Documents/julienmoeys.info/julienmoeys.github.io && R CMD BATCH --vanilla "_posts/2016-02-03-footprint-reports.R" 
-# Win   # cd /D "D:/Users/%username%/Documents/_WORKS/_WEB/julienmoeys.github.io" & CMD BATCH --vanilla "_posts/2016-02-03-footprint-reports.R" 
+# Win   # cd /D "D:/Users/%username%/Documents/_WORKS/_WEB/julienmoeys.github.io" & R CMD BATCH --vanilla "_posts/2016-02-03-footprint-reports.R" 
 
 rm( list = ls( all = TRUE ) ) 
 
